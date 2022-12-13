@@ -1,0 +1,15 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Australia’s and America’s Great Capitals",
+        "sentence": "Australia’s capital city is Canberra (KAN-bruh). Canberra is the location of Australia’s Parliament House and High Court. The Parliament House is shaped like a boomerang, while the High Court overlooks a nearby lake. These buildings are similar in purpose to the U.S. Capitol and the Supreme Court building in our nation’s capital, Washington, D.C. In these buildings, people make and settle laws for their country. Canberra is also home to the National Library of Australia. It is very similar to the Library of Congress. Both are huge libraries with millions of books. The National Library of Australia has a copy of every book made in Australia. The Library of Congress has a copy of every book made in the U.S. The two buildings even look similar with many columns and windows, though the Library of Congress has a large domed tower and is much older. Both cities also have many monuments for people to see. These monuments teach about the history of the country. For example, Canberra has the Foundation Stone, which represents Australia’s six original colonies. In Washington, the Lincoln Monument honors our 16th president.",
+        "key_words":[
+            {"word": "word", "translation": "---", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": []
+   
+    
+}

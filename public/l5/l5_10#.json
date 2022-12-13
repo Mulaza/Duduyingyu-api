@@ -1,0 +1,15 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Cockroach Fun Facts",
+        "sentence": "When you think of interesting animals, you probably don’t picture the common cockroach. However, although this insect isn’t very pretty, it is pretty amazing. Cockroaches are good at getting around. They can squeeze into very tight spaces, which comes in handy when they want to go through cracks in walls. A baby cockroach can flatten itself as thin as a dime. They’re fast-moving bugs, too. Traveling at three miles an hour, a cockroach can easily scurry out of the way of looming feet or bug swatters. Cockroaches are also tough. They can survive a month without food and a week without water. They can even survive for weeks without a head! Next time you see a cockroach, show some respect for this common household pest. After all, the species has been around far longer than people—more than 280 million years, by some estimates. Now that’s an old bug!",
+        "key_words":[
+            {"word": "word", "translation": "---", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": []
+   
+    
+}

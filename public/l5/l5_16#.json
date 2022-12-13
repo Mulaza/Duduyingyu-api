@@ -1,0 +1,15 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "A Tasty Accident",
+        "sentence": "Antonio López de Santa Anna, a former president of Mexico, was living in New York in the late 1860s. While he was there, he met with Thomas Adams, an inventor. Santa Anna shared with Adams his idea for an invention—a new process, really, for making rubber products such as tires. Rubber is a natural product, but it’s expensive. Santa Anna thought it would be possible to blend the rubber with chicle (CHIK-ul), the milky juice of a tropical tree. That would make rubber products much cheaper to produce. Adams told Santa Anna that he was willing to try. Later, Santa Anna arranged for one ton of chicle to be shipped to Adams from Mexico. Adams experimented for about a year, trying different blends of rubber and chicle. None of them were successful. The inventor still had plenty of chicle left over and wondered what to do with it. Then he remembered Santa Anna’s stories of people chewing chicle in Mexico. So Adams made a small batch of chewing gum, packaged it, and sold it in local stores. The soft and springy gum was much tastier than other American gum, which was made from wax or tree sap. Although Adams’s original idea was a failure, chewing gum was a success. In 1871, he invented a machine to manufacture gum so he wouldn’t have to make it by hand. Adams enjoyed success for the rest of his life, and people have enjoyed all kinds of tasty gum for years.",
+        "key_words":[
+            {"word": "word", "translation": "---", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": []
+   
+    
+}

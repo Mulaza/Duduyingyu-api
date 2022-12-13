@@ -1,0 +1,15 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Flowers for Dinner",
+        "sentence": "Flowers might look pretty on the dinner table. But what about serving them for dinner? In many cultures all around the world, people eat and enjoy different flowers in a variety of dishes. The purple flowers of the lavender plant add a sweet lemon taste to chocolate cake or ice cream. Pansies, which have a grassy flavor, are a delicious addition to green salads. Bright yellow dandelion petals look cheerful when sprinkled over rice. Squash blossoms can be fried or stuffed with cheese. And the flowers of plants such as jasmine and chamomile are commonly used to make tea. Does snacking on flowers sound weird? You may have eaten flowers already without realizing it! Several vegetables, such as cauliflower and broccoli, are actually flower buds. Broccoli forms tiny yellow blossoms as it continues to grow. Artichokes, if left on their stalks, form fuzzy purple blooms. And asparagus tips open into small, pale green or white flowers. If you’re interested in eating flowers, be sure to learn about the plants first. Not every flower is safe to eat. The best way to find a tasty—and safe—flower is to visit your local grocery store.",
+        "key_words":[
+            {"word": "word", "translation": "---", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": []
+   
+    
+}

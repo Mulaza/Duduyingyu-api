@@ -1,0 +1,15 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "The Rarest Beef",
+        "sentence": "If you like hamburgers, you’d probably love a Kobe burger. Kobe beef comes from a rare type of cattle, called Wagyu. Technically, these cattle are raised only in the Kobe region of Japan. Kobe beef is prized for its flavor, tenderness, and delicate texture. Wagyu cattle are raised on small farms in the lush green countryside of Japan, where farmland is scarce and, therefore, expensive. The cows have a special diet and are treated well. They even receive massages as a way to relax them and stimulate their muscles. Compared to typical cattle ranches, which tend to be crowded, Kobe farms are like paradise for the cattle. As you might have guessed, Kobe beef is expensive. A Kobe steak can cost $100 per pound. By comparison, most American-raised beef costs less than $10 per pound. Today, some U.S. ranchers raise Wagyu cattle crossed with Angus beef cattle. They call the meat Kobe-style beef, and many meat-lovers believe that the meat is quite tasty—even though the cows probably do not get massages.",
+        "key_words":[
+            {"word": "word", "translation": "---", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": []
+   
+    
+}

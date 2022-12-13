@@ -1,0 +1,15 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "A Splashy Sport",
+        "sentence": "The sport of synchronized swimming is one part swimming, one part dancing, and one part gymnastics. This unique sport features a pair or a team of athletes performing acrobatic routines in the water. It is one of the most difficult sports because it requires concentration, athletic skill, endurance, and gracefulness. Professional synchronized swimmers need strong basic skills. They must be good swimmers and must be able to hold their breath underwater for long periods of time. They must also be able to tread water, supporting themselves without touching the bottom of the pool. The swimmers learn challenging moves, such as holding themselves upside down vertically in the water while moving their legs and rotating their bodies. They also learn how to lift their teammates out of the water and to stay perfectly in sync with each other. You will find synchronized swim teams throughout the country. They compete with each other and give performances to audiences of all ages. The sport of synchronized swimming is sure to take your breath away, whether you’re watching or participating.",
+        "key_words":[
+            {"word": "word", "translation": "---", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": []
+   
+    
+}

@@ -1,0 +1,126 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Big Feet",
+        "sentence": "There is a place in Tennessee where old elephants go to live. Each elephant has a best friend there. Most of these friends are other elephants. But an elephant named Tarra chose a dog for her best friend! Tarra and her dog friend, Bella, go everywhere together. The two friends eat together. They sleep together, too. One day, Bella hurt her back. She needed to rest. She rested inside the office of the people who care for the elephants. Bella rested for three weeks. She rested until her back was better. While Bella rested, Tarra stood by a gate outside the office. She stood and stood. The nice people carried Bella out to see Tarra. Bella’s tail wagged. The two friends visited every day until Bella could walk again. Tarra and Bella are together again. To show her love, the elephant pets Bella’s tummy with her great big foot!",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the best title for the passage?",
+            "hint": "N/A",
+            "answer": ["Great Friends"],
+            "card_data": [
+    
+                {
+                "text_en": "Big Feet",
+                "value": "Big Feet"
+                },
+                {
+                "text_en": "Sick Dogs",
+                "value": "Sick Dogs"
+                },
+                {
+                "text_en": "Great Friends",
+                "value": "Great Friends"
+                },
+                {
+                "text_en": "Animal Homes",
+                "value": "Animal Homes"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Tarra and Bella are both what?",
+            "hint": "N/A",
+            "answer": ["animals"],
+            "card_data": [
+    
+                {
+                "text_en": "big",
+                "value": "big"
+                },
+                {
+                "text_en": "small",
+                "value": "small"
+                },
+                {
+                "text_en": "people",
+                "value": "people"
+                },
+                {
+                "text_en": "animals",
+                "value": "animals"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Why does Bella rest in the office?",
+            "hint": "N/A",
+            "answer": ["Her back is hurt"],
+            "card_data": [
+    
+                {
+                "text_en": "Her back is hurt",
+                "value": "Her back is hurt"
+                },
+                {
+                "text_en": "She likes the people",
+                "value": "She likes the people"
+                },
+                {
+                "text_en": "She is mad at Tarra",
+                "value": "She is mad at Tarra"
+                },
+                {
+                "text_en": "Her friend went away",
+                "value": "Her friend went away"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "How does Tarra pet Bella?",
+            "hint": "N/A",
+            "answer": ["with her foot"],
+            "card_data": [
+    
+                {
+                "text_en": "with her trunk",
+                "value": "with her trunk"
+                },
+                {
+                "text_en": "with her foot",
+                "value": "with her foot"
+                },
+                {
+                "text_en": "with her tail",
+                "value": "with her tail"
+                },
+                {
+                "text_en": "with her ear",
+                "value": "with her ear"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

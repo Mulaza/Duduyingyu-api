@@ -1,0 +1,102 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Pigs in the sky",
+        "sentence": "Oh, my! I see a pig in the sky. The pig is flying by! A bug can fly. A duck can fly in the sky. Can a pig fly? Oh, my! A pig is in the sky. That pig can fly!",
+        "key_words":[
+            {"word": "pig", "translation": "猪", "speech": "名词", "example": "N/A" },
+            {"word": "sky", "translation": "天空", "speech": "名词", "example": "N/A" },
+            {"word": "flying", "translation": "飞着", "speech": "名词", "example": "N/A" },
+            {"word": "bug", "translation": "虫子", "speech": "名词", "example": "N/A" },
+            {"word": "duck", "translation": "鸭子", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the story about?",
+            "hint": "N/A",
+            "answer": ["A pig flies in the sky"],
+            "card_data": [
+    
+                {
+                "text_en": "A pig flies in the sky",
+                "value": "A pig flies in the sky"
+                },
+                {
+                "text_en": "A duck flies in the sky",
+                "value": "A duck flies in the sky"
+                },
+                {
+                "text_en": "A bug looks at the sky",
+                "value": "A bug looks at the sky"
+                },
+                {
+                "text_en": "A bird flies in the sky",
+                "value": "A bird flies in the sky"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which one tells about the pig?",
+            "hint": "N/A",
+            "answer": ["The pig is in the sky"],
+            "card_data": [
+    
+                {
+                "text_en": "The pig is on a farm",
+                "value": "The pig is on a farm"
+                },
+                {
+                "text_en": "The pig is in the sky",
+                "value": "The pig is in the sky"
+                },
+                {
+                "text_en": "The pig is in a zoo",
+                "value": "The pig is in a zoo"
+                },
+                {
+                "text_en": "The pig is in mud",
+                "value": "The pig is in mud"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which words show surprise?",
+            "hint": "N/A",
+            "answer": ["Oh. my!"],
+            "card_data": [
+    
+                {
+                "text_en": "Flying by",
+                "value": "Flying by"
+                },
+                {
+                "text_en": "Oh. my!",
+                "value": "Oh. my!"
+                },
+                {
+                "text_en": "In the sky",
+                "value": "In the sky"
+                },
+                {
+                "text_en": "I see a pig",
+                "value": "I see a pig"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+    }

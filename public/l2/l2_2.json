@@ -1,0 +1,134 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Hooray for snow!",
+        "sentence": "“Wake up, everyone! It snowed last night,” Niko called. A smile spread across his face. Niko opened the front door. Icy air rushed into the warm room. The world outside was white and soft. The car in the driveway looked like a great big pillow. The pine trees were wearing big white snow hats. Everything sparkled. Niko was putting on his jacket and boots when his brother ran in. “Hooray for snow!” he yelled. “Where are my gloves?” “Come back soon for breakfast,” the boys’ mother said. There were pancakes on the table when the boys came back into the house. They dropped their jackets by the door and sat down at the table. “Thanks, Mom!” Niko said. “We found a new place to sled.” “We are going to make a snowman!” Niko’s brother said. The boys’ mother laughed and said, “There’s nothing like snow.”",
+        "key_words":[
+            {"word": "driveway", "translation": "车道", "speech": "名词", "example": "N/A" },
+            {"word": "snow", "translation": "雪", "speech": "名词", "example": "N/A" },
+            {"word": "boots", "translation": "靴子", "speech": "名词", "example": "N/A" },
+            {"word": "putting", "translation": "穿着", "speech": "名词", "example": "N/A" },
+            {"word": "yelled", "translation": "大叫", "speech": "名词", "example": "N/A" },
+            {"word": "pancakes", "translation": "烙饼", "speech": "名词", "example": "N/A" },
+            {"word": "jackets", "translation": "夹克", "speech": "名词", "example": "N/A" },
+            {"word": "sled", "translation": "雪橇", "speech": "名词", "example": "N/A" },
+            {"word": "laughed", "translation": "笑", "speech": "名词", "example": "N/A" },
+            {"word": "snowman", "translation": "雪人", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the best title for the passage?",
+            "hint": "N/A",
+            "answer": ["Trees with Hats"],
+            "card_data": [
+    
+                {
+                "text_en": "Trees with Hats",
+                "value": "Trees with Hats"
+                },
+                {
+                "text_en": "The Big Breakfast",
+                "value": "The Big Breakfast"
+                },
+                {
+                "text_en": "The Lost Gloves",
+                "value": "The Lost Gloves"
+                },
+                {
+                "text_en": "Hooray for Snow!",
+                "value": "Hooray for Snow!"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which one is true about Niko?",
+            "hint": "N/A",
+            "answer": ["He likes snow"],
+            "card_data": [
+    
+                {
+                "text_en": "He is older than his brother",
+                "value": "He is older than his brother"
+                },
+                {
+                "text_en": "He wants a new sled",
+                "value": "He wants a new sled"
+                },
+                {
+                "text_en": "He likes snow",
+                "value": "He likes snow"
+                },
+                {
+                "text_en": "He fights with his brother",
+                "value": "He fights with his brother"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Where does the passage take place?",
+            "hint": "N/A",
+            "answer": ["Where Niko lives"],
+            "card_data": [
+    
+                {
+                "text_en": "At Niko’s school",
+                "value": "At Niko’s school"
+                },
+                {
+                "text_en": "Where Niko lives",
+                "value": "Where Niko lives"
+                },
+                {
+                "text_en": "At Niko’s friend’s house",
+                "value": "At Niko’s friend’s house"
+                },
+                {
+                "text_en": "Where Niko plays soccer",
+                "value": "Where Niko plays soccer"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which of these is make-believe?",
+            "hint": "N/A",
+            "answer": ["Children making snowmen"],
+            "card_data": [
+    
+                {
+                "text_en": "Trees wearing hats",
+                "value": "Trees wearing hats"
+                },
+                {
+                "text_en": "Boys wearing boots",
+                "value": "Boys wearing boots"
+                },
+                {
+                "text_en": "Mothers making pancakes",
+                "value": "Mothers making pancakes"
+                },
+                {
+                "text_en": "Children making snowmen",
+                "value": "Children making snowmen"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

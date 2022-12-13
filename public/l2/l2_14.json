@@ -1,0 +1,126 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "A Big Change",
+        "sentence": "A butterfly starts its life as a tiny egg on a leaf. It hatches into a little green caterpillar. The caterpillar eats and eats. It eats milkweed leaves. The caterpillar eats and grows for two weeks. It grows into a fat, fuzzy caterpillar. When the caterpillar stops eating, it finds a safe place to rest. It sticks itself to a leaf. Then it curls up to rest. It forms a sack, or cocoon, around itself. The caterpillar goes to sleep inside the cocoon. The caterpillar stays in its cocoon for about ten days. Its whole body changes. When it wakes up, it is not a caterpillar anymore. In the cocoon, the caterpillar turned into a butterfly! The butterfly unfolds its wings. The wings are orange and black. They are very beautiful. The butterfly stretches its wings. They are wet and can tear easily. The butterfly lets them dry in the sun. The wings become strong and straight. Then the butterfly flies away to find some flower nectar to drink.",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the best title for the passage?",
+            "hint": "N/A",
+            "answer": ["A Big Change"],
+            "card_data": [
+    
+                {
+                "text_en": "A Big Change",
+                "value": "A Big Change"
+                },
+                {
+                "text_en": "A Little Green Worm",
+                "value": "A Little Green Worm"
+                },
+                {
+                "text_en": "Colorful Wings",
+                "value": "Colorful Wings"
+                },
+                {
+                "text_en": "A Long Sleep",
+                "value": "A Long Sleep"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Why does a butterfly stretch its wings?",
+            "hint": "N/A",
+            "answer": ["to dry itself"],
+            "card_data": [
+    
+                {
+                "text_en": "to lay an egg",
+                "value": "to lay an egg"
+                },
+                {
+                "text_en": "to form a sack",
+                "value": "to form a sack"
+                },
+                {
+                "text_en": "to dry itself",
+                "value": "to dry itself"
+                },
+                {
+                "text_en": "to find a flower",
+                "value": "to find a flower"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What does the caterpillar do after it eats leaves and grows?",
+            "hint": "N/A",
+            "answer": ["sticks to a leaf"],
+            "card_data": [
+    
+                {
+                "text_en": "flies away",
+                "value": "flies away"
+                },
+                {
+                "text_en": "sticks to a leaf",
+                "value": "sticks to a leaf"
+                },
+                {
+                "text_en": "curls up to sleep",
+                "value": "curls up to sleep"
+                },
+                {
+                "text_en": "unfolds its wings",
+                "value": "unfolds its wings"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which sentence is an opinion?",
+            "hint": "N/A",
+            "answer": ["Butterfly wings are very beautiful"],
+            "card_data": [
+    
+                {
+                "text_en": "The tiny egg hatches into a little green caterpillar",
+                "value": "The tiny egg hatches into a little green caterpillar"
+                },
+                {
+                "text_en": "The caterpillar eats milkweed leaves",
+                "value": "The caterpillar eats milkweed leaves"
+                },
+                {
+                "text_en": "The caterpillar stays in its cocoon for about ten days.",
+                "value": "The caterpillar stays in its cocoon for about ten days."
+                },
+                {
+                "text_en": "Butterfly wings are very beautiful",
+                "value": "Butterfly wings are very beautiful"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

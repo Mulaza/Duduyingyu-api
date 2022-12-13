@@ -1,0 +1,104 @@
+{
+
+    "lesson":   {
+        "type": "sentence",  
+        "title": "My dog Mop",
+        "sentence": "Mop is my little dog. He likes me best. Mop hides. I find him. Mop jumps. I catch him. Mop plays in mud. I wash him. Mop sits on my lap. I pet him. Mop is my little dog. I like him best.",
+        "key_words":[
+            {"word": "little", "translation": "小", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "wash", "translation": "洗", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "mud", "translation": "泥", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "lap", "translation": "大腿部", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "dog", "translation": "狗", "speech": "名词", "example": "还有燕⻨片吗" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the story about?",
+            "hint": "N/A",
+            "answer": ["A girl and her dog"],
+            "card_data": [
+    
+                {
+                "text_en": "A girl and her dog",
+                "value": "A girl and her dog"
+                },
+                {
+                "text_en": "A dog and a boy",
+                "value": "A dog and a boy"
+                },
+                {
+                "text_en": "A big dog who hides",
+                "value": "A big dog who hides"
+                },
+                {
+                "text_en": "A girl and her cat",
+                "value": "A girl and her cat"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which one tells about Mop?",
+            "hint": "N/A",
+            "answer": ["Mop is a little dog"],
+            "card_data": [
+    
+                {
+                "text_en": "Mop is a little cat",
+                "value": "Mop is a little cat"
+                },
+                {
+                "text_en": "Mop is a big dog",
+                "value": "Mop is a big dog"
+                },
+                {
+                "text_en": "Mop is a little dog",
+                "value": "Mop is a little dog"
+                },
+                {
+                "text_en": "Mop is a big cat",
+                "value": "Mop is a big cat"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which one tells about the girl?",
+            "hint": "N/A",
+            "answer": ["She likes her dog"],
+            "card_data": [
+    
+                {
+                "text_en": "She plays in mud",
+                "value": "She plays in mud"
+                },
+                {
+                "text_en": "She jumps",
+                "value": "She jumps"
+                },
+                {
+                "text_en": "She likes her dog",
+                "value": "She likes her dog"
+                },
+                {
+                "text_en": "She sits",
+                "value": "She sits"
+                }
+           
+            ]
+        }
+    
+    ]
+    
+   
+    
+    }

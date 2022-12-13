@@ -1,0 +1,128 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Fish with Lights",
+        "sentence": "Deep in the ocean, it is very dark. Not much sunlight can go that far down. The fish in this water make their own light. The lights are part of their bodies. One kind of fish that makes light is the lanternfish. They are thin and small. Some are as short as a finger. The larger ones are as long as your arm. Some lanternfish are blue, green, or silver. The ones in the deepest water are brown or black. A yellow, green, or blue light shines from along their sides. Another fish that makes its own light is the anglerfish. The anglerfish is round like a ball. It is brown, gray, or black. Its mouth can open very wide, and its teeth are long and sharp. The light on the anglerfish is blue-green. It grows out of its forehead and waves back and forth. The fish uses this light to get its food. Smaller fish swim to the light. Snap! Fish with lights are one of the many wonders of our world.",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the passage about?",
+            "hint": "N/A",
+            "answer": ["fish that can shine"],
+            "card_data": [
+    
+                {
+                "text_en": "fish as pets",
+                "value": "fish as pets"
+                },
+                {
+                "text_en": "the deep ocean",
+                "value": "the deep ocean"
+                },
+                {
+                "text_en": "fish with sharp teeth",
+                "value": "fish with sharp teeth"
+                },
+                {
+                "text_en": "fish that can shine",
+                "value": "fish that can shine"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "When the anglerfish waves its light, and what happens ?",
+            "hint": "N/A",
+            "answer": ["its food swims to it"],
+            "card_data": [
+    
+                {
+                "text_en": "it makes pretty pictures",
+                "value": "it makes pretty pictures"
+                },
+                {
+                "text_en": "it can see in the dark",
+                "value": "it can see in the dark"
+                },
+                {
+                "text_en": "its food swims to it",
+                "value": "its food swims to it"
+                },
+                {
+                "text_en": "its mouth opens wide",
+                "value": "its mouth opens wide"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Where do fish with lights live ?",
+            "hint": "N/A",
+            "answer": ["the deep sea"],
+            "card_data": [
+    
+                {
+                "text_en": "the deep sea",
+                "value": "the deep sea"
+                },
+                {
+                "text_en": "big rivers",
+                "value": "big rivers"
+                },
+                {
+                "text_en": "the bright sun",
+                "value": "the bright sun"
+                },
+                {
+                "text_en": "dark caves",
+                "value": "dark caves"
+                }
+           
+            ]
+        },
+    
+    
+        {
+            "type":"scq",
+            "sentence": "How is the anglerfish different from the lanternfish?",
+            "hint": "N/A",
+            "answer": ["Its light grows out of its head"],
+            "card_data": [
+    
+                {
+                "text_en": "It is thin and small",
+                "value": "It is thin and small"
+                },
+                {
+                "text_en": "Its light grows out of its head",
+                "value": "Its light grows out of its head"
+                },
+                {
+                "text_en": "It has a row of lights on its side",
+                "value": "It has a row of lights on its side"
+                },
+                {
+                "text_en": "Its light can be yellow",
+                "value": "Its light can be yellow"
+                }
+           
+            ]
+        }
+    
+    ]
+    
+   
+    
+}

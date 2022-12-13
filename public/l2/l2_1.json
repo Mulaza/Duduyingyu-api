@@ -1,0 +1,136 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Rosa to the rescue",
+        "sentence": "One Saturday morning, Rosa opened the door. On the ground in front of her was a tiny baby bird. Rosa bent down to look at it. The bird did not move. Then its beak opened. “Mom! Dad!” Rosa called Her parents came to the door. The baby bird was standing now. “It must have fallen from its nest,” Rosa’s father said. “I’ll call the wildlife center. They will tell us what to do. You and Mom should just watch the little guy.” “We did the right thing,” said Dad when he returned. “It’s good that we didn’t take the bird into the house. We would have kept its parents from caring for it. Most likely, the parent birds are nearby. They are waiting for us to leave.” Rosa, Mom, and Dad went into the house and peeked out the window. “Look! I bet that’s the mother bird,” whispered Rosa. A large bird was poking gently at the baby. A moment later, both birds flew up to a low tree branch. “Yippee!” cried Rosa.",
+        "key_words":[
+            {"word": "Saturday", "translation": "星期六", "speech": "名词", "example": "N/A" },
+            {"word": "door", "translation": "门", "speech": "名词", "example": "N/A" },
+            {"word": "tiny", "translation": "极小的", "speech": "名词", "example": "N/A" },
+            {"word": "caring", "translation": "照顾", "speech": "名词", "example": "N/A" },
+            {"word": "returned", "translation": "回来", "speech": "名词", "example": "N/A" },
+            {"word": "fallen", "translation": "倒下的", "speech": "名词", "example": "N/A" },
+            {"word": "window", "translation": "窗户", "speech": "名词", "example": "N/A" },
+            {"word": "flew", "translation": "飞", "speech": "名词", "example": "N/A" },
+            {"word": "nearby", "translation": "附近的", "speech": "名词", "example": "N/A" },
+            {"word": "peeked", "translation": "偷看", "speech": "名词", "example": "N/A" },
+            {"word": "whispered", "translation": "低声说", "speech": "名词", "example": "N/A" }
+
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "Who is the passage about?",
+            "hint": "N/A",
+            "answer": ["A family who cares about animals"],
+            "card_data": [
+    
+                {
+                "text_en": "A family with a pet bird",
+                "value": "A family with a pet bird"
+                },
+                {
+                "text_en": "A family who cares about animals",
+                "value": "A family who cares about animals"
+                },
+                {
+                "text_en": "A father who makes a phone call",
+                "value": "A father who makes a phone call"
+                },
+                {
+                "text_en": "A mother who looks out the window",
+                "value": "A mother who looks out the window"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "How does Rosa know the bird is alive?",
+            "hint": "N/A",
+            "answer": ["It opens its mouth"],
+            "card_data": [
+    
+                {
+                "text_en": "It opens its eyes",
+                "value": "It opens its eyes"
+                },
+                {
+                "text_en": "It moves its head",
+                "value": "It moves its head"
+                },
+                {
+                "text_en": "It moves its wing",
+                "value": "It moves its wing"
+                },
+                {
+                "text_en": "It opens its mouth",
+                "value": "It opens its mouth"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "",
+            "hint": "N/A",
+            "answer": ["Happy"],
+            "card_data": [
+    
+                {
+                "text_en": "Sad",
+                "value": "Sad"
+                },
+                {
+                "text_en": "Quiet",
+                "value": "Quiet"
+                },
+                {
+                "text_en": "Worried",
+                "value": "Worried"
+                },
+                {
+                "text_en": "Happy",
+                "value": "Happy"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Where does the passage take place?",
+            "hint": "N/A",
+            "answer": ["At Rosa’s home"],
+            "card_data": [
+    
+                {
+                "text_en": "In a park",
+                "value": "In a park"
+                },
+                {
+                "text_en": "In an office",
+                "value": "In an office"
+                },
+                {
+                "text_en": "At Rosa’s home",
+                "value": "At Rosa’s home"
+                },
+                {
+                "text_en": "At Rosa’s school",
+                "value": "At Rosa’s school"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

@@ -1,0 +1,104 @@
+{
+
+"lesson": {
+        
+    "type": "sentence",  
+    "title": "The cat on my hat",
+    "sentence": "The cat is on my hat. The cat is fat. Scat, cat! Get away! Get away from my hat. Oh. no! Look at that! My hat is flat. What can I do about that?",
+    "key_words":[
+        {"word": "cat", "translation": "猫", "speech": "名词", "example": "N/A" },
+        {"word": "hat", "translation": "帽子", "speech": "名词", "example": "N/A" },
+        {"word": "flat", "translation": "平的", "speech": "名词", "example": "N/A" }
+
+
+    ]
+},
+
+
+"test": 
+[
+
+    {
+        "type":"scq",
+        "sentence": "What is the story about?",
+        "hint": "N/A",
+        "answer": ["A cat sits on a hat"],
+        "card_data": [
+
+            {
+            "text_en": "A cat takes a hat",
+            "value": "A cat takes a hat"
+            },
+            {
+            "text_en": "A cat eats a hat",
+            "value": "A cat eats a hat"
+            },
+            {
+            "text_en": "A cat sits on a hat",
+            "value": "A cat sits on a hat"
+            },
+            {
+            "text_en": "A cat wears a hat",
+            "value": "A cat wears a hat"
+            }
+       
+        ]
+    },
+
+    {
+        "type":"scq",
+        "sentence": "Which one tells about the cat?",
+        "hint": "N/A",
+        "answer": ["The cat is fat"],
+        "card_data": [
+
+            {
+            "text_en": "The cat is small",
+            "value": "The cat is small"
+            },
+            {
+            "text_en": "The cat is fat",
+            "value": "The cat is fat"
+            },
+            {
+            "text_en": "The cat sits under the hat",
+            "value": "The cat sits under the hat"
+            },
+            {
+            "text_en": "A cat eats a hat",
+            "value": "A cat eats a hat"
+            }
+       
+        ]
+    },
+
+    {
+        "type":"scq",
+        "sentence": "Which one tells about the hat?",
+        "hint": "N/A",
+        "answer": ["The hat is flat"],
+        "card_data": [
+
+            {
+            "text_en": "The hat is flat",
+            "value": "The hat is flat"
+            },
+            {
+            "text_en": "The hat is fat",
+            "value": "The hat is fat"
+            },
+            {
+            "text_en": "The hat is on the cat.",
+            "value": "The hat is on the cat."
+            },
+            {
+            "text_en": "The hat is red",
+            "value": "The hat is red"
+            }
+       
+        ]
+    }
+
+]
+
+}

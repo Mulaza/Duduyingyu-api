@@ -1,0 +1,138 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Atalanta",
+        "sentence": "Long ago and far away, there lived a princess named Atalanta. She was very beautiful. She was very strong, too. Atalanta loved to run. She could run fast. She could run faster than the men! When men asked Atalanta to marry them, she said no. She liked to be free. She liked to hunt and spend time in the woods. One day, Atalanta said that she would marry any man who could run faster than her. When the big race began, Atalanta took off. She flew like an arrow. She was winning the race. One of the men in the race had a plan. He carried three apples made of gold. During the race, he threw the apples in Atalanta’s path. Three times during the race, Atalanta stopped. She stopped to pick up a golden apple. The clever man ran past her. He won the race and became Atalanta’s husband.",
+        "key_words":[
+            {"word": "princess", "translation": "公主", "speech": "名词", "example": "N/A" },
+            {"word": "beautiful", "translation": "美丽的", "speech": "名词", "example": "N/A" },
+            {"word": "run", "translation": "跑步", "speech": "名词", "example": "N/A" },
+            {"word": "marry", "translation": "结婚", "speech": "名词", "example": "N/A" },
+            {"word": "free", "translation": "自由的", "speech": "名词", "example": "N/A" },
+            {"word": "hunt", "translation": "打猎", "speech": "名词", "example": "N/A" },
+            {"word": "woods", "translation": "森林", "speech": "名词", "example": "N/A" },
+            {"word": "faster", "translation": "更快", "speech": "名词", "example": "N/A" },
+            {"word": "race", "translation": "赛跑", "speech": "名词", "example": "N/A" },
+            {"word": "gold", "translation": "金", "speech": "名词", "example": "N/A" },
+            {"word": "threw", "translation": "扔", "speech": "名词", "example": "N/A" },
+            {"word": "clever", "translation": "聪明的", "speech": "名词", "example": "N/A" },
+            {"word": "stopped", "translation": "停止", "speech": "名词", "example": "N/A" }
+
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "Who is the passage about?",
+            "hint": "N/A",
+            "answer": ["a fast runner"],
+            "card_data": [
+    
+                {
+                "text_en": "a husband",
+                "value": "a husband"
+                },
+                {
+                "text_en": "a strong man",
+                "value": "a strong man"
+                },
+                {
+                "text_en": "a fast runner",
+                "value": "a fast runner"
+                },
+                {
+                "text_en": "a man who hunts",
+                "value": "a man who hunts"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Atalanta’s husband is very what ?",
+            "hint": "N/A",
+            "answer": ["clever"],
+            "card_data": [
+    
+                {
+                "text_en": "angry",
+                "value": "angry"
+                },
+                {
+                "text_en": "clever",
+                "value": "clever"
+                },
+                {
+                "text_en": "funny",
+                "value": "funny"
+                },
+                {
+                "text_en": "sad",
+                "value": "sad"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "When does the passage take place?",
+            "hint": "N/A",
+            "answer": ["long ago"],
+            "card_data": [
+    
+                {
+                "text_en": "long ago",
+                "value": "long ago"
+                },
+                {
+                "text_en": "last week",
+                "value": "last week"
+                },
+                {
+                "text_en": "yesterday",
+                "value": "yesterday"
+                },
+                {
+                "text_en": "one year ago",
+                "value": "one year ago"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Atalanta loses the race because what?",
+            "hint": "N/A",
+            "answer": ["she wants the golden apples"],
+            "card_data": [
+    
+                {
+                "text_en": "she has to run in the woods",
+                "value": "she has to run in the woods"
+                },
+                {
+                "text_en": "the men shoot fast arrows",
+                "value": "the men shoot fast arrows"
+                },
+                {
+                "text_en": "she wants the golden apples",
+                "value": "she wants the golden apples"
+                },
+                {
+                "text_en": "strong hunters stop her",
+                "value": "strong hunters stop her"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

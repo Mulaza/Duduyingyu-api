@@ -1,0 +1,141 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Annie Sullivan",
+        "sentence": "Annie Sullivan had a hard life. She grew up alone and very poor. Annie had trouble with her eyes, too. She could not see well.One day after Annie grew up, a family called her. They needed help with their daughter. Their little girl’s name was Helen Keller. Helen needed a teacher.Helen could not see. She could not hear either. She felt scared and alone. Annie wanted to help Helen. She wanted to be able to talk to her.Annie tried to teach Helen sign language, a way to make words with your hands. But Helen did not understand what Annie tried to teach her.One day by the outside water pump, Annie had an idea. She held one of Helen’s hands in the water. Then Annie traced W-A-T-E-R on Helen’s other hand again and again and again.At last, Helen understood. She learned that what she was feeling had a name. Helen was on her way to a lifetime of learning.",
+        "key_words":[
+            {"word": "poor", "translation": "贫穷的", "speech": "名词", "example": "N/A" },
+            {"word": "grew up", "translation": "长大了", "speech": "名词", "example": "N/A" },
+            {"word": "daughter", "translation": "女儿", "speech": "名词", "example": "N/A" },
+            {"word": "teacher", "translation": "教师", "speech": "名词", "example": "N/A" },
+            {"word": "help", "translation": "帮助", "speech": "名词", "example": "N/A" },
+            {"word": "able", "translation": "能够的", "speech": "名词", "example": "N/A" },
+            {"word": "felt scared", "translation": "感到害怕", "speech": "名词", "example": "N/A" },
+            {"word": "alone", "translation": "孤单", "speech": "名词", "example": "N/A" },
+            {"word": "water pump", "translation": "水泵", "speech": "名词", "example": "N/A" },
+            {"word": "hands", "translation": "手", "speech": "名词", "example": "N/A" },
+            {"word": "sign language", "translation": "手语", "speech": "名词", "example": "N/A" },
+            {"word": "understood", "translation": "理解", "speech": "名词", "example": "N/A" },
+            {"word": "traced", "translation": "画 (线）", "speech": "名词", "example": "N/A" },
+            {"word": "had an idea", "translation": "有个主意", "speech": "名词", "example": "N/A" },
+            {"word": "lifetime", "translation": "辈子长的", "speech": "名词", "example": "N/A" }
+
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the best title for the passage?",
+            "hint": "N/A",
+            "answer": ["A Good Teacher"],
+            "card_data": [
+    
+                {
+                "text_en": "How to Talk with Your Hands",
+                "value": "How to Talk with Your Hands"
+                },
+                {
+                "text_en": "Writing on Your Hand",
+                "value": "Writing on Your Hand"
+                },
+                {
+                "text_en": "A Good Teacher",
+                "value": "A Good Teacher"
+                },
+                {
+                "text_en": "How Water Feels",
+                "value": "How Water Feels"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Where does Helen learn her first word?",
+            "hint": "N/A",
+            "answer": ["by a water pump"],
+            "card_data": [
+    
+                {
+                "text_en": "near a river",
+                "value": "near a river"
+                },
+                {
+                "text_en": "in a kitchen",
+                "value": "in a kitchen"
+                },
+                {
+                "text_en": "in a bathtub",
+                "value": "in a bathtub"
+                },
+                {
+                "text_en": "by a water pump",
+                "value": "by a water pump"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "How does Helen feel before Annie comes?",
+            "hint": "N/A",
+            "answer": ["alone"],
+            "card_data": [
+    
+                {
+                "text_en": "alone",
+                "value": "alone"
+                },
+                {
+                "text_en": "funny",
+                "value": "funny"
+                },
+                {
+                "text_en": "happy",
+                "value": "happy"
+                },
+                {
+                "text_en": "angry",
+                "value": "angry"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Using hand signs helps people what?",
+            "hint": "N/A",
+            "answer": ["share ideas"],
+            "card_data": [
+    
+                {
+                "text_en": "see faces",
+                "value": "see faces"
+                },
+                {
+                "text_en": "share ideas",
+                "value": "share ideas"
+                },
+                {
+                "text_en": "hear sounds",
+                "value": "hear sounds"
+                },
+                {
+                "text_en": "smell foods",
+                "value": "smell foods"
+                }
+           
+            ]
+        }
+    
+    
+    ]
+   
+    
+}

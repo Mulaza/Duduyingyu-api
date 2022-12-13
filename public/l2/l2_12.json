@@ -1,0 +1,126 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Gas Cars or Electric Cars?",
+        "sentence": "Most cars run on gasoline, or “gas” for short. Gas cars work very well. There is a problem, though. Cars that run on gas make the air dirty. This dirty air is not good for people, animals, or trees. Gas cars make the air dirty for all living things. What can we do? We can drive electric cars! Electric cars do not use gas. These cars do not make the air dirty. These cars have battery packs that power their motors. The batteries can be charged many times. They can be used again and again. This makes electric cars great. But electric cars have problems, too. They are slower than gas cars. They are also very quiet. This means that some people cannot hear them when they drive by. These people may not think a car is coming. They have to be careful. People are finding ways to make electric cars better all the time. Maybe someday all cars will be electric. That would be much better for the world.",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the passage about?",
+            "hint": "N/A",
+            "answer": ["cars that do not use gas"],
+            "card_data": [
+    
+                {
+                "text_en": "people who ride bikes",
+                "value": "people who ride bikes"
+                },
+                {
+                "text_en": "cars that do not use gas",
+                "value": "cars that do not use gas"
+                },
+                {
+                "text_en": "cars that are good for trees",
+                "value": "cars that are good for trees"
+                },
+                {
+                "text_en": "people who do not need cars",
+                "value": "people who do not need cars"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Gas cars are bad for living things because they what?",
+            "hint": "N/A",
+            "answer": ["make the air dirty"],
+            "card_data": [
+    
+                {
+                "text_en": "make the air dirty",
+                "value": "make the air dirty"
+                },
+                {
+                "text_en": "are hard to hear",
+                "value": "are hard to hear"
+                },
+                {
+                "text_en": "have battery packs",
+                "value": "have battery packs"
+                },
+                {
+                "text_en": "are slower than electric cars",
+                "value": "are slower than electric cars"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which of these is a fact about electric cars?",
+            "hint": "N/A",
+            "answer": ["Electric cars use batteries"],
+            "card_data": [
+    
+                {
+                "text_en": "Electric cars never have problems",
+                "value": "Electric cars never have problems"
+                },
+                {
+                "text_en": "Electric cars use batteries",
+                "value": "Electric cars use batteries"
+                },
+                {
+                "text_en": "Electric cars are better for the world",
+                "value": "Electric cars are better for the world"
+                },
+                {
+                "text_en": "Batteries make electric cars great",
+                "value": "Batteries make electric cars great"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which of these is an opinion?",
+            "hint": "People need cars",
+            "answer": ["People need cars"],
+            "card_data": [
+    
+                {
+                "text_en": "Most cars run on gas",
+                "value": "Most cars run on gas"
+                },
+                {
+                "text_en": "People need cars",
+                "value": "People need cars"
+                },
+                {
+                "text_en": "Electric cars are slower than gas cars",
+                "value": "Electric cars are slower than gas cars"
+                },
+                {
+                "text_en": "Electric cars are quieter than gas cars",
+                "value": "Electric cars are quieter than gas cars"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

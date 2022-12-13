@@ -1,0 +1,126 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "The Owls and the Tree Cutter",
+        "sentence": "Last year in California, a team of tree cutters were sent to a job. A row of tall trees along a city road needed to be cut down. The trees were beautiful, but they were sick. They were dropping big branches. The branches were dangerous for cars on the road below. The workers started to cut down the trees. They cut down the first tree. They cut down the second and third trees. Then a worker climbed the fourth tree to cut off its lowest branch. He saw something surprising. Tucked into a hole in the tree were five baby barn owls! The worker climbed down the tree. He told the other workers about the baby owls. They cut down the other trees. They did not cut down the tree that had the baby owls in it. They waited. They waited until the owls were older. They did not cut down the tree until the owls flew away.",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "Which one would be a good title for the passage?",
+            "hint": "N/A",
+            "answer": ["The Owls and the Tree Cutter"],
+            "card_data": [
+    
+                {
+                "text_en": "All About Owls",
+                "value": "All About Owls"
+                },
+                {
+                "text_en": "How to Cut Down Trees",
+                "value": "How to Cut Down Trees"
+                },
+                {
+                "text_en": "Dangerous Trees",
+                "value": "Dangerous Trees"
+                },
+                {
+                "text_en": "Dangerous Trees",
+                "value": "Dangerous Trees"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "The tree cutter sees the owls before what happens?",
+            "hint": "N/A",
+            "answer": ["the owls can fly"],
+            "card_data": [
+    
+                {
+                "text_en": "the trees are sick",
+                "value": "the trees are sick"
+                },
+                {
+                "text_en": "the owls can fly",
+                "value": "the owls can fly"
+                },
+                {
+                "text_en": "the cutters go to the job",
+                "value": "the cutters go to the job"
+                },
+                {
+                "text_en": "the workers cut down any trees",
+                "value": "the workers cut down any trees"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What does the worker do after sees the baby owls?",
+            "hint": "N/A",
+            "answer": ["tells the other workers"],
+            "card_data": [
+    
+                {
+                "text_en": "builds a new nest",
+                "value": "builds a new nest"
+                },
+                {
+                "text_en": "cuts down the tree",
+                "value": "cuts down the tree"
+                },
+                {
+                "text_en": "tells the other workers",
+                "value": "tells the other workers"
+                },
+                {
+                "text_en": "drops some big branches",
+                "value": "drops some big branches"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What do the workers do after the owls fly away?",
+            "hint": "N/A",
+            "answer": ["cut down the last tree"],
+            "card_data": [
+    
+                {
+                "text_en": "cut down the last tree",
+                "value": "cut down the last tree"
+                },
+                {
+                "text_en": "leave the last tree standing",
+                "value": "leave the last tree standing"
+                },
+                {
+                "text_en": "call a doctor for the last tree",
+                "value": "call a doctor for the last tree"
+                },
+                {
+                "text_en": "wait for the last tree to grow",
+                "value": "wait for the last tree to grow"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

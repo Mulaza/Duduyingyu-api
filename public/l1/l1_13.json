@@ -1,0 +1,102 @@
+{
+
+    "lesson":     {
+        "type": "sentence",  
+        "title": "Hungry Mike",
+        "sentence": "Mike came to Lee's party. The boys first ran races. Next, Mike ate three hot dogs. He had red soda, too. Then, Mike ate a lot of cake. Soon after that, he played one more game. Then, Mike got sick. Lee's dad took Mike home. Mike went right to bed.",
+        "key_words":[
+            {"word": "party", "translation": "聚会", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "cake", "translation": "蛋糕", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "soda", "translation": "可乐", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "game", "translation": "游戏", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "sick", "translation": "生病", "speech": "名词", "example": "还有燕⻨片吗" }
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What does Mike do before he eats hot dogs?",
+            "hint": "N/A",
+            "answer": ["He runs races"],
+            "card_data": [
+    
+                {
+                "text_en": "He runs races",
+                "value": "He runs races"
+                },
+                {
+                "text_en": "He has some soda",
+                "value": "He has some soda"
+                },
+                {
+                "text_en": "He has red soda",
+                "value": "He has red soda"
+                },
+                {
+                "text_en": "He gets sick",
+                "value": "He gets sick"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What does Mike do soon after he eats a lot of cake?",
+            "hint": "N/A",
+            "answer": ["He plays one more game"],
+            "card_data": [
+    
+                {
+                "text_en": "He has red soda",
+                "value": "He has red soda"
+                },
+                {
+                "text_en": "He eats one more hot dog",
+                "value": "He eats one more hot dog"
+                },
+                {
+                "text_en": "He plays one more game",
+                "value": "He plays one more game"
+                },
+                {
+                "text_en": "He runs races",
+                "value": "He runs races"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What does Mike do last?",
+            "hint": "N/A",
+            "answer": ["He goes to bed"],
+            "card_data": [
+    
+                {
+                "text_en": "He runs races",
+                "value": "He runs races"
+                },
+                {
+                "text_en": "He goes to a party",
+                "value": "He goes to a party"
+                },
+                {
+                "text_en": "He eats a lot of food",
+                "value": "He eats a lot of food"
+                },
+                {
+                "text_en": "He goes to bed",
+                "value": "He goes to bed"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

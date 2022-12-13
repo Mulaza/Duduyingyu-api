@@ -1,0 +1,126 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Apple Pie",
+        "sentence": "I love to visit Grandma. Grandma has an apple tree. When the apples are ripe, we pick some. We lean a ladder against the tree. I climb up the ladder while Grandma holds a basket below. I pick apples and hand them to Grandma. We carry the basket into the kitchen and rinse the apples. Then we sit at Grandma’s table to peel and slice the apples. We talk while we work. I tell Grandma about school and my friends. She tells me stories about when she was young. Some of her stories are funny. I watch Grandma make the crust. She rolls the dough very thin. Then she lays it in a pan. Next, we add the apples. We add sugar and cinnamon, too. Grandma puts the top crust over them. We make marks on the top. They look pretty. Into the oven goes our pie. I can hardly wait to taste it. Then Grandpa walks into the kitchen. “What smells so good?” Grandpa asks. “Wait and see!” I say.",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the passage about?",
+            "hint": "N/A",
+            "answer": ["baking a pie"],
+            "card_data": [
+    
+                {
+                "text_en": "baking a pie",
+                "value": "baking a pie"
+                },
+                {
+                "text_en": "canning fruit",
+                "value": "canning fruit"
+                },
+                {
+                "text_en": "telling stories",
+                "value": "telling stories"
+                },
+                {
+                "text_en": "climbing trees",
+                "value": "climbing trees"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Why does the child climb a ladder?",
+            "hint": "N/A",
+            "answer": ["to reach the apples"],
+            "card_data": [
+    
+                {
+                "text_en": "to see far and wide",
+                "value": "to see far and wide"
+                },
+                {
+                "text_en": "to listen to stories",
+                "value": "to listen to stories"
+                },
+                {
+                "text_en": "to talk about friends",
+                "value": "to talk about friends"
+                },
+                {
+                "text_en": "to reach the apples",
+                "value": "to reach the apples"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What does Grandma do after she rolls the dough?",
+            "hint": "N/A",
+            "answer": ["lays it in a pan"],
+            "card_data": [
+    
+                {
+                "text_en": "lays it in a pan",
+                "value": "lays it in a pan"
+                },
+                {
+                "text_en": "puts it in a basket",
+                "value": "puts it in a basket"
+                },
+                {
+                "text_en": "washes it in the sink",
+                "value": "washes it in the sink"
+                },
+                {
+                "text_en": "takes it from the oven",
+                "value": "takes it from the oven"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which sentence is a fact?",
+            "hint": "N/A",
+            "answer": ["We talk while we work"],
+            "card_data": [
+    
+                {
+                "text_en": "The kitchen smells nice",
+                "value": "The kitchen smells nice"
+                },
+                {
+                "text_en": "We talk while we work",
+                "value": "We talk while we work"
+                },
+                {
+                "text_en": "Some of her stories are funny",
+                "value": "Some of her stories are funny"
+                },
+                {
+                "text_en": "The marks on the crust look pretty",
+                "value": "The marks on the crust look pretty"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

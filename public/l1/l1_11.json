@@ -1,0 +1,101 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Jack and Cam",
+        "sentence": "Jack and Cam want to find a box. A map shows them what to do. First, they row a boat across the bay. Next, they walk one mile. Then, they look for a red flag in the grass. Last, they dig under the flag. Cam and Jack find the box! They look inside. The box is full of gold. 'Cool!' says Cam.",
+        "key_words":[
+            {"word": "box", "translation": "纸箱", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "map", "translation": "地图", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "bay", "translation": "海湾", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "gold", "translation": "金", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "grass", "translation": "草", "speech": "名词", "example": "还有燕⻨片吗" }
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the first thing Cam and Jack do to find the box?",
+            "hint": "N/A",
+            "answer": ["They make a map"],
+            "card_data": [
+    
+                {
+                "text_en": "They row a boat",
+                "value": "They row a boat"
+                },
+                {
+                "text_en": "They walk a mile",
+                "value": "They walk a mile"
+                },
+                {
+                "text_en": "Dig under a flag",
+                "value": "Dig under a flag"
+                },
+                {
+                "text_en": "They make a map",
+                "value": "They make a map"
+                }
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What do Jack and Cam do last?",
+            "hint": "N/A",
+            "answer": ["They dig under the flag in the grass"],
+            "card_data": [
+    
+                {
+                "text_en": "They dig under the flag in the grass",
+                "value": "They dig under the flag in the grass"
+                },
+                {
+                "text_en": "They walk one mile",
+                "value": "They walk one mile"
+                },
+                {
+                "text_en": "They look for a flag in the grass",
+                "value": "They look for a flag in the grass"
+                },
+                {
+                "text_en": "They put a flag in the grass",
+                "value": "They put a flag in the grass"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What do Cam and Jack do after they row across the bay?",
+            "hint": "N/A",
+            "answer": ["They walk a mile"],
+            "card_data": [
+    
+                {
+                "text_en": "They run a mile",
+                "value": "They run a mile"
+                },
+                {
+                "text_en": "They dig a mile",
+                "value": "They dig a mile"
+                },
+                {
+                "text_en": "They row a mile",
+                "value": "They row a mile"
+                },
+                {
+                "text_en": "They walk a mile",
+                "value": "They walk a mile"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+    }

@@ -1,0 +1,102 @@
+{
+
+    "lesson":     {
+        "type": "sentence",  
+        "title": "Eva's birthday",
+        "sentence": "Eva, open your gift! First, pull off the tape. Next, rip off the paper. Then, lift off the top to the box. There is a lot of paper inside. Pull out that paper. Finally, dig your hands into the box. There is the toy you want!",
+        "key_words":[
+            {"word": "gift", "translation": "礼物", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "tape", "translation": "磁带", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "paper", "translation": "纸", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "toy", "translation": "玩具", "speech": "名词", "example": "还有燕⻨片吗" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "Eva pulls off the tape. Next,she will?",
+            "hint": "N/A",
+            "answer": ["Lift off the top to the box"],
+            "card_data": [
+    
+                {
+                "text_en": "Dig inside the box",
+                "value": "Dig inside the box"
+                },
+                {
+                "text_en": "Rip off the paper",
+                "value": "Rip off the paper"
+                },
+                {
+                "text_en": "Lift off the top to the box",
+                "value": "Lift off the top to the box"
+                },
+                {
+                "text_en": "Play with the gift",
+                "value": "Play with the gift"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What must Eva do after she rips off the paper?",
+            "hint": "N/A",
+            "answer": ["Pull out the paper"],
+            "card_data": [
+    
+                {
+                "text_en": "Pull out the paper",
+                "value": "Pull out the paper"
+                },
+                {
+                "text_en": "Find the box",
+                "value": "Find the box"
+                },
+                {
+                "text_en": "Lift off the top to the box",
+                "value": "Lift off the top to the box"
+                },
+                {
+                "text_en": "Pull off the tape",
+                "value": "Pull off the tape"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What must Eva do last to get the gift?",
+            "hint": "N/A",
+            "answer": ["Pull out the paper"],
+            "card_data": [
+    
+                {
+                "text_en": "Dig into the box",
+                "value": "Dig into the box"
+                },
+                {
+                "text_en": "Pull out the paper",
+                "value": "Pull out the paper"
+                },
+                {
+                "text_en": "Pull off the tape",
+                "value": "Pull off the tape"
+                },
+                {
+                "text_en": "Say thank you",
+                "value": "Say thank you"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+    }

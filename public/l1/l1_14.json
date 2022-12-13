@@ -1,0 +1,102 @@
+{
+
+    "lesson":     {
+        "type": "sentence",  
+        "title": "A robin's nest",
+        "sentence": "A robin works hard to make a nest. She first gets small sticks. And she gets weeds. Then, she puts the weeds with the sticks. They look like a circle. Next, the robin adds mud. The mud makes the nest strong. Last, a robin finds a lot of grass. She puts the grass inside the nest. The grass makes the nest soft.",
+        "key_words":[
+            {"word": "nest", "translation": "鸟巢", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "sticks", "translation": "棍枝", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "robin", "translation": "美洲知更鸟", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "mud", "translation": "泥", "speech": "名词", "example": "还有燕⻨片吗" }
+        ]
+    }
+,
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What does a robin do first to make a nest?",
+            "hint": "N/A",
+            "answer": ["She gets sticks and weeds"],
+            "card_data": [
+    
+                {
+                "text_en": "She gets mud",
+                "value": "She gets mud"
+                },
+                {
+                "text_en": "She gets sticks and weeds",
+                "value": "She gets sticks and weeds"
+                },
+                {
+                "text_en": "She gets soft grass",
+                "value": "She gets soft grass"
+                },
+                {
+                "text_en": "She makes a circle",
+                "value": "She makes a circle"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What happens after the circle of weeds and sticks is made?",
+            "hint": "N/A",
+            "answer": ["Mud is added"],
+            "card_data": [
+    
+                {
+                "text_en": "Mud is added",
+                "value": "Mud is added"
+                },
+                {
+                "text_en": "The robin rests",
+                "value": "The robin rests"
+                },
+                {
+                "text_en": "An egg is added",
+                "value": "An egg is added"
+                },
+                {
+                "text_en": "Grass is added",
+                "value": "Grass is added"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What does a robin do last?",
+            "hint": "N/A",
+            "answer": ["She puts grass inside the nest"],
+            "card_data": [
+    
+                {
+                "text_en": "She sings a song",
+                "value": "She sings a song"
+                },
+                {
+                "text_en": "She puts grass inside the nest",
+                "value": "She puts grass inside the nest"
+                },
+                {
+                "text_en": "She adds mud to the nest",
+                "value": "She adds mud to the nest"
+                },
+                {
+                "text_en": "She lays an egg",
+                "value": "She lays an egg"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

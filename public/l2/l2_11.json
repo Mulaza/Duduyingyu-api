@@ -1,0 +1,126 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Packing for a Picnic",
+        "sentence": "It’s a sunny Saturday. Let’s take a picnic to the park. What should we pack? We’ll need some things besides food. A blanket to sit on would be good. Napkins will keep our clothes and fingers clean. It would be smart to bring a sweater or jacket along in case a cool breeze blows. Now it’s time to pack the food. Sandwiches are good for picnics. They are easy to hold. You can pack them in little bags. Fruit makes a nice treat. Apples, oranges, and bananas are all easy to eat. Let’s take some chips and cookies, too. Oh, don’t forget to bring drinks along for when we start to get thirsty. A ball to play catch with might be a good idea, too. If it is breezy, we can fly a kite. Let’s take a music player. We can dance to our favorite tunes. With tasty food and fun things to do, we are sure to have fun!",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the passage about?",
+            "hint": "N/A",
+            "answer": ["getting ready for a picnic"],
+            "card_data": [
+    
+                {
+                "text_en": "cleaning up after a picnic",
+                "value": "cleaning up after a picnic"
+                },
+                {
+                "text_en": "getting ready for a picnic",
+                "value": "getting ready for a picnic"
+                },
+                {
+                "text_en": "playing a game at a picnic",
+                "value": "playing a game at a picnic"
+                },
+                {
+                "text_en": "flying a kite at a picnic",
+                "value": "flying a kite at a picnic"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "The passage says that sandwiches are good to bring because they what?",
+            "hint": "N/A",
+            "answer": ["are easy to hold"],
+            "card_data": [
+    
+                {
+                "text_en": "make a nice treat",
+                "value": "make a nice treat"
+                },
+                {
+                "text_en": "are easy to hold",
+                "value": "are easy to hold"
+                },
+                {
+                "text_en": "are good for your body",
+                "value": "are good for your body"
+                },
+                {
+                "text_en": "make your friends happy",
+                "value": "make your friends happy"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What is the last thing the passage says you might want to bring to the picnic?",
+            "hint": "N/A",
+            "answer": ["a music player"],
+            "card_data": [
+    
+                {
+                "text_en": "a music player",
+                "value": "a music player"
+                },
+                {
+                "text_en": "drinks",
+                "value": "drinks"
+                },
+                {
+                "text_en": "a kite",
+                "value": "a kite"
+                },
+                {
+                "text_en": "a blanket",
+                "value": "a blanket"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which sentence from the passage is a fact?",
+            "hint": "N/A",
+            "answer": ["If it is breezy, we can fly a kite"],
+            "card_data": [
+    
+                {
+                "text_en": "A blanket to sit on would be good",
+                "value": "A blanket to sit on would be good"
+                },
+                {
+                "text_en": "Sandwiches are good for picnics",
+                "value": "Sandwiches are good for picnics"
+                },
+                {
+                "text_en": "Fruit makes a nice treat",
+                "value": "Fruit makes a nice treat"
+                },
+                {
+                "text_en": "If it is breezy, we can fly a kite",
+                "value": "If it is breezy, we can fly a kite"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

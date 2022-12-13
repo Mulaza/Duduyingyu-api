@@ -1,0 +1,136 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Dolphins",
+        "sentence": "When a dolphin lifts its face from the water, it seems to be smiling at us. Dolphins look happy when they jump out of the water. They look very beautiful, too. Their smooth bodies shine in the sun. Dolphins are playful. They play with people. They play with each other. They can blow bubble rings. Then they push the rings with their noses! Some dolphins live in water parks. They learn how to do many tricks. They can jump through hoops. They can carry big balls on the tips of their noses. They can move on top of the water using their strong tails. People smile and clap. Dolphins have helped us, too. They have pushed swimmers to shore or kept them safe from sharks. They have warned ships of danger. We should help dolphins, too. We should try not to hurt dolphins with our boats. We should keep their ocean home clean.",
+        "key_words":[
+            {"word": "poor", "translation": "-", "speech": "名词", "example": "N/A" },
+            {"word": "poor", "translation": "-", "speech": "名词", "example": "N/A" },
+            {"word": "poor", "translation": "-", "speech": "名词", "example": "N/A" },
+            {"word": "poor", "translation": "-", "speech": "名词", "example": "N/A" },
+            {"word": "poor", "translation": "-", "speech": "名词", "example": "N/A" },
+            {"word": "poor", "translation": "-", "speech": "名词", "example": "N/A" },
+            {"word": "poor", "translation": "-", "speech": "名词", "example": "N/A" },
+            {"word": "poor", "translation": "-", "speech": "名词", "example": "N/A" },
+            {"word": "poor", "translation": "-", "speech": "名词", "example": "N/A" }
+
+         
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the passage about?",
+            "hint": "N/A",
+            "answer": ["what dolphins do"],
+            "card_data": [
+    
+                {
+                "text_en": "what dolphins do",
+                "value": "what dolphins do"
+                },
+                {
+                "text_en": "when dolphins eat",
+                "value": "when dolphins eat"
+                },
+                {
+                "text_en": "where dolphins go",
+                "value": "where dolphins go"
+                },
+                {
+                "text_en": "why dolphins jump",
+                "value": "why dolphins jump"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which one tells that dolphins help people?",
+            "hint": "N/A",
+            "answer": ["They save swimmers"],
+            "card_data": [
+    
+                {
+                "text_en": "They look beautiful",
+                "value": "They look beautiful"
+                },
+                {
+                "text_en": "They save swimmers",
+                "value": "They save swimmers"
+                },
+                {
+                "text_en": "They walk on their tails",
+                "value": "They walk on their tails"
+                },
+                {
+                "text_en": "They play with each other",
+                "value": "They play with each other"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Because dolphins do tricks, what happens?",
+            "hint": "N/A",
+            "answer": ["people like to watch them"],
+            "card_data": [
+    
+                {
+                "text_en": "they look beautiful",
+                "value": "they look beautiful"
+                },
+                {
+                "text_en": "they help swimmers",
+                "value": "they help swimmers"
+                },
+                {
+                "text_en": "they look like they are smiling",
+                "value": "they look like they are smiling"
+                },
+                {
+                "text_en": "people like to watch them",
+                "value": "people like to watch them"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Dolphins and children both like to do what?",
+            "hint": "N/A",
+            "answer": ["play"],
+            "card_data": [
+    
+                {
+                "text_en": "clap",
+                "value": "clap"
+                },
+                {
+                "text_en": "laugh",
+                "value": "laugh"
+                },
+                {
+                "text_en": "play",
+                "value": "play"
+                },
+                {
+                "text_en": "read",
+                "value": "read"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

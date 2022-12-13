@@ -1,0 +1,126 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Good Things About Forest Fires",
+        "sentence": "Fire in a forest can do much harm. Forest fires burn many trees. They burn animals’ homes. Some even burn people’s houses. Fires can be terrible, but they do some good things, too. Fires clear the forest floor. They get rid of old, dry branches. This helps keep more fires from starting. Fires make new holes in trees where birds can nest. They also make more room for new trees to grow. Some pine cones need fire. They do not let go of their seeds without it. In forest fires, the cones drop seeds that become new baby trees. This makes the forest new. A forest fire can be both bad and good.",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the best title for the passage?",
+            "hint": "N/A",
+            "answer": ["Good Things About Forest Fires"],
+            "card_data": [
+    
+                {
+                "text_en": "Pine Cones That Need Fire",
+                "value": "Pine Cones That Need Fire"
+                },
+                {
+                "text_en": "Fires That Burn Houses",
+                "value": "Fires That Burn Houses"
+                },
+                {
+                "text_en": "Good Things About Forest Fires",
+                "value": "Good Things About Forest Fires"
+                },
+                {
+                "text_en": "Firefighters Work Hard",
+                "value": "Firefighters Work Hard"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Fires are bad when they do what?",
+            "hint": "N/A",
+            "answer": ["burn homes"],
+            "card_data": [
+    
+                {
+                "text_en": "burn homes",
+                "value": "burn homes"
+                },
+                {
+                "text_en": "clear the forest floor",
+                "value": "clear the forest floor"
+                },
+                {
+                "text_en": "make spots for nests",
+                "value": "make spots for nests"
+                },
+                {
+                "text_en": "make room for trees",
+                "value": "make room for trees"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "When the forest floor is clear what happens?",
+            "hint": "N/A",
+            "answer": ["new trees have room to grow"],
+            "card_data": [
+    
+                {
+                "text_en": "seeds fall out of pine cones",
+                "value": "seeds fall out of pine cones"
+                },
+                {
+                "text_en": "new trees have room to grow",
+                "value": "new trees have room to grow"
+                },
+                {
+                "text_en": "animals get rid of dry branches",
+                "value": "animals get rid of dry branches"
+                },
+                {
+                "text_en": "birds build nests",
+                "value": "birds build nests"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Fire helps some pine trees by doing what?",
+            "hint": "N/A",
+            "answer": ["spreading their seeds"],
+            "card_data": [
+    
+                {
+                "text_en": "getting rid of old branches",
+                "value": "getting rid of old branches"
+                },
+                {
+                "text_en": "chasing away birds",
+                "value": "chasing away birds"
+                },
+                {
+                "text_en": "burning their needles",
+                "value": "burning their needles"
+                },
+                {
+                "text_en": "spreading their seeds",
+                "value": "spreading their seeds"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

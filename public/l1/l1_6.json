@@ -1,0 +1,103 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Kit and her dog",
+        "sentence": "Kit is little. But Kit has a very big dog. So Kit has a very big room. The room has one big bed. And it has one little bed. The room has one big toy box. And it has one little toy box. Kit is little. But Kit has a very big dog. Kit's very big room has very little room for Kitt",
+        "key_words":[
+            {"word": "big", "translation": "大的", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "room", "translation": "房间", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "toy", "translation": "玩具", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "box", "translation": "箱", "speech": "名词", "example": "还有燕⻨片吗" }
+
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the story about?",
+            "hint": "N/A",
+            "answer": ["Kit and her dog"],
+            "card_data": [
+    
+                {
+                "text_en": "A girl named Kit",
+                "value": "A girl named Kit"
+                },
+                {
+                "text_en": "A dog named Kit",
+                "value": "A dog named Kit"
+                },
+                {
+                "text_en": "Kit and her dog",
+                "value": "Kit and her dog"
+                },
+                {
+                "text_en": "A big box",
+                "value": "A big box"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which one tells about Kit's dog?",
+            "hint": "N/A",
+            "answer": ["The dog is big"],
+            "card_data": [
+    
+                {
+                "text_en": "The dog is little",
+                "value": "The dog is little"
+                },
+                {
+                "text_en": "The dog is big",
+                "value": "The dog is big"
+                },
+                {
+                "text_en": "The dog sleeps in a box",
+                "value": "The dog sleeps in a box"
+                },
+                {
+                "text_en": "The dog is brown",
+                "value": "The dog is brown"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which one tells about Kit?",
+            "hint": "N/A",
+            "answer": ["Kit has a little bed"],
+            "card_data": [
+    
+                {
+                "text_en": "Kit has a little bed",
+                "value": "Kit has a little bed"
+                },
+                {
+                "text_en": "Kit has a little room",
+                "value": "Kit has a little room"
+                },
+                {
+                "text_en": "Kit has a little dog",
+                "value": "Kit has a little dog"
+                },
+                {
+                "text_en": "Kit is big",
+                "value": "Kit is big"
+                }
+           
+            ]
+        }
+    
+    ]
+    
+   
+    
+    }

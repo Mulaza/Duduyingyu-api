@@ -1,0 +1,106 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Jen gets a pet",
+        "sentence": "Jen is with her mom. They are at a pet shop. Jen can get a pet. She can pick the pet she likes. Jen looks and looks. The dogs bark too much. The cats sleep too much. The birds bite too much. The fish just swim. 'A fish is best' says Jen.",
+        "key_words":[
+            {"word": "mom", "translation": "妈妈", "speech": "名词", "example": "N/A" },
+            {"word": "pet", "translation": "宠物", "speech": "名词", "example": "N/A" },
+            {"word": "pick", "translation": "选择", "speech": "名词", "example": "N/A" },
+            {"word": "bark", "translation": "狗叫", "speech": "名词", "example": "N/A" },
+            {"word": "birds", "translation": "鸟", "speech": "名词", "example": "N/A" },
+            {"word": "fish", "translation": "鱼", "speech": "名词", "example": "N/A" },
+            {"word": "cats", "translation": "猫", "speech": "名词", "example": "N/A" },
+            {"word": "best", "translation": "最好的", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "Who is the story about?",
+            "hint": "N/A",
+            "answer": ["A girl named Jen"],
+            "card_data": [
+    
+                {
+                "text_en": "A mom named Jen",
+                "value": "A mom named Jen"
+                },
+                {
+                "text_en": "A girl named Jen",
+                "value": "A girl named Jen"
+                },
+                {
+                "text_en": "A pet named Jen",
+                "value": "A pet named Jen"
+                },
+                {
+                "text_en": "A fish named Jen",
+                "value": "A fish named Jen"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Why is Jen at the pet shop?",
+            "hint": "N/A",
+            "answer": ["Jen can get a pet."],
+            "card_data": [
+    
+                {
+                "text_en": "Jen likes to feed the pets",
+                "value": "Jen likes to feed the pets"
+                },
+                {
+                "text_en": "Jen can get a pet",
+                "value": "Jen can get a pet"
+                },
+                {
+                "text_en": "Jen's mom wants a pet",
+                "value": "Jen's mom wants a pet"
+                },
+                {
+                "text_en": "Jen likes to look at the pets",
+                "value": "Jen likes to look at the pets"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What pet does Jen get?",
+            "hint": "N/A",
+            "answer": ["Jen gets a fish"],
+            "card_data": [
+    
+                {
+                "text_en": "Jen gets a bird",
+                "value": "Jen gets a bird"
+                },
+                {
+                "text_en": "Jen gets a cat",
+                "value": "Jen gets a cat"
+                },
+                {
+                "text_en": "Jen gets a fish",
+                "value": "Jen gets a fish"
+                },
+                {
+                "text_en": "Jen gets a dog",
+                "value": "Jen gets a dog"
+                }
+           
+            ]
+        }
+    
+    ]
+    
+   
+    
+    }

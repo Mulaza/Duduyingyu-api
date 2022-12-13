@@ -1,0 +1,103 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Help flowers grow",
+        "sentence": "You can grow flowers. First, dig a hole. Next, put in some plant food. Put the flowering plant into the hole. Then, fill the hole with dirt. Pat down the dirt to hold the flower. Last, water the plant. Soon, the plant will grow flowers",
+        "key_words":[
+            {"word": "flowers", "translation": "燕⻨片", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "dirt", "translation": "燕⻨片", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "hole", "translation": "燕⻨片", "speech": "名词", "example": "还有燕⻨片吗" }
+
+
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the first step to help a flower grow?",
+            "hint": "I'm Lovin It",
+            "answer": ["Dig a hole"],
+            "card_data": [
+    
+                {
+                "text_en": "Dig a hole",
+                "value": "Dig a hole"
+                },
+                {
+                "text_en": "Water the flower",
+                "value": "Water the flower"
+                },
+                {
+                "text_en": "Put plant food into the hole",
+                "value": "Put plant food into the hole"
+                },
+                {
+                "text_en": "Fill the hole with dirt",
+                "value": "Fill the hole with dirt"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What do you do next, after you dig a hole?",
+            "hint": "Homo Saipan",
+            "answer": ["put in some plant food"],
+            "card_data": [
+    
+                {
+                "text_en": "Water the flower",
+                "value": "Water the flower"
+                },
+                {
+                "text_en": "Put the plant into the hole",
+                "value": "Put the plant into the hole"
+                },
+                {
+                "text_en": "Put in some plant food",
+                "value": "Put in some plant food"
+                },
+                {
+                "text_en": "Dig another hole",
+                "value": "Dig another hole"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What is the last step to help a flower grow?",
+            "hint": "I'm Lovin It",
+            "answer": ["water the plant"],
+            "card_data": [
+    
+                {
+                "text_en": "Water the plant",
+                "value": "Water the plant"
+                },
+                {
+                "text_en": "Fill the hole with dirt",
+                "value": "Fill the hole with dirt"
+                },
+                {
+                "text_en": "Put in some plant food",
+                "value": "Put in some plant food"
+                },
+                {
+                "text_en": "Take the flower out of its pot",
+                "value": "Take the flower out of its pot"
+                }
+           
+            ]
+        }
+    
+    ]
+    
+   
+    
+    }

@@ -1,0 +1,126 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Tricky Insects",
+        "sentence": "See that leaf moving in the wind? Look again. It is an insect. It just looks like a leaf! Hungry birds do not know it is a bug. They do not try to eat it. Some butterflies look like dried leaves. They rest with their wings together to match the real leaves around them. The colorful parts of their wings are hidden until they fly away. Another bug that wears a costume is the stick insect. It looks like its name—a stick! This insect hides in the leaves and twigs of a tree. It can turn green or brown to match the colors around it. Some stick insects are tiny. Others are a foot long. Insects are very clever. Maybe the next time you take a walk, you will see one pretending to be something else.",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What would another good title for the passage be?",
+            "hint": "N/A",
+            "answer": ["Great Pretenders"],
+            "card_data": [
+    
+                {
+                "text_en": "Matching Colors",
+                "value": "Matching Colors"
+                },
+                {
+                "text_en": "Hungry Birds",
+                "value": "Hungry Birds"
+                },
+                {
+                "text_en": "Insects and Plants",
+                "value": "Insects and Plants"
+                },
+                {
+                "text_en": "Great Pretenders",
+                "value": "Great Pretenders"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Birds do not eat leaf insects because they what?",
+            "hint": "N/A",
+            "answer": ["do not know they are bugs"],
+            "card_data": [
+    
+                {
+                "text_en": "cannot see them",
+                "value": "cannot see them"
+                },
+                {
+                "text_en": "cannot catch them",
+                "value": "cannot catch them"
+                },
+                {
+                "text_en": "do not know they are bugs",
+                "value": "do not know they are bugs"
+                },
+                {
+                "text_en": "do not think they taste good",
+                "value": "do not think they taste good"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Some butterflies look like dried leaves so that they can do what?",
+            "hint": "N/A",
+            "answer": ["rest"],
+            "card_data": [
+    
+                {
+                "text_en": "catch bugs",
+                "value": "catch bugs"
+                },
+                {
+                "text_en": "rest",
+                "value": "rest"
+                },
+                {
+                "text_en": "fly away",
+                "value": "fly away"
+                },
+                {
+                "text_en": "close their wings",
+                "value": "close their wings"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "One way stick insects are different from real sticks is that they what?",
+            "hint": "N/A",
+            "answer": ["have legs"],
+            "card_data": [
+    
+                {
+                "text_en": "have legs",
+                "value": "have legs"
+                },
+                {
+                "text_en": "trick birds",
+                "value": "trick birds"
+                },
+                {
+                "text_en": "are up in trees",
+                "value": "are up in trees"
+                },
+                {
+                "text_en": "look like wood",
+                "value": "look like wood"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

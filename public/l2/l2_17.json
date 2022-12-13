@@ -1,0 +1,127 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "The Statue of Liberty",
+        "sentence": "The Statue of Liberty stands on a small island in New York Harbor. People who come to this country on ships see Lady Liberty standing there. She welcomes them at the end of their long trip across the sea. The statue holds a torch high above her head. The torch stands for freedom. France gave the statue to our country as a gift of friendship. It was made in France. It came across the ocean in pieces. Then it was put together here. The statue is made of copper and steel. It is as tall as a building with 30 floors. The statue’s face is very big. The nose is as long as your body. The fingers are about as long as the ceiling in a room is high! There are stairs inside of the statue. People climb 354 steps to get to the crown. Thirty people can fit in the crown. There are 25 windows in it. They can see the ships that the statue is welcoming.",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the passage about?",
+            "hint": "N/A",
+            "answer": ["a famous statue"],
+            "card_data": [
+    
+                {
+                "text_en": "visiting New York",
+                "value": "visiting New York"
+                },
+                {
+                "text_en": "taking a trip on a ship",
+                "value": "taking a trip on a ship"
+                },
+                {
+                "text_en": "a famous statue",
+                "value": "a famous statue"
+                },
+                {
+                "text_en": "climbing up stairs",
+                "value": "climbing up stairs"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "How is the Statue of Liberty different from a person?",
+            "hint": "N/A",
+            "answer": ["It is made of copper and steel"],
+            "card_data": [
+    
+                {
+                "text_en": "It can hold a torch",
+                "value": "It can hold a torch"
+                },
+                {
+                "text_en": "It has a nose",
+                "value": "It has a nose"
+                },
+                {
+                "text_en": "It is made of copper and steel",
+                "value": "It is made of copper and steel"
+                },
+                {
+                "text_en": "It has hands and fingers",
+                "value": "It has hands and fingers"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "One way the statue is like a person is that it what?",
+            "hint": "N/A",
+            "answer": ["has eyes and a nose"],
+            "card_data": [
+    
+                {
+                "text_en": "has stairs inside of it",
+                "value": "has stairs inside of it"
+                },
+                {
+                "text_en": "has eyes and a nose",
+                "value": "has eyes and a nose"
+                },
+                {
+                "text_en": "is as tall as a building",
+                "value": "is as tall as a building"
+                },
+                {
+                "text_en": "is made of copper and steel",
+                "value": "is made of copper and steel"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What did the author most likely write the passage to tell?",
+            "hint": "N/A",
+            "answer": ["about something important in our country"],
+            "card_data": [
+    
+                {
+                "text_en": "a story about a funny woman",
+                "value": "a story about a funny woman"
+                },
+                {
+                "text_en": "about what is made in France",
+                "value": "about what is made in France"
+                },
+                {
+                "text_en": "about a crown you can stand in",
+                "value": "about a crown you can stand in"
+                },
+                {
+                "text_en": "about something important in our country",
+                "value": "about something important in our country"
+                }
+           
+            ]
+        }
+    
+    ]
+    
+   
+    
+}

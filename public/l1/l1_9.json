@@ -1,0 +1,104 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Res stinks",
+        "sentence": "Rex stinks! He needs a bath. Dad puts Rex in the tub. Mom gets Rex wet. Rex is not happy. Dad rubs on some soap. Mom washes it off. Rex is not happy. Then Dad puts Rex on the floor. Rex shakes and shakes! Now Dad and Mom are wet. They are not happy!",
+        "key_words":[
+            {"word": "stinks", "translation": "有难闻的气味", "speech": "名词", "example": "N/A" },
+            {"word": "bath", "translation": "洗澡", "speech": "名词", "example": "N/A" },
+            {"word": "tub", "translation": "浴缸", "speech": "名词", "example": "N/A" },
+            {"word": "happy", "translation": "高兴", "speech": "名词", "example": "N/A" },
+            {"word": "soap", "translation": "肥皂", "speech": "名词", "example": "N/A" },
+            {"word": "shakes", "translation": "摇动", "speech": "名词", "example": "N/A" }
+
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "Who is the main character ?",
+            "hint": "N/A",
+            "answer": ["Rex"],
+            "card_data": [
+    
+                {
+                "text_en": "Mom",
+                "value": "Mom"
+                },
+                {
+                "text_en": "Rex",
+                "value": "Rex"
+                },
+                {
+                "text_en": "Dad",
+                "value": "Dad"
+                },
+                {
+                "text_en": "Soap",
+                "value": "Soap"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which one tells about Rex ?",
+            "hint": "N/A",
+            "answer": ["Rex is not happy in the tub"],
+            "card_data": [
+    
+                {
+                "text_en": "Rex does not like soap",
+                "value": "Rex does not like soap"
+                },
+                {
+                "text_en": "Rex likes to get a bath",
+                "value": "Rex likes to get a bath"
+                },
+                {
+                "text_en": "Rex likes soap",
+                "value": "Rex likes soap"
+                },
+                {
+                "text_en": "Rex is not happy in the tub",
+                "value": "Rex is not happy in the tub"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What happens to Mom and Dad ?",
+            "hint": "N/A",
+            "answer": ["Rex gets them wet"],
+            "card_data": [
+    
+                {
+                "text_en": "Rex jumps on them",
+                "value": "Rex jumps on them"
+                },
+                {
+                "text_en": "They also take a bath",
+                "value": "They also take a bath"
+                },
+                {
+                "text_en": "Rex gets them wet",
+                "value": "Rex gets them wet"
+                },
+                {
+                "text_en": "Rex plays with them",
+                "value": "Rex plays with them"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+    }

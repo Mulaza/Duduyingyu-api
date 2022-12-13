@@ -1,0 +1,102 @@
+{
+
+    "lesson":     {
+        "type": "sentence",
+        "title": "Pigs in the mud",  
+        "sentence": "The sun is hot. It is too hot for the pig. The pig wants to be cool. It sees some mud. Slosh! Slosh! Slosh! The mud feels good The mud is not hot. Roll, pig, roll!",
+        "key_words":[
+            {"word": "sun", "translation": "太阳", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "too", "translation": "太", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "cool", "translation": "凉快", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "roll", "translation": "滚动", "speech": "名词", "example": "还有燕⻨片吗" }
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the main character?",
+            "hint": "N/A",
+            "answer": ["A pig"],
+            "card_data": [
+    
+                {
+                "text_en": "A pig",
+                "value": "A pig"
+                },
+                {
+                "text_en": "Some mud",
+                "value": "Some mud"
+                },
+                {
+                "text_en": "The sun",
+                "value": "The sun"
+                },
+                {
+                "text_en": "The heat",
+                "value": "The heat"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What does the pig do?",
+            "hint": "N/A",
+            "answer": ["The pig rolls in mud"],
+            "card_data": [
+    
+                {
+                "text_en": "The pig plays in the sun",
+                "value": "The pig plays in the sun"
+                },
+                {
+                "text_en": "The pig eats some mud",
+                "value": "The pig eats some mud"
+                },
+                {
+                "text_en": "The pig rolls in mud",
+                "value": "The pig rolls in mud"
+                },
+                {
+                "text_en": "The pig sits in the sun",
+                "value": "The pig sits in the sun"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Why does the pig go in the mud?",
+            "hint": "N/A",
+            "answer": ["The mud is cool"],
+            "card_data": [
+    
+                {
+                "text_en": "The mud is hot",
+                "value": "The mud is hot"
+                },
+                {
+                "text_en": "The mud is cool",
+                "value": "The mud is cool"
+                },
+                {
+                "text_en": "The mud is messy",
+                "value": "The mud is messy"
+                },
+                {
+                "text_en": "The mud is clean",
+                "value": "The mud is clean"
+                }
+           
+            ]
+        }
+    
+    ]
+    
+   
+    
+    }

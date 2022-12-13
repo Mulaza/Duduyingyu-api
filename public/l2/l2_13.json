@@ -1,0 +1,126 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "What a Seed Needs",
+        "sentence": "Seeds need some of the same things that we need. They need food, water, air, and sunshine. They need room to grow. They also need time to grow. If the tiny seed gets what it needs, it will grow into a plant. Slowly, the seed sends a root down into the soil. This root pulls water up to the seed. It works like a straw. Next, the seed will slowly push up a tiny green shoot. That shoot will break through the ground. You will see it peeking through the soil. Then, the shoot will begin to grow leaves. The new plant is called a seedling. It will grow into a bigger plant. Then, flowers will grow on the plant’s stems. The flowers will open. The flowers will be very pretty. The flowers will make new seeds. The seeds will fall to the ground and start to grow. Soon they will push up through the ground. They will become new plants!",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" }
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What is the passage about?",
+            "hint": "N/A",
+            "answer": ["how seeds grow"],
+            "card_data": [
+    
+                {
+                "text_en": "how seeds grow",
+                "value": "how seeds grow"
+                },
+                {
+                "text_en": "birds that eat seeds",
+                "value": "birds that eat seeds"
+                },
+                {
+                "text_en": "children who plant seeds",
+                "value": "children who plant seeds"
+                },
+                {
+                "text_en": "people who grow flowers",
+                "value": "people who grow flowers"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Why does a seed need time?",
+            "hint": "N/A",
+            "answer": ["to grow"],
+            "card_data": [
+    
+                {
+                "text_en": "to get older",
+                "value": "to get older"
+                },
+                {
+                "text_en": "to get food",
+                "value": "to get food"
+                },
+                {
+                "text_en": "to make a straw",
+                "value": "to make a straw"
+                },
+                {
+                "text_en": "to grow",
+                "value": "to grow"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What happens after a shoot comes up?",
+            "hint": "N/A",
+            "answer": ["It grows leaves"],
+            "card_data": [
+    
+                {
+                "text_en": "It drops seeds",
+                "value": "It drops seeds"
+                },
+                {
+                "text_en": "It grows leaves",
+                "value": "It grows leaves"
+                },
+                {
+                "text_en": "It grows shoots",
+                "value": "It grows shoots"
+                },
+                {
+                "text_en": "It drops flowers",
+                "value": "It drops flowers"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which sentence is an opinion?",
+            "hint": "N/A",
+            "answer": ["The flowers are very pretty"],
+            "card_data": [
+    
+                {
+                "text_en": "A seed needs time to grow",
+                "value": "A seed needs time to grow"
+                },
+                {
+                "text_en": "The new plant is called a seedling",
+                "value": "The new plant is called a seedling"
+                },
+                {
+                "text_en": "The flowers are very pretty",
+                "value": "The flowers are very pretty"
+                },
+                {
+                "text_en": "The seeds will start to grow",
+                "value": "The seeds will start to grow"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

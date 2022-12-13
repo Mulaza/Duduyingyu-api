@@ -1,0 +1,106 @@
+{
+
+    "lesson":     {
+        "type": "sentence",  
+        "title": "Foxes in the den",
+        "sentence": "The mother fox is in a den. The den is her home. She lives with her babies. A baby fox is called a kit. The den is hard to see. The kits are safe inside. The mother fox feeds them milk. She brings them meat. She plays with the kits, too. A den is a good home for kits.",
+        "key_words":[
+            {"word": "fox", "translation": "狐狸", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "den", "translation": "兽穴", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "safe", "translation": "安全", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "milk", "translation": "牛奶", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "meat", "translation": "肉", "speech": "名词", "example": "还有燕⻨片吗" }
+
+
+
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "Which one tells what the story is about?",
+            "hint": "N/A",
+            "answer": ["Baby foxes live in a den"],
+            "card_data": [
+    
+                {
+                "text_en": "Baby foxes are small",
+                "value": "Baby foxes are small"
+                },
+                {
+                "text_en": "Baby foxes live in a den",
+                "value": "Baby foxes live in a den"
+                },
+                {
+                "text_en": "Baby foxes drink milk",
+                "value": "Baby foxes drink milk"
+                },
+                {
+                "text_en": "Baby foxes eat meat",
+                "value": "Baby foxes eat meat"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What is a den?",
+            "hint": "N/A",
+            "answer": ["The home of a fox"],
+            "card_data": [
+    
+                {
+                "text_en": "The food a fox eats",
+                "value": "The food a fox eats"
+                },
+                {
+                "text_en": "The name for a baby fox",
+                "value": "The name for a baby fox"
+                },
+                {
+                "text_en": "The home of a fox",
+                "value": "The home of a fox"
+                },
+                {
+                "text_en": "The name of a mother fox",
+                "value": "The name of a mother fox"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "What is a kit?",
+            "hint": "N/A",
+            "answer": ["A baby fox"],
+            "card_data": [
+    
+                {
+                "text_en": "A baby fox",
+                "value": "A baby fox"
+                },
+                {
+                "text_en": "The home of a fox",
+                "value": "The home of a fox"
+                },
+                {
+                "text_en": "A mother fox",
+                "value": "A mother fox"
+                },
+                {
+                "text_en": "The food a fox eats",
+                "value": "The food a fox eats"
+                }
+           
+            ]
+        }
+    
+    ]
+    
+   
+    
+    }

@@ -1,0 +1,103 @@
+{
+
+    "lesson":  {
+        "type": "sentence",  
+        "title": "Deep sea rays",
+        "sentence": "Rays are big fish in the sea. They flap their two fins to swim. Their fins go up and down. They swim very fast. Rays can flap right out of the water! Rays open their mouths when they swim. Their mouths are long. Small fish go right in. So rays eat while they swim.",
+        "key_words":[
+            {"word": "fish", "translation": "鱼", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "sea", "translation": "海", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "swim", "translation": "游泳", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "mouths", "translation": "嘴巴", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "eat", "translation": "吃", "speech": "名词", "example": "还有燕⻨片吗" },
+            {"word": "flap", "translation": "拍打", "speech": "名词", "example": "还有燕⻨片吗" }
+        ]
+    },
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "What are the main characters?",
+            "hint": "N/A",
+            "answer": ["Rays"],
+            "card_data": [
+    
+                {
+                "text_en": "Small fish",
+                "value": "Small fish"
+                },
+                {
+                "text_en": "Two fins",
+                "value": "Two fins"
+                },
+                {
+                "text_en": "Rays",
+                "value": "Rays"
+                },
+                {
+                "text_en": "Mouths",
+                "value": "Mouths"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "How do rays swim?",
+            "hint": "N/A",
+            "answer": ["Rays flap their fins"],
+            "card_data": [
+    
+                {
+                "text_en": "Rays open their mouths",
+                "value": "Rays open their mouths"
+                },
+                {
+                "text_en": "Rays flap their fins",
+                "value": "Rays flap their fins"
+                },
+                {
+                "text_en": "Rays shake their tails",
+                "value": "Rays shake their tails"
+                },
+                {
+                "text_en": "Rays flap their mouths",
+                "value": "Rays flap their mouths"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "How do rays eat?",
+            "hint": "N/A",
+            "answer": ["Rays open their mouths"],
+            "card_data": [
+    
+                {
+                "text_en": "Rays open their mouths.",
+                "value": "Rays open their mouths."
+                },
+                {
+                "text_en": "Rays use their tails",
+                "value": "Rays use their tails"
+                },
+                {
+                "text_en": "Rays use their fins",
+                "value": "Rays use their fins"
+                },
+                {
+                "text_en": "Rays flap their fins",
+                "value": "Rays flap their fins"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+    }

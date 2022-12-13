@@ -1,0 +1,133 @@
+{
+
+    "lesson": {
+        "type": "sentence",  
+        "title": "Dr.Seuss",
+        "sentence": "“Big A, little a, what begins with A? Aunt Annie’s alligator. A…a…A” Have you ever seen these lines? They are from a book called Dr. Seuss’s ABC. Who was Dr. Seuss? His real name was Theodor Seuss Geisel (GUY-zul ). When Theodor went to college, he wrote for a magazine. He wrote funny things. His friends thought he was funny. A few years later, he began to write books for children. He was very good at art. He drew funny pictures for his books. One book is The Cat in the Hat. Another one is Hop on Pop. Dr. Seuss’s books are different from other books. Books by Dr. Seuss are silly. They are fun to read. Some of them show make-believe animals like the zizzer zazzer zuzz. Young children laugh when their parents and teachers read these books to them. Older children enjoy reading them alone.",
+        "key_words":[
+            {"word": "college", "translation": "大学", "speech": "名词", "example": "N/A" },
+            {"word": "magazine", "translation": "杂志", "speech": "名词", "example": "N/A" },
+            {"word": "funny", "translation": "幽默", "speech": "名词", "example": "N/A" },
+            {"word": "children", "translation": "儿童", "speech": "名词", "example": "N/A" },
+            {"word": "pictures", "translation": "图片", "speech": "名词", "example": "N/A" },
+            {"word": "silly", "translation": "傻的", "speech": "名词", "example": "N/A" },
+            {"word": "different", "translation": "不同的", "speech": "名词", "example": "N/A" },
+            {"word": "Young", "translation": "年纪小的", "speech": "名词", "example": "N/A" },
+            {"word": "Older", "translation": "年纪大的", "speech": "名词", "example": "N/A" }
+        ]
+},
+    
+    "test": [
+
+        {
+            "type":"scq",
+            "sentence": "The passage tells about Dr. Seuss’s what ?",
+            "hint": "N/A",
+            "answer": ["Writing"],
+            "card_data": [
+    
+                {
+                "text_en": "Children",
+                "value": "Children"
+                },
+                {
+                "text_en": "House",
+                "value": "House"
+                },
+                {
+                "text_en": "Parents",
+                "value": "Parents"
+                },
+                {
+                "text_en": "Writing",
+                "value": "Writing"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which of these is not real?",
+            "hint": "N/A",
+            "answer": ["Some of Dr. Seuss’s animals"],
+            "card_data": [
+    
+                {
+                "text_en": "Dr. Seuss’s other name",
+                "value": "Dr. Seuss’s other name"
+                },
+                {
+                "text_en": "Teachers who read books",
+                "value": "Teachers who read books"
+                },
+                {
+                "text_en": "Some of Dr. Seuss’s animals",
+                "value": "Some of Dr. Seuss’s animals"
+                },
+                {
+                "text_en": "A man who drew funny pictures",
+                "value": "A man who drew funny pictures"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Dr. Seuss was a writer and what else ?",
+            "hint": "N/A",
+            "answer": ["Artist"],
+            "card_data": [
+    
+                {
+                "text_en": "Teacher",
+                "value": "Teacher"
+                },
+                {
+                "text_en": "Artist",
+                "value": "Artist"
+                },
+                {
+                "text_en": "Reader",
+                "value": "Reader"
+                },
+                {
+                "text_en": "Parent",
+                "value": "Parent"
+                }
+           
+            ]
+        },
+    
+        {
+            "type":"scq",
+            "sentence": "Which one is most like a Dr. Seuss title?",
+            "hint": "N/A",
+            "answer": ["The Roly-Poly Bazoly"],
+            "card_data": [
+    
+                {
+                "text_en": "All About the Sun",
+                "value": "All About the Sun"
+                },
+                {
+                "text_en": "The Roly-Poly Bazoly",
+                "value": "The Roly-Poly Bazoly"
+                },
+                {
+                "text_en": "How to Build a Treehouse",
+                "value": "How to Build a Treehouse"
+                },
+                {
+                "text_en": "My Trip to Texas",
+                "value": "My Trip to Texas"
+                }
+           
+            ]
+        }
+    
+    ]
+   
+    
+}

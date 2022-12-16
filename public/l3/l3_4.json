@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Charles The Grouch", "sentence": "Charles did not care to smile, but he did like to complain. When the day was sunny, Charles said it was too hot. When the birds sang, he said they were too loud. Charles said parties were too crowded and rainbows were too colorful. One day, Charles was in his garden grumbling that the carrots were too orange. And he thought the trees were too tall. Suddenly, an elf appeared. The elf spoke slowly, as he tried to control his anger. The elf said, \u201cI have heard enough of your complaining. You grumble all day. You fuss all night. I am going to grant you three wishes. Then perhaps you will stop being such a grouch!\u201d \u201cOnly three wishes? Why can\u2019t I have more than three?\u201d whined Charles. \u201cForget it! No wishes for you!\u201d yelled the elf. The elf disappeared. \u201cThey were probably crummy wishes anyway,\u201d Charles complained.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "What is make-believe in the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "A man complains", "value": "A man complains"}, {"text_en": "A man makes a wish", "value": "A man makes a wish"}, {"text_en": "An elf appears in a garden", "value": "An elf appears in a garden"}, {"text_en": "A man grows carrots.", "value": "A man grows carrots."}]}, {"type": "scq", "sentence": "What in the passage can happen", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Elves can grant wishes", "value": "Elves can grant wishes"}, {"text_en": "A man can be grumpy", "value": "A man can be grumpy"}, {"text_en": "An elf can live in a garden", "value": "An elf can live in a garden"}, {"text_en": "A man can talk to an elf.", "value": "A man can talk to an elf."}]}, {"type": "scq", "sentence": "Why does charles want more wishes", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "He does not like the elf", "value": "He does not like the elf"}, {"text_en": "He is never happy with the way things are", "value": "He is never happy with the way things are"}, {"text_en": "He wants more of everything", "value": "He wants more of everything"}, {"text_en": "He already wasted two wishes.", "value": "He already wasted two wishes."}]}, {"type": "scq", "sentence": "Which adjective best describes charles", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Tired", "value": "Tired"}, {"text_en": "Cheery", "value": "Cheery"}, {"text_en": "Thankful", "value": "Thankful"}, {"text_en": "Crabby", "value": "Crabby"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Charles The Grouch",
+        "sentence": "Charles did not care to smile, but he did like to complain. When the day was sunny, Charles said it was too hot. When the birds sang, he said they were too loud. Charles said parties were too crowded and rainbows were too colorful. One day, Charles was in his garden grumbling that the carrots were too orange. And he thought the trees were too tall. Suddenly, an elf appeared. The elf spoke slowly, as he tried to control his anger. The elf said, \u201cI have heard enough of your complaining. You grumble all day. You fuss all night. I am going to grant you three wishes. Then perhaps you will stop being such a grouch!\u201d \u201cOnly three wishes? Why can\u2019t I have more than three?\u201d whined Charles. \u201cForget it! No wishes for you!\u201d yelled the elf. The elf disappeared. \u201cThey were probably crummy wishes anyway,\u201d Charles complained.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "What is make-believe in the passage",
+            "hint": "N/A",
+            "answer": [
+                "An elf appears in a garden"
+            ],
+            "card_data": [
+                {
+                    "text_en": "A man complains",
+                    "value": "A man complains"
+                },
+                {
+                    "text_en": "A man makes a wish",
+                    "value": "A man makes a wish"
+                },
+                {
+                    "text_en": "An elf appears in a garden",
+                    "value": "An elf appears in a garden"
+                },
+                {
+                    "text_en": "A man grows carrots.",
+                    "value": "A man grows carrots."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What in the passage can happen",
+            "hint": "N/A",
+            "answer": [
+                "A man can be grumpy"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Elves can grant wishes",
+                    "value": "Elves can grant wishes"
+                },
+                {
+                    "text_en": "A man can be grumpy",
+                    "value": "A man can be grumpy"
+                },
+                {
+                    "text_en": "An elf can live in a garden",
+                    "value": "An elf can live in a garden"
+                },
+                {
+                    "text_en": "A man can talk to an elf.",
+                    "value": "A man can talk to an elf."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Why does charles want more wishes",
+            "hint": "N/A",
+            "answer": [
+                "He is never happy with the way things are"
+            ],
+            "card_data": [
+                {
+                    "text_en": "He does not like the elf",
+                    "value": "He does not like the elf"
+                },
+                {
+                    "text_en": "He is never happy with the way things are",
+                    "value": "He is never happy with the way things are"
+                },
+                {
+                    "text_en": "He wants more of everything",
+                    "value": "He wants more of everything"
+                },
+                {
+                    "text_en": "He already wasted two wishes.",
+                    "value": "He already wasted two wishes."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which adjective best describes charles",
+            "hint": "N/A",
+            "answer": [
+                "Crabby"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Tired",
+                    "value": "Tired"
+                },
+                {
+                    "text_en": "Cheery",
+                    "value": "Cheery"
+                },
+                {
+                    "text_en": "Thankful",
+                    "value": "Thankful"
+                },
+                {
+                    "text_en": "Crabby",
+                    "value": "Crabby"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "What Is A Friend?", "sentence": "Long ago, Fox and Stork were friends. One evening, Fox invited Stork to his den for dinner. As a joke, Fox served a clear soup in a shallow dish. Fox easily lapped up his soup with his long tongue. But Stork\u2019s bill was long and narrow. It did not work like a straw. She could not eat her soup. \u201cI\u2019m sorry you didn\u2019t like the soup,\u201d said Fox with a snicker. Before Stork left, she invited Fox for dinner the following night. When Fox arrived at Stork\u2019s house, he smelled a delicious aroma. He hurried to the table. Stork had made a stew filled with meat and vegetables. Stork served the stew in two tall glass jars. She reached her long bill into her jar and gobbled it up. Fox\u2019s tongue could not reach the stew. \u201cI\u2019m sorry you didn\u2019t like the stew,\u201d said Stork. Fox\u2019s stomach growled as he headed home. He knew he had treated Stork badly. That night he learned a lesson about friendship.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "Which one can happen in real life", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "A stork can use dishes to eat", "value": "A stork can use dishes to eat"}, {"text_en": "A fox can make soup for dinner", "value": "A fox can make soup for dinner"}, {"text_en": "Stew can be made with meat and vegetables", "value": "Stew can be made with meat and vegetables"}, {"text_en": "A stork can prepare dinner.", "value": "A stork can prepare dinner."}]}, {"type": "scq", "sentence": "What in the passage is fantasy", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "A stork teaches a fox a lesson", "value": "A stork teaches a fox a lesson"}, {"text_en": "A stork has a long, narrow bill", "value": "A stork has a long, narrow bill"}, {"text_en": "A fox laps up its food", "value": "A fox laps up its food"}, {"text_en": "A fox wants to eat meat.", "value": "A fox wants to eat meat."}]}, {"type": "scq", "sentence": "Which one describes fox", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "A good friend", "value": "A good friend"}, {"text_en": "Smarter than stork", "value": "Smarter than stork"}, {"text_en": "Not a true friend", "value": "Not a true friend"}, {"text_en": "A good cook", "value": "A good cook"}]}, {"type": "scq", "sentence": "Which lesson about friendship does stork teach fox", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Always share your food with your friends", "value": "Always share your food with your friends"}, {"text_en": "Treat your friends the way you want to be treated", "value": "Treat your friends the way you want to be treated"}, {"text_en": "Some animals cannot be trusted", "value": "Some animals cannot be trusted"}, {"text_en": "Never serve soup to friends.", "value": "Never serve soup to friends."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "What Is A Friend?",
+        "sentence": "Long ago, Fox and Stork were friends. One evening, Fox invited Stork to his den for dinner. As a joke, Fox served a clear soup in a shallow dish. Fox easily lapped up his soup with his long tongue. But Stork\u2019s bill was long and narrow. It did not work like a straw. She could not eat her soup. \u201cI\u2019m sorry you didn\u2019t like the soup,\u201d said Fox with a snicker. Before Stork left, she invited Fox for dinner the following night. When Fox arrived at Stork\u2019s house, he smelled a delicious aroma. He hurried to the table. Stork had made a stew filled with meat and vegetables. Stork served the stew in two tall glass jars. She reached her long bill into her jar and gobbled it up. Fox\u2019s tongue could not reach the stew. \u201cI\u2019m sorry you didn\u2019t like the stew,\u201d said Stork. Fox\u2019s stomach growled as he headed home. He knew he had treated Stork badly. That night he learned a lesson about friendship.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "Which one can happen in real life",
+            "hint": "N/A",
+            "answer": [
+                "Stew can be made with meat and vegetables"
+            ],
+            "card_data": [
+                {
+                    "text_en": "A stork can use dishes to eat",
+                    "value": "A stork can use dishes to eat"
+                },
+                {
+                    "text_en": "A fox can make soup for dinner",
+                    "value": "A fox can make soup for dinner"
+                },
+                {
+                    "text_en": "Stew can be made with meat and vegetables",
+                    "value": "Stew can be made with meat and vegetables"
+                },
+                {
+                    "text_en": "A stork can prepare dinner.",
+                    "value": "A stork can prepare dinner."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What in the passage is fantasy",
+            "hint": "N/A",
+            "answer": [
+                "A stork teaches a fox a lesson"
+            ],
+            "card_data": [
+                {
+                    "text_en": "A stork teaches a fox a lesson",
+                    "value": "A stork teaches a fox a lesson"
+                },
+                {
+                    "text_en": "A stork has a long, narrow bill",
+                    "value": "A stork has a long, narrow bill"
+                },
+                {
+                    "text_en": "A fox laps up its food",
+                    "value": "A fox laps up its food"
+                },
+                {
+                    "text_en": "A fox wants to eat meat.",
+                    "value": "A fox wants to eat meat."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which one describes fox",
+            "hint": "N/A",
+            "answer": [
+                "Not a true friend"
+            ],
+            "card_data": [
+                {
+                    "text_en": "A good friend",
+                    "value": "A good friend"
+                },
+                {
+                    "text_en": "Smarter than stork",
+                    "value": "Smarter than stork"
+                },
+                {
+                    "text_en": "Not a true friend",
+                    "value": "Not a true friend"
+                },
+                {
+                    "text_en": "A good cook",
+                    "value": "A good cook"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which lesson about friendship does stork teach fox",
+            "hint": "N/A",
+            "answer": [
+                "Treat your friends the way you want to be treated"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Always share your food with your friends",
+                    "value": "Always share your food with your friends"
+                },
+                {
+                    "text_en": "Treat your friends the way you want to be treated",
+                    "value": "Treat your friends the way you want to be treated"
+                },
+                {
+                    "text_en": "Some animals cannot be trusted",
+                    "value": "Some animals cannot be trusted"
+                },
+                {
+                    "text_en": "Never serve soup to friends.",
+                    "value": "Never serve soup to friends."
+                }
+            ]
+        }
+    ]
+}

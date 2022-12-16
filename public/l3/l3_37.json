@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Make A Wish!", "sentence": "Carrie\u2019s party invitations had read, \u201cTrot on over to my birthday party.\u201d Her girlfriends came by and had a lot of fun. They played pin the tail on the pony. They galloped around the yard like horses to see who was fastest. The girls made a craft, too. Carrie\u2019s mom brought out some real horseshoes. They were spray painted in bright colors. Each girl decorated a horseshoe with puffy paint and glitter. After that, the girls were ready for cake. Carrie\u2019s cake was shaped like a horse with its front legs raised. Carrie\u2019s friends sang and then yelled, \u201cMake a wish!\u201d Carrie knew exactly what to wish for. She closed her eyes and thought about nothing but her wish. Then Carrie took a deep breath and blew out all nine candles. Poof! A pony appeared at Carrie\u2019s side. The pony inspected Carrie from head to toe. Then it flicked its tail and neighed. \u201cI like your shoes, Carrie,\u201d it said. \u201cWhere can I get shoes that sparkle?\u201d", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "What in the passage can really happen", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "A girl can have a party", "value": "A girl can have a party"}, {"text_en": "A pony can talk like a person", "value": "A pony can talk like a person"}, {"text_en": "A pony can appear by magic", "value": "A pony can appear by magic"}, {"text_en": "A pony can wear running shoes.", "value": "A pony can wear running shoes."}]}, {"type": "scq", "sentence": "What in the passage is fantasy", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "A girl blows out candles on a cake", "value": "A girl blows out candles on a cake"}, {"text_en": "Girls play games at a party", "value": "Girls play games at a party"}, {"text_en": "A pony shows up in an instant", "value": "A pony shows up in an instant"}, {"text_en": "A girl likes horses.", "value": "A girl likes horses."}]}, {"type": "scq", "sentence": "Real ponies ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Wear colorful shoes", "value": "Wear colorful shoes"}, {"text_en": "Wear horseshoes", "value": "Wear horseshoes"}, {"text_en": "Like sparkles", "value": "Like sparkles"}, {"text_en": "Like to look good", "value": "Like to look good"}]}, {"type": "scq", "sentence": "The passage would most likely be found in a ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Cookbook for making cakes", "value": "Cookbook for making cakes"}, {"text_en": "Book of facts about horses", "value": "Book of facts about horses"}, {"text_en": "Book of silly stories", "value": "Book of silly stories"}, {"text_en": "Book of birthday party ideas", "value": "Book of birthday party ideas"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Make A Wish!",
+        "sentence": "Carrie\u2019s party invitations had read, \u201cTrot on over to my birthday party.\u201d Her girlfriends came by and had a lot of fun. They played pin the tail on the pony. They galloped around the yard like horses to see who was fastest. The girls made a craft, too. Carrie\u2019s mom brought out some real horseshoes. They were spray painted in bright colors. Each girl decorated a horseshoe with puffy paint and glitter. After that, the girls were ready for cake. Carrie\u2019s cake was shaped like a horse with its front legs raised. Carrie\u2019s friends sang and then yelled, \u201cMake a wish!\u201d Carrie knew exactly what to wish for. She closed her eyes and thought about nothing but her wish. Then Carrie took a deep breath and blew out all nine candles. Poof! A pony appeared at Carrie\u2019s side. The pony inspected Carrie from head to toe. Then it flicked its tail and neighed. \u201cI like your shoes, Carrie,\u201d it said. \u201cWhere can I get shoes that sparkle?\u201d",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "What in the passage can really happen",
+            "hint": "N/A",
+            "answer": [
+                "A girl can have a party"
+            ],
+            "card_data": [
+                {
+                    "text_en": "A girl can have a party",
+                    "value": "A girl can have a party"
+                },
+                {
+                    "text_en": "A pony can talk like a person",
+                    "value": "A pony can talk like a person"
+                },
+                {
+                    "text_en": "A pony can appear by magic",
+                    "value": "A pony can appear by magic"
+                },
+                {
+                    "text_en": "A pony can wear running shoes.",
+                    "value": "A pony can wear running shoes."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What in the passage is fantasy",
+            "hint": "N/A",
+            "answer": [
+                "A pony shows up in an instant"
+            ],
+            "card_data": [
+                {
+                    "text_en": "A girl blows out candles on a cake",
+                    "value": "A girl blows out candles on a cake"
+                },
+                {
+                    "text_en": "Girls play games at a party",
+                    "value": "Girls play games at a party"
+                },
+                {
+                    "text_en": "A pony shows up in an instant",
+                    "value": "A pony shows up in an instant"
+                },
+                {
+                    "text_en": "A girl likes horses.",
+                    "value": "A girl likes horses."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Real ponies ",
+            "hint": "N/A",
+            "answer": [
+                "Like sparkles"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Wear colorful shoes",
+                    "value": "Wear colorful shoes"
+                },
+                {
+                    "text_en": "Wear horseshoes",
+                    "value": "Wear horseshoes"
+                },
+                {
+                    "text_en": "Like sparkles",
+                    "value": "Like sparkles"
+                },
+                {
+                    "text_en": "Like to look good",
+                    "value": "Like to look good"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "The passage would most likely be found in a ",
+            "hint": "N/A",
+            "answer": [
+                "Book of silly stories"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Cookbook for making cakes",
+                    "value": "Cookbook for making cakes"
+                },
+                {
+                    "text_en": "Book of facts about horses",
+                    "value": "Book of facts about horses"
+                },
+                {
+                    "text_en": "Book of silly stories",
+                    "value": "Book of silly stories"
+                },
+                {
+                    "text_en": "Book of birthday party ideas",
+                    "value": "Book of birthday party ideas"
+                }
+            ]
+        }
+    ]
+}

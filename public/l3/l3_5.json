@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Odd Baby Birds", "sentence": "Waxwings are small songbirds. They have pale yellow bellies and yellow tips on their tail feathers. Some young waxwings are odd because they look different from their parents. Those young birds have tail feathers with orange tips. Scientists have discovered why. The answer has to do with food. Waxwings mostly eat berries. One kind of honeysuckle plant grows in some places. The plant\u2019s berries grow for just a short time. The berries have a strong red color. Some waxwings feed a lot of those red berries to their babies. Their babies might be growing tail feathers at that time. If they are, the red color settles in their tail feathers. Instead of having yellow tips like their parents, their feathers are tipped in orange.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "To have orange-tipped feathers, baby waxwings must ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Have parents that look that way", "value": "Have parents that look that way"}, {"text_en": "Eat one kind of red berry", "value": "Eat one kind of red berry"}, {"text_en": "Eat a lot of orange plants", "value": "Eat a lot of orange plants"}, {"text_en": "Get red berries on their tails", "value": "Get red berries on their tails"}]}, {"type": "scq", "sentence": "Which one is true about most adult waxwings", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They eat only red berries", "value": "They eat only red berries"}, {"text_en": "Their tail feathers have orange tips", "value": "Their tail feathers have orange tips"}, {"text_en": "They mostly eat yellow bugs", "value": "They mostly eat yellow bugs"}, {"text_en": "Their tail feathers have yellow tips.", "value": "Their tail feathers have yellow tips."}]}, {"type": "scq", "sentence": "Which question does the passage answer", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Why do waxwings feed their babies red berries", "value": "Why do waxwings feed their babies red berries"}, {"text_en": "Why do some young waxwings look different from their parents", "value": "Why do some young waxwings look different from their parents"}, {"text_en": "Why do plants have berries", "value": "Why do plants have berries"}, {"text_en": "Why do birds have tail feathers?", "value": "Why do birds have tail feathers?"}]}, {"type": "scq", "sentence": "Based on what you read, what happens when red and yellow are mixed", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They make orange", "value": "They make orange"}, {"text_en": "They make a bright yellow", "value": "They make a bright yellow"}, {"text_en": "They make a dark red", "value": "They make a dark red"}, {"text_en": "They make blue.", "value": "They make blue."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Odd Baby Birds",
+        "sentence": "Waxwings are small songbirds. They have pale yellow bellies and yellow tips on their tail feathers. Some young waxwings are odd because they look different from their parents. Those young birds have tail feathers with orange tips. Scientists have discovered why. The answer has to do with food. Waxwings mostly eat berries. One kind of honeysuckle plant grows in some places. The plant\u2019s berries grow for just a short time. The berries have a strong red color. Some waxwings feed a lot of those red berries to their babies. Their babies might be growing tail feathers at that time. If they are, the red color settles in their tail feathers. Instead of having yellow tips like their parents, their feathers are tipped in orange.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "To have orange-tipped feathers, baby waxwings must ",
+            "hint": "N/A",
+            "answer": [
+                "Eat one kind of red berry"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Have parents that look that way",
+                    "value": "Have parents that look that way"
+                },
+                {
+                    "text_en": "Eat one kind of red berry",
+                    "value": "Eat one kind of red berry"
+                },
+                {
+                    "text_en": "Eat a lot of orange plants",
+                    "value": "Eat a lot of orange plants"
+                },
+                {
+                    "text_en": "Get red berries on their tails",
+                    "value": "Get red berries on their tails"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which one is true about most adult waxwings",
+            "hint": "N/A",
+            "answer": [
+                "Their tail feathers have yellow tips."
+            ],
+            "card_data": [
+                {
+                    "text_en": "They eat only red berries",
+                    "value": "They eat only red berries"
+                },
+                {
+                    "text_en": "Their tail feathers have orange tips",
+                    "value": "Their tail feathers have orange tips"
+                },
+                {
+                    "text_en": "They mostly eat yellow bugs",
+                    "value": "They mostly eat yellow bugs"
+                },
+                {
+                    "text_en": "Their tail feathers have yellow tips.",
+                    "value": "Their tail feathers have yellow tips."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which question does the passage answer",
+            "hint": "N/A",
+            "answer": [
+                "Why do some young waxwings look different from their parents"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Why do waxwings feed their babies red berries",
+                    "value": "Why do waxwings feed their babies red berries"
+                },
+                {
+                    "text_en": "Why do some young waxwings look different from their parents",
+                    "value": "Why do some young waxwings look different from their parents"
+                },
+                {
+                    "text_en": "Why do plants have berries",
+                    "value": "Why do plants have berries"
+                },
+                {
+                    "text_en": "Why do birds have tail feathers?",
+                    "value": "Why do birds have tail feathers?"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Based on what you read, what happens when red and yellow are mixed",
+            "hint": "N/A",
+            "answer": [
+                "They make orange"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They make orange",
+                    "value": "They make orange"
+                },
+                {
+                    "text_en": "They make a bright yellow",
+                    "value": "They make a bright yellow"
+                },
+                {
+                    "text_en": "They make a dark red",
+                    "value": "They make a dark red"
+                },
+                {
+                    "text_en": "They make blue.",
+                    "value": "They make blue."
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "How An Island Is Formed", "sentence": "Most islands are located in oceans. Many of these islands are the tops of huge volcanoes. The volcanoes go all the way down to the bottom of the sea. But they began under the ocean floor. The ocean floor is part of a layer of Earth called the crust. It is very hot underneath the crust, so the rocks there are soft. Those hot, soft rocks rise through cracks in Earth\u2019s crust. That action is the beginning of an underwater volcano. When hot rocks rise through the crust, they hit the water. The water cools the rocks and hardens them. As more hot rocks spill out of the cracks, layers of rocks build up. Over a long period of time, the layers can get higher and higher. As a result, the underwater volcano might rise out of the ocean. The top of that volcano is an island.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "The rocks underneath the ocean floor are soft because ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They form a volcano", "value": "They form a volcano"}, {"text_en": "The water is very deep", "value": "The water is very deep"}, {"text_en": "They squeeze through cracks", "value": "They squeeze through cracks"}, {"text_en": "It is very hot there", "value": "It is very hot there"}]}, {"type": "scq", "sentence": "Because underwater volcanoes can rise above the water, ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Their tops can form islands", "value": "Their tops can form islands"}, {"text_en": "They make the ocean very hot", "value": "They make the ocean very hot"}, {"text_en": "They squeeze through earths cracks", "value": "They squeeze through earths cracks"}, {"text_en": "Their rocks are soft and hot", "value": "Their rocks are soft and hot"}]}, {"type": "scq", "sentence": "Why can some rocks squeeze through cracks under earths crust", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Those rocks are hard and strong", "value": "Those rocks are hard and strong"}, {"text_en": "Those rocks are soft and hot", "value": "Those rocks are soft and hot"}, {"text_en": "Those rocks are small and light", "value": "Those rocks are small and light"}, {"text_en": "Those rocks are cold and soft.", "value": "Those rocks are cold and soft."}]}, {"type": "scq", "sentence": "Which one is true about an island in the sea", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "It is under earths crust", "value": "It is under earths crust"}, {"text_en": "It goes down to the ocean floor", "value": "It goes down to the ocean floor"}, {"text_en": "Its rocks are soft and hot", "value": "Its rocks are soft and hot"}, {"text_en": "It was created by a volcano on land.", "value": "It was created by a volcano on land."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "How An Island Is Formed",
+        "sentence": "Most islands are located in oceans. Many of these islands are the tops of huge volcanoes. The volcanoes go all the way down to the bottom of the sea. But they began under the ocean floor. The ocean floor is part of a layer of Earth called the crust. It is very hot underneath the crust, so the rocks there are soft. Those hot, soft rocks rise through cracks in Earth\u2019s crust. That action is the beginning of an underwater volcano. When hot rocks rise through the crust, they hit the water. The water cools the rocks and hardens them. As more hot rocks spill out of the cracks, layers of rocks build up. Over a long period of time, the layers can get higher and higher. As a result, the underwater volcano might rise out of the ocean. The top of that volcano is an island.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "The rocks underneath the ocean floor are soft because ",
+            "hint": "N/A",
+            "answer": [
+                "It is very hot there"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They form a volcano",
+                    "value": "They form a volcano"
+                },
+                {
+                    "text_en": "The water is very deep",
+                    "value": "The water is very deep"
+                },
+                {
+                    "text_en": "They squeeze through cracks",
+                    "value": "They squeeze through cracks"
+                },
+                {
+                    "text_en": "It is very hot there",
+                    "value": "It is very hot there"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Because underwater volcanoes can rise above the water, ",
+            "hint": "N/A",
+            "answer": [
+                "Their tops can form islands"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Their tops can form islands",
+                    "value": "Their tops can form islands"
+                },
+                {
+                    "text_en": "They make the ocean very hot",
+                    "value": "They make the ocean very hot"
+                },
+                {
+                    "text_en": "They squeeze through earths cracks",
+                    "value": "They squeeze through earths cracks"
+                },
+                {
+                    "text_en": "Their rocks are soft and hot",
+                    "value": "Their rocks are soft and hot"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Why can some rocks squeeze through cracks under earths crust",
+            "hint": "N/A",
+            "answer": [
+                "Those rocks are soft and hot"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Those rocks are hard and strong",
+                    "value": "Those rocks are hard and strong"
+                },
+                {
+                    "text_en": "Those rocks are soft and hot",
+                    "value": "Those rocks are soft and hot"
+                },
+                {
+                    "text_en": "Those rocks are small and light",
+                    "value": "Those rocks are small and light"
+                },
+                {
+                    "text_en": "Those rocks are cold and soft.",
+                    "value": "Those rocks are cold and soft."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which one is true about an island in the sea",
+            "hint": "N/A",
+            "answer": [
+                "It goes down to the ocean floor"
+            ],
+            "card_data": [
+                {
+                    "text_en": "It is under earths crust",
+                    "value": "It is under earths crust"
+                },
+                {
+                    "text_en": "It goes down to the ocean floor",
+                    "value": "It goes down to the ocean floor"
+                },
+                {
+                    "text_en": "Its rocks are soft and hot",
+                    "value": "Its rocks are soft and hot"
+                },
+                {
+                    "text_en": "It was created by a volcano on land.",
+                    "value": "It was created by a volcano on land."
+                }
+            ]
+        }
+    ]
+}

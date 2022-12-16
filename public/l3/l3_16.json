@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Boas", "sentence": "Boas are large, powerful snakes. Some types of boas are as long as 18 feet. Boas are found mostly in forests in parts of Mexico and South America. They live on the ground, in trees, and in or near water. Boas are good swimmers. They also can climb trees, twist around branches, and hang by their tails. Their body colors and skin patterns blend into the trees. Boas are meat eaters. They hunt at night for small animals and birds. They first grab their prey with their teeth. Then they squeeze their prey to kill it. They swallow their food whole and do not chew. All boas have strong muscles that help them move and help them eat.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "Which fact would go under the subhead how boas eat", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Boas have scales on their skin", "value": "Boas have scales on their skin"}, {"text_en": "Baby boas grow inside eggs", "value": "Baby boas grow inside eggs"}, {"text_en": "Boas do not eat every day", "value": "Boas do not eat every day"}, {"text_en": "Boas are reptiles.", "value": "Boas are reptiles."}]}, {"type": "scq", "sentence": "Which one would go with the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "A drawing of boas resting in the sun", "value": "A drawing of boas resting in the sun"}, {"text_en": "A map showing where boas live in the world", "value": "A map showing where boas live in the world"}, {"text_en": "A photo of boa eggs", "value": "A photo of boa eggs"}, {"text_en": "A chart comparing boas and rattlesnakes", "value": "A chart comparing boas and rattlesnakes"}]}, {"type": "scq", "sentence": "Which of these is a good title for the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Slimy snakes", "value": "Slimy snakes"}, {"text_en": "Danger in the trees", "value": "Danger in the trees"}, {"text_en": "Big meat eaters", "value": "Big meat eaters"}, {"text_en": "Facts about boas", "value": "Facts about boas"}]}, {"type": "scq", "sentence": "What do boas do right after they grab their prey", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Swallow it", "value": "Swallow it"}, {"text_en": "Squeeze it to death", "value": "Squeeze it to death"}, {"text_en": "Chew it slowly", "value": "Chew it slowly"}, {"text_en": "Take it up into a tree", "value": "Take it up into a tree"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Boas",
+        "sentence": "Boas are large, powerful snakes. Some types of boas are as long as 18 feet. Boas are found mostly in forests in parts of Mexico and South America. They live on the ground, in trees, and in or near water. Boas are good swimmers. They also can climb trees, twist around branches, and hang by their tails. Their body colors and skin patterns blend into the trees. Boas are meat eaters. They hunt at night for small animals and birds. They first grab their prey with their teeth. Then they squeeze their prey to kill it. They swallow their food whole and do not chew. All boas have strong muscles that help them move and help them eat.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "Which fact would go under the subhead how boas eat",
+            "hint": "N/A",
+            "answer": [
+                "Boas do not eat every day"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Boas have scales on their skin",
+                    "value": "Boas have scales on their skin"
+                },
+                {
+                    "text_en": "Baby boas grow inside eggs",
+                    "value": "Baby boas grow inside eggs"
+                },
+                {
+                    "text_en": "Boas do not eat every day",
+                    "value": "Boas do not eat every day"
+                },
+                {
+                    "text_en": "Boas are reptiles.",
+                    "value": "Boas are reptiles."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which one would go with the passage",
+            "hint": "N/A",
+            "answer": [
+                "A map showing where boas live in the world"
+            ],
+            "card_data": [
+                {
+                    "text_en": "A drawing of boas resting in the sun",
+                    "value": "A drawing of boas resting in the sun"
+                },
+                {
+                    "text_en": "A map showing where boas live in the world",
+                    "value": "A map showing where boas live in the world"
+                },
+                {
+                    "text_en": "A photo of boa eggs",
+                    "value": "A photo of boa eggs"
+                },
+                {
+                    "text_en": "A chart comparing boas and rattlesnakes",
+                    "value": "A chart comparing boas and rattlesnakes"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which of these is a good title for the passage",
+            "hint": "N/A",
+            "answer": [
+                "Facts about boas"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Slimy snakes",
+                    "value": "Slimy snakes"
+                },
+                {
+                    "text_en": "Danger in the trees",
+                    "value": "Danger in the trees"
+                },
+                {
+                    "text_en": "Big meat eaters",
+                    "value": "Big meat eaters"
+                },
+                {
+                    "text_en": "Facts about boas",
+                    "value": "Facts about boas"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What do boas do right after they grab their prey",
+            "hint": "N/A",
+            "answer": [
+                "Squeeze it to death"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Swallow it",
+                    "value": "Swallow it"
+                },
+                {
+                    "text_en": "Squeeze it to death",
+                    "value": "Squeeze it to death"
+                },
+                {
+                    "text_en": "Chew it slowly",
+                    "value": "Chew it slowly"
+                },
+                {
+                    "text_en": "Take it up into a tree",
+                    "value": "Take it up into a tree"
+                }
+            ]
+        }
+    ]
+}

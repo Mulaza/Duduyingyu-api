@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Sparky The Wonder Dog", "sentence": "Bella\u2019s dog Sparky likes to run and explore. Bella thinks that Sparky is like a magician. One moment Sparky is in the backyard and then, all of a sudden, he\u2019s gone! Sparky escaped again last week, so Bella set out to find him. She called out Sparky\u2019s name as she walked. Bella even shook Sparky\u2019s bag of dog chow. \u201cTreats! Treats!\u201d yelled Bella. Sparky loved his treats, but he did not appear. Then Bella stopped. She smelled some meat grilling. She spotted a cloud of smoke from behind a house. Bella headed there and peeked in the yard. Sure enough, there was Sparky. He stood on his hind legs in front of a grill. Sparky was whistling and flipping burgers. Bella could see Sparky\u2019s mouth drool. Bella wondered where Sparky got the apron he was wearing.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "What can really happen", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "A dog can cook burgers", "value": "A dog can cook burgers"}, {"text_en": "A dog can run away", "value": "A dog can run away"}, {"text_en": "A dog can whistle", "value": "A dog can whistle"}, {"text_en": "A dog can do magic.", "value": "A dog can do magic."}]}, {"type": "scq", "sentence": "What is make-believe in the story", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "A girl looks for a missing dog", "value": "A girl looks for a missing dog"}, {"text_en": "A dog likes treats", "value": "A dog likes treats"}, {"text_en": "A dog cooks burgers", "value": "A dog cooks burgers"}, {"text_en": "A dog stands on its back legs.", "value": "A dog stands on its back legs."}]}, {"type": "scq", "sentence": "Which word best describes sparky", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Well-behaved", "value": "Well-behaved"}, {"text_en": "Clever", "value": "Clever"}, {"text_en": "Angry", "value": "Angry"}, {"text_en": "Lucky", "value": "Lucky"}]}, {"type": "scq", "sentence": "Which one can be said about sparky", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Sparky is a small dog", "value": "Sparky is a small dog"}, {"text_en": "Sparky has run away before", "value": "Sparky has run away before"}, {"text_en": "Sparky never leaves the backyard", "value": "Sparky never leaves the backyard"}, {"text_en": "Sparky comes when he is called.", "value": "Sparky comes when he is called."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Sparky The Wonder Dog",
+        "sentence": "Bella\u2019s dog Sparky likes to run and explore. Bella thinks that Sparky is like a magician. One moment Sparky is in the backyard and then, all of a sudden, he\u2019s gone! Sparky escaped again last week, so Bella set out to find him. She called out Sparky\u2019s name as she walked. Bella even shook Sparky\u2019s bag of dog chow. \u201cTreats! Treats!\u201d yelled Bella. Sparky loved his treats, but he did not appear. Then Bella stopped. She smelled some meat grilling. She spotted a cloud of smoke from behind a house. Bella headed there and peeked in the yard. Sure enough, there was Sparky. He stood on his hind legs in front of a grill. Sparky was whistling and flipping burgers. Bella could see Sparky\u2019s mouth drool. Bella wondered where Sparky got the apron he was wearing.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "What can really happen",
+            "hint": "N/A",
+            "answer": [
+                "A dog can run away"
+            ],
+            "card_data": [
+                {
+                    "text_en": "A dog can cook burgers",
+                    "value": "A dog can cook burgers"
+                },
+                {
+                    "text_en": "A dog can run away",
+                    "value": "A dog can run away"
+                },
+                {
+                    "text_en": "A dog can whistle",
+                    "value": "A dog can whistle"
+                },
+                {
+                    "text_en": "A dog can do magic.",
+                    "value": "A dog can do magic."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What is make-believe in the story",
+            "hint": "N/A",
+            "answer": [
+                "A dog cooks burgers"
+            ],
+            "card_data": [
+                {
+                    "text_en": "A girl looks for a missing dog",
+                    "value": "A girl looks for a missing dog"
+                },
+                {
+                    "text_en": "A dog likes treats",
+                    "value": "A dog likes treats"
+                },
+                {
+                    "text_en": "A dog cooks burgers",
+                    "value": "A dog cooks burgers"
+                },
+                {
+                    "text_en": "A dog stands on its back legs.",
+                    "value": "A dog stands on its back legs."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which word best describes sparky",
+            "hint": "N/A",
+            "answer": [
+                "Clever"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Well-behaved",
+                    "value": "Well-behaved"
+                },
+                {
+                    "text_en": "Clever",
+                    "value": "Clever"
+                },
+                {
+                    "text_en": "Angry",
+                    "value": "Angry"
+                },
+                {
+                    "text_en": "Lucky",
+                    "value": "Lucky"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which one can be said about sparky",
+            "hint": "N/A",
+            "answer": [
+                "Sparky has run away before"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Sparky is a small dog",
+                    "value": "Sparky is a small dog"
+                },
+                {
+                    "text_en": "Sparky has run away before",
+                    "value": "Sparky has run away before"
+                },
+                {
+                    "text_en": "Sparky never leaves the backyard",
+                    "value": "Sparky never leaves the backyard"
+                },
+                {
+                    "text_en": "Sparky comes when he is called.",
+                    "value": "Sparky comes when he is called."
+                }
+            ]
+        }
+    ]
+}

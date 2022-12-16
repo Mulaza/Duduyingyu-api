@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Earth\u2019S Top And Bottom", "sentence": "Earth\u2019s top and bottom are more different than alike. The Arctic is the farthest place north. It is an icy ocean surrounded by land. Antarctica is the farthest place south. It is a frozen land surrounded by ocean. Both places are too cold to rain. Very little snow falls in either place because the air is as dry as a desert. Large areas of land surround the Arctic Ocean. The land closest to the Arctic is always frozen deep down into the soil. But in the summer, the weather is mild. Some plants grow then, and wolves, foxes, and birds feed on them. Unlike the Arctic, all of Antarctica is covered in ice that never melts. It is the coldest place on Earth. Only tiny insects live there. But sea animals live in the icy ocean around Antarctica. Emperor penguins live on ice packs near the coast.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "Why did the author write the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "To entertain you with a funny story", "value": "To entertain you with a funny story"}, {"text_en": "To get you to visit the arctic and antarctica", "value": "To get you to visit the arctic and antarctica"}, {"text_en": "To tell how the arctic and antarctica are the same and different", "value": "To tell how the arctic and antarctica are the same and different"}, {"text_en": "To share facts about cold places", "value": "To share facts about cold places"}]}, {"type": "scq", "sentence": "Which one is true about the arctic", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The arctic is an ocean surrounded by land", "value": "The arctic is an ocean surrounded by land"}, {"text_en": "The arctic is at the bottom of earth", "value": "The arctic is at the bottom of earth"}, {"text_en": "Penguins live in the arctic", "value": "Penguins live in the arctic"}, {"text_en": "The weather in the arctic is mild all year round.", "value": "The weather in the arctic is mild all year round."}]}, {"type": "scq", "sentence": "What is one way antarctica is different from the arctic", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Antarctica is farther north than the arctic", "value": "Antarctica is farther north than the arctic"}, {"text_en": "Antarctica is never mild, but the arctic sometimes is", "value": "Antarctica is never mild, but the arctic sometimes is"}, {"text_en": "Less snow falls in antarctica than in the arctic", "value": "Less snow falls in antarctica than in the arctic"}, {"text_en": "Antarctica is dry, but the arctic is wet.", "value": "Antarctica is dry, but the arctic is wet."}]}, {"type": "scq", "sentence": "Which phrase describes both places", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Sunny and mild", "value": "Sunny and mild"}, {"text_en": "Icy and frozen", "value": "Icy and frozen"}, {"text_en": "Snowy and icy", "value": "Snowy and icy"}, {"text_en": "Rainy and frozen", "value": "Rainy and frozen"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Earth\u2019S Top And Bottom",
+        "sentence": "Earth\u2019s top and bottom are more different than alike. The Arctic is the farthest place north. It is an icy ocean surrounded by land. Antarctica is the farthest place south. It is a frozen land surrounded by ocean. Both places are too cold to rain. Very little snow falls in either place because the air is as dry as a desert. Large areas of land surround the Arctic Ocean. The land closest to the Arctic is always frozen deep down into the soil. But in the summer, the weather is mild. Some plants grow then, and wolves, foxes, and birds feed on them. Unlike the Arctic, all of Antarctica is covered in ice that never melts. It is the coldest place on Earth. Only tiny insects live there. But sea animals live in the icy ocean around Antarctica. Emperor penguins live on ice packs near the coast.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "Why did the author write the passage",
+            "hint": "N/A",
+            "answer": [
+                "To tell how the arctic and antarctica are the same and different"
+            ],
+            "card_data": [
+                {
+                    "text_en": "To entertain you with a funny story",
+                    "value": "To entertain you with a funny story"
+                },
+                {
+                    "text_en": "To get you to visit the arctic and antarctica",
+                    "value": "To get you to visit the arctic and antarctica"
+                },
+                {
+                    "text_en": "To tell how the arctic and antarctica are the same and different",
+                    "value": "To tell how the arctic and antarctica are the same and different"
+                },
+                {
+                    "text_en": "To share facts about cold places",
+                    "value": "To share facts about cold places"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which one is true about the arctic",
+            "hint": "N/A",
+            "answer": [
+                "The arctic is an ocean surrounded by land"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The arctic is an ocean surrounded by land",
+                    "value": "The arctic is an ocean surrounded by land"
+                },
+                {
+                    "text_en": "The arctic is at the bottom of earth",
+                    "value": "The arctic is at the bottom of earth"
+                },
+                {
+                    "text_en": "Penguins live in the arctic",
+                    "value": "Penguins live in the arctic"
+                },
+                {
+                    "text_en": "The weather in the arctic is mild all year round.",
+                    "value": "The weather in the arctic is mild all year round."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What is one way antarctica is different from the arctic",
+            "hint": "N/A",
+            "answer": [
+                "Antarctica is never mild, but the arctic sometimes is"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Antarctica is farther north than the arctic",
+                    "value": "Antarctica is farther north than the arctic"
+                },
+                {
+                    "text_en": "Antarctica is never mild, but the arctic sometimes is",
+                    "value": "Antarctica is never mild, but the arctic sometimes is"
+                },
+                {
+                    "text_en": "Less snow falls in antarctica than in the arctic",
+                    "value": "Less snow falls in antarctica than in the arctic"
+                },
+                {
+                    "text_en": "Antarctica is dry, but the arctic is wet.",
+                    "value": "Antarctica is dry, but the arctic is wet."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which phrase describes both places",
+            "hint": "N/A",
+            "answer": [
+                "Icy and frozen"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Sunny and mild",
+                    "value": "Sunny and mild"
+                },
+                {
+                    "text_en": "Icy and frozen",
+                    "value": "Icy and frozen"
+                },
+                {
+                    "text_en": "Snowy and icy",
+                    "value": "Snowy and icy"
+                },
+                {
+                    "text_en": "Rainy and frozen",
+                    "value": "Rainy and frozen"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Is It A Goat Or A Sheep?", "sentence": "Goats and sheep seem very much alike. They both walk on two toes, which makes them very nimble animals. They can climb rocky ridges. And they can walk on narrow ledges like tightrope walkers in a circus. People around the world think both animals are good to eat and that their milk is good to drink. The milk of both goats and sheep is often made into cheese. The bodies of sheep and goats are different. Most goats have beards, and most sheep do not. A goat\u2019s tail sticks up, while a sheep\u2019s tail hangs down. A goat\u2019s hair is short and stringy. The hair of a sheep is thick and curly and is called wool. It needs to be cut every year. The hair of both animals is made into yarn. Goats and sheep have different behaviors, too. They both are grazers that eat plants. Sheep like to eat short, tender grass, while goats like to eat leaves, twigs, and vines. Goats can stand on their hind legs to reach food. Sheep like to stay together in flocks. But goats are more curious and independent than sheep.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "How are goats and sheep the same", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They both have curly hair", "value": "They both have curly hair"}, {"text_en": "They both have beards", "value": "They both have beards"}, {"text_en": "They both give milk that people drink", "value": "They both give milk that people drink"}, {"text_en": "They both have wool.", "value": "They both have wool."}]}, {"type": "scq", "sentence": "How are sheep different from goats", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "People eat sheep but not goats", "value": "People eat sheep but not goats"}, {"text_en": "Sheeps hair can be made into yarn, but goats hair cannot", "value": "Sheeps hair can be made into yarn, but goats hair cannot"}, {"text_en": "Only sheep can climb rocky ledges", "value": "Only sheep can climb rocky ledges"}, {"text_en": "Sheep do not have beards, but goats do.", "value": "Sheep do not have beards, but goats do."}]}, {"type": "scq", "sentence": "How are goats different from sheep", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Only goats like to stay together", "value": "Only goats like to stay together"}, {"text_en": "The tails of goats go up, but the tails of sheep go down", "value": "The tails of goats go up, but the tails of sheep go down"}, {"text_en": "Only sheeps milk is used for cheese", "value": "Only sheeps milk is used for cheese"}, {"text_en": "Goats are grazers, but sheep are not.", "value": "Goats are grazers, but sheep are not."}]}, {"type": "scq", "sentence": "Based on the passage, which one is most likely true about both goats and sheep", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They are pests", "value": "They are pests"}, {"text_en": "They are useful to people", "value": "They are useful to people"}, {"text_en": "They should be kept in zoos", "value": "They should be kept in zoos"}, {"text_en": "They make good pets.", "value": "They make good pets."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Is It A Goat Or A Sheep?",
+        "sentence": "Goats and sheep seem very much alike. They both walk on two toes, which makes them very nimble animals. They can climb rocky ridges. And they can walk on narrow ledges like tightrope walkers in a circus. People around the world think both animals are good to eat and that their milk is good to drink. The milk of both goats and sheep is often made into cheese. The bodies of sheep and goats are different. Most goats have beards, and most sheep do not. A goat\u2019s tail sticks up, while a sheep\u2019s tail hangs down. A goat\u2019s hair is short and stringy. The hair of a sheep is thick and curly and is called wool. It needs to be cut every year. The hair of both animals is made into yarn. Goats and sheep have different behaviors, too. They both are grazers that eat plants. Sheep like to eat short, tender grass, while goats like to eat leaves, twigs, and vines. Goats can stand on their hind legs to reach food. Sheep like to stay together in flocks. But goats are more curious and independent than sheep.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "How are goats and sheep the same",
+            "hint": "N/A",
+            "answer": [
+                "They both give milk that people drink"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They both have curly hair",
+                    "value": "They both have curly hair"
+                },
+                {
+                    "text_en": "They both have beards",
+                    "value": "They both have beards"
+                },
+                {
+                    "text_en": "They both give milk that people drink",
+                    "value": "They both give milk that people drink"
+                },
+                {
+                    "text_en": "They both have wool.",
+                    "value": "They both have wool."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "How are sheep different from goats",
+            "hint": "N/A",
+            "answer": [
+                "Sheep do not have beards, but goats do."
+            ],
+            "card_data": [
+                {
+                    "text_en": "People eat sheep but not goats",
+                    "value": "People eat sheep but not goats"
+                },
+                {
+                    "text_en": "Sheeps hair can be made into yarn, but goats hair cannot",
+                    "value": "Sheeps hair can be made into yarn, but goats hair cannot"
+                },
+                {
+                    "text_en": "Only sheep can climb rocky ledges",
+                    "value": "Only sheep can climb rocky ledges"
+                },
+                {
+                    "text_en": "Sheep do not have beards, but goats do.",
+                    "value": "Sheep do not have beards, but goats do."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "How are goats different from sheep",
+            "hint": "N/A",
+            "answer": [
+                "The tails of goats go up, but the tails of sheep go down"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Only goats like to stay together",
+                    "value": "Only goats like to stay together"
+                },
+                {
+                    "text_en": "The tails of goats go up, but the tails of sheep go down",
+                    "value": "The tails of goats go up, but the tails of sheep go down"
+                },
+                {
+                    "text_en": "Only sheeps milk is used for cheese",
+                    "value": "Only sheeps milk is used for cheese"
+                },
+                {
+                    "text_en": "Goats are grazers, but sheep are not.",
+                    "value": "Goats are grazers, but sheep are not."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Based on the passage, which one is most likely true about both goats and sheep",
+            "hint": "N/A",
+            "answer": [
+                "They are useful to people"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They are pests",
+                    "value": "They are pests"
+                },
+                {
+                    "text_en": "They are useful to people",
+                    "value": "They are useful to people"
+                },
+                {
+                    "text_en": "They should be kept in zoos",
+                    "value": "They should be kept in zoos"
+                },
+                {
+                    "text_en": "They make good pets.",
+                    "value": "They make good pets."
+                }
+            ]
+        }
+    ]
+}

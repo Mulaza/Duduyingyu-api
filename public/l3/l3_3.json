@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Learning About Chimpanzees", "sentence": "We know a lot about chimpanzees because of Jane Goodall. She studied the apes for over 30 years. She crawled through thick forests in Africa to sit still and watch them. During that time, Jane wrote down what she saw and heard. We now know that chimpanzees live in friendly groups. They greet each other with a hug and a kiss. Mother chimps tickle their babies and make them laugh. Chimpanzees play games together, and they clean each other. They show their feelings, too. Worried chimpanzees pucker their lips. Scared chimpanzees bare their teeth. Calm and happy chimpanzees smile. And each sound a chimpanzee makes means something. For example, chimpanzees bark when they find food. Chimpanzees also solve problems. They use sticks as tools to get food they cannot reach. They chew leaves and use them as sponges to sop up water.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "Which one is probably jane goodalls job", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "She raises chimpanzees", "value": "She raises chimpanzees"}, {"text_en": "She is a zoo vet", "value": "She is a zoo vet"}, {"text_en": "She is a scientist", "value": "She is a scientist"}, {"text_en": "She trains animals.", "value": "She trains animals."}]}, {"type": "scq", "sentence": "Based on the passage, which one is true about chimpanzees", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They do not like people", "value": "They do not like people"}, {"text_en": "They act like people in some ways", "value": "They act like people in some ways"}, {"text_en": "They like to live alone", "value": "They like to live alone"}, {"text_en": "They sing and dance.", "value": "They sing and dance."}]}, {"type": "scq", "sentence": "Where do chimpanzees live", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Only in zoos", "value": "Only in zoos"}, {"text_en": "In forests", "value": "In forests"}, {"text_en": "In deserts", "value": "In deserts"}, {"text_en": "In icy areas", "value": "In icy areas"}]}, {"type": "scq", "sentence": "Which one shows that chimpanzees act like people", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They show their teeth when they are scared", "value": "They show their teeth when they are scared"}, {"text_en": "They bark when they find food", "value": "They bark when they find food"}, {"text_en": "They pucker their lips when they are worried", "value": "They pucker their lips when they are worried"}, {"text_en": "They play games together.", "value": "They play games together."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Learning About Chimpanzees",
+        "sentence": "We know a lot about chimpanzees because of Jane Goodall. She studied the apes for over 30 years. She crawled through thick forests in Africa to sit still and watch them. During that time, Jane wrote down what she saw and heard. We now know that chimpanzees live in friendly groups. They greet each other with a hug and a kiss. Mother chimps tickle their babies and make them laugh. Chimpanzees play games together, and they clean each other. They show their feelings, too. Worried chimpanzees pucker their lips. Scared chimpanzees bare their teeth. Calm and happy chimpanzees smile. And each sound a chimpanzee makes means something. For example, chimpanzees bark when they find food. Chimpanzees also solve problems. They use sticks as tools to get food they cannot reach. They chew leaves and use them as sponges to sop up water.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "Which one is probably jane goodalls job",
+            "hint": "N/A",
+            "answer": [
+                "She is a scientist"
+            ],
+            "card_data": [
+                {
+                    "text_en": "She raises chimpanzees",
+                    "value": "She raises chimpanzees"
+                },
+                {
+                    "text_en": "She is a zoo vet",
+                    "value": "She is a zoo vet"
+                },
+                {
+                    "text_en": "She is a scientist",
+                    "value": "She is a scientist"
+                },
+                {
+                    "text_en": "She trains animals.",
+                    "value": "She trains animals."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Based on the passage, which one is true about chimpanzees",
+            "hint": "N/A",
+            "answer": [
+                "They act like people in some ways"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They do not like people",
+                    "value": "They do not like people"
+                },
+                {
+                    "text_en": "They act like people in some ways",
+                    "value": "They act like people in some ways"
+                },
+                {
+                    "text_en": "They like to live alone",
+                    "value": "They like to live alone"
+                },
+                {
+                    "text_en": "They sing and dance.",
+                    "value": "They sing and dance."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Where do chimpanzees live",
+            "hint": "N/A",
+            "answer": [
+                "In forests"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Only in zoos",
+                    "value": "Only in zoos"
+                },
+                {
+                    "text_en": "In forests",
+                    "value": "In forests"
+                },
+                {
+                    "text_en": "In deserts",
+                    "value": "In deserts"
+                },
+                {
+                    "text_en": "In icy areas",
+                    "value": "In icy areas"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which one shows that chimpanzees act like people",
+            "hint": "N/A",
+            "answer": [
+                "They play games together"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They show their teeth when they are scared",
+                    "value": "They show their teeth when they are scared"
+                },
+                {
+                    "text_en": "They bark when they find food",
+                    "value": "They bark when they find food"
+                },
+                {
+                    "text_en": "They pucker their lips when they are worried",
+                    "value": "They pucker their lips when they are worried"
+                },
+                {
+                    "text_en": "They play games together",
+                    "value": "They play games together"
+                }
+            ]
+        }
+    ]
+}

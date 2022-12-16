@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "No Camp For Me!", "sentence": "Fabio was new at summer camp, and he did not like it at all. In fact, he hated every minute of it. On his first day, he and the other campers swam in a lake. The bottom of the lake felt like muddy slime creeping between Fabio\u2019s toes. He dashed out of the water when a fish nibbled at his knee. Fabio\u2019s second day started badly. The campers hiked through some woods. Dry twigs scratched Fabio\u2019s legs, and black bugs bit his arms. The stinky smell of a skunk made his eyes water. Fabio walked behind the others. He wished he were at home. Then a boy named Cody started talking to Fabio. It turned out that they liked playing the same games. They made a deal to try out for the camp softball team. Fabio thought the next day at camp would be fun.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "What is the main idea of the second paragraph", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Fabio does not enjoy his first day at camp", "value": "Fabio does not enjoy his first day at camp"}, {"text_en": "Fabio goes to camp", "value": "Fabio goes to camp"}, {"text_en": "Fabio is bitten by a fish", "value": "Fabio is bitten by a fish"}, {"text_en": "Fabios second day at camp is good.", "value": "Fabios second day at camp is good."}]}, {"type": "scq", "sentence": "What is the main idea of the third paragraph", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Bugs bite fabio", "value": "Bugs bite fabio"}, {"text_en": "Fabio makes a friend", "value": "Fabio makes a friend"}, {"text_en": "Fabio hates camp", "value": "Fabio hates camp"}, {"text_en": "Fabio tries out for softball.", "value": "Fabio tries out for softball."}]}, {"type": "scq", "sentence": "Which detail shows that camp was not fun for fabio", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Cody talks to fabio", "value": "Cody talks to fabio"}, {"text_en": "Cody and fabio like the same games", "value": "Cody and fabio like the same games"}, {"text_en": "Twigs scratch fabios legs", "value": "Twigs scratch fabios legs"}, {"text_en": "Fabio will try out for softball.", "value": "Fabio will try out for softball."}]}, {"type": "scq", "sentence": "What happens because cody talks to fabio", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Fabio wants to go home", "value": "Fabio wants to go home"}, {"text_en": "Fabio will be on codys softball team", "value": "Fabio will be on codys softball team"}, {"text_en": "Fabio no longer hates camp", "value": "Fabio no longer hates camp"}, {"text_en": "Fabio will not have to swim in the lake.", "value": "Fabio will not have to swim in the lake."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "No Camp For Me!",
+        "sentence": "Fabio was new at summer camp, and he did not like it at all. In fact, he hated every minute of it. On his first day, he and the other campers swam in a lake. The bottom of the lake felt like muddy slime creeping between Fabio\u2019s toes. He dashed out of the water when a fish nibbled at his knee. Fabio\u2019s second day started badly. The campers hiked through some woods. Dry twigs scratched Fabio\u2019s legs, and black bugs bit his arms. The stinky smell of a skunk made his eyes water. Fabio walked behind the others. He wished he were at home. Then a boy named Cody started talking to Fabio. It turned out that they liked playing the same games. They made a deal to try out for the camp softball team. Fabio thought the next day at camp would be fun.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "What is the main idea of the second paragraph",
+            "hint": "N/A",
+            "answer": [
+                "Fabio is bitten by a fish"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Fabio does not enjoy his first day at camp",
+                    "value": "Fabio does not enjoy his first day at camp"
+                },
+                {
+                    "text_en": "Fabio goes to camp",
+                    "value": "Fabio goes to camp"
+                },
+                {
+                    "text_en": "Fabio is bitten by a fish",
+                    "value": "Fabio is bitten by a fish"
+                },
+                {
+                    "text_en": "Fabios second day at camp is good.",
+                    "value": "Fabios second day at camp is good."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What is the main idea of the third paragraph",
+            "hint": "N/A",
+            "answer": [
+                "Fabio makes a friend"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Bugs bite fabio",
+                    "value": "Bugs bite fabio"
+                },
+                {
+                    "text_en": "Fabio makes a friend",
+                    "value": "Fabio makes a friend"
+                },
+                {
+                    "text_en": "Fabio hates camp",
+                    "value": "Fabio hates camp"
+                },
+                {
+                    "text_en": "Fabio tries out for softball.",
+                    "value": "Fabio tries out for softball."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which detail shows that camp was not fun for fabio",
+            "hint": "N/A",
+            "answer": [
+                "Twigs scratch fabios legs"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Cody talks to fabio",
+                    "value": "Cody talks to fabio"
+                },
+                {
+                    "text_en": "Cody and fabio like the same games",
+                    "value": "Cody and fabio like the same games"
+                },
+                {
+                    "text_en": "Twigs scratch fabios legs",
+                    "value": "Twigs scratch fabios legs"
+                },
+                {
+                    "text_en": "Fabio will try out for softball.",
+                    "value": "Fabio will try out for softball."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What happens because cody talks to fabio",
+            "hint": "N/A",
+            "answer": [
+                "Fabio no longer hates camp"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Fabio wants to go home",
+                    "value": "Fabio wants to go home"
+                },
+                {
+                    "text_en": "Fabio will be on codys softball team",
+                    "value": "Fabio will be on codys softball team"
+                },
+                {
+                    "text_en": "Fabio no longer hates camp",
+                    "value": "Fabio no longer hates camp"
+                },
+                {
+                    "text_en": "Fabio will not have to swim in the lake.",
+                    "value": "Fabio will not have to swim in the lake."
+                }
+            ]
+        }
+    ]
+}

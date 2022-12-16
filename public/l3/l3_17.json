@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Fumi\u2019S House", "sentence": "Kara likes getting e-mail from Fumi. Kara is a third-grader in Arizona, and Fumi is in third grade in Japan. They are e-pals who send e-mails every week. Fumi sent Kara photos and descriptions of her home. The first room in Fumi\u2019s house is a small entryway. People who enter the home remove their shoes. They put on different shoes with soft soles. That seemed odd to Kara. She wears her street shoes in the house. Kara likes the photo of Fumi and her family eating. They gather around a table, just like Kara and her family. Kara\u2019s family sits on chairs, but Fumi\u2019s family sits on cushions on a straw mat on the floor. The table is low to the ground. What seems to be a wall behind Fumi\u2019s family is actually a door without knobs. Fumi explained that the door slides open. It is made from strong paper glued to thin strips of wood. \u201cI could never play ball in that house!\u201d thought Kara.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "Why did the author write the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "To explain how to have an e-pal", "value": "To explain how to have an e-pal"}, {"text_en": "To tell the history of e-mail", "value": "To tell the history of e-mail"}, {"text_en": "To compare homes in japan and in the united states", "value": "To compare homes in japan and in the united states"}, {"text_en": "To show that homes in arizona are better than homes in japan", "value": "To show that homes in arizona are better than homes in japan"}]}, {"type": "scq", "sentence": "What is the same about fumis and karas homes", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Families sit around a table to eat", "value": "Families sit around a table to eat"}, {"text_en": "People wear soft-soled shoes inside", "value": "People wear soft-soled shoes inside"}, {"text_en": "The floors are covered with straw mats", "value": "The floors are covered with straw mats"}, {"text_en": "They are in the same country.", "value": "They are in the same country."}]}, {"type": "scq", "sentence": "How is fumi different from kara", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Fumi lives in the united states", "value": "Fumi lives in the united states"}, {"text_en": "Fumis family sits on the floor to eat", "value": "Fumis family sits on the floor to eat"}, {"text_en": "Fumis family eats around a table", "value": "Fumis family eats around a table"}, {"text_en": "Fumi is in the third grade.", "value": "Fumi is in the third grade."}]}, {"type": "scq", "sentence": "Kara and fumi both ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Take their shoes off when they get home", "value": "Take their shoes off when they get home"}, {"text_en": "Live in houses with doors made from paper", "value": "Live in houses with doors made from paper"}, {"text_en": "Learn about a new place from their e-pal", "value": "Learn about a new place from their e-pal"}, {"text_en": "Sit on chairs during dinner", "value": "Sit on chairs during dinner"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Fumi\u2019S House",
+        "sentence": "Kara likes getting e-mail from Fumi. Kara is a third-grader in Arizona, and Fumi is in third grade in Japan. They are e-pals who send e-mails every week. Fumi sent Kara photos and descriptions of her home. The first room in Fumi\u2019s house is a small entryway. People who enter the home remove their shoes. They put on different shoes with soft soles. That seemed odd to Kara. She wears her street shoes in the house. Kara likes the photo of Fumi and her family eating. They gather around a table, just like Kara and her family. Kara\u2019s family sits on chairs, but Fumi\u2019s family sits on cushions on a straw mat on the floor. The table is low to the ground. What seems to be a wall behind Fumi\u2019s family is actually a door without knobs. Fumi explained that the door slides open. It is made from strong paper glued to thin strips of wood. \u201cI could never play ball in that house!\u201d thought Kara.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "Why did the author write the passage",
+            "hint": "N/A",
+            "answer": [
+                "To compare homes in japan and in the united states"
+            ],
+            "card_data": [
+                {
+                    "text_en": "To explain how to have an e-pal",
+                    "value": "To explain how to have an e-pal"
+                },
+                {
+                    "text_en": "To tell the history of e-mail",
+                    "value": "To tell the history of e-mail"
+                },
+                {
+                    "text_en": "To compare homes in japan and in the united states",
+                    "value": "To compare homes in japan and in the united states"
+                },
+                {
+                    "text_en": "To show that homes in arizona are better than homes in japan",
+                    "value": "To show that homes in arizona are better than homes in japan"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What is the same about fumis and karas homes",
+            "hint": "N/A",
+            "answer": [
+                "Families sit around a table to eat"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Families sit around a table to eat",
+                    "value": "Families sit around a table to eat"
+                },
+                {
+                    "text_en": "People wear soft-soled shoes inside",
+                    "value": "People wear soft-soled shoes inside"
+                },
+                {
+                    "text_en": "The floors are covered with straw mats",
+                    "value": "The floors are covered with straw mats"
+                },
+                {
+                    "text_en": "They are in the same country.",
+                    "value": "They are in the same country."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "How is fumi different from kara",
+            "hint": "N/A",
+            "answer": [
+                "Fumis family sits on the floor to eat"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Fumi lives in the united states",
+                    "value": "Fumi lives in the united states"
+                },
+                {
+                    "text_en": "Fumis family sits on the floor to eat",
+                    "value": "Fumis family sits on the floor to eat"
+                },
+                {
+                    "text_en": "Fumis family eats around a table",
+                    "value": "Fumis family eats around a table"
+                },
+                {
+                    "text_en": "Fumi is in the third grade.",
+                    "value": "Fumi is in the third grade."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Kara and fumi both ",
+            "hint": "N/A",
+            "answer": [
+                "Sit on chairs during dinner"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Take their shoes off when they get home",
+                    "value": "Take their shoes off when they get home"
+                },
+                {
+                    "text_en": "Live in houses with doors made from paper",
+                    "value": "Live in houses with doors made from paper"
+                },
+                {
+                    "text_en": "Learn about a new place from their e-pal",
+                    "value": "Learn about a new place from their e-pal"
+                },
+                {
+                    "text_en": "Sit on chairs during dinner",
+                    "value": "Sit on chairs during dinner"
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "The Paper In Paper Money", "sentence": "You can fold paper money and write on it and draw on it, too. Paper money seems to be like the notebook paper you use in school. But it\u2019s not the same. Notebook paper, like most other kinds of paper, is made of wood fibers from trees. Fibers are parts of wood that are shaped like long, thin threads. Paper money is made from cotton and linen plants. They are pounded together to form strong fibers. Those fibers hold together firmly. So, money is stronger than notebook paper. People use linen and cotton paper to make money so that it will last longer. This way, people don\u2019t have to make a lot of new money all the time. Also, it is harder for someone to make fake money because it is hard to find paper made from linen and cotton. In fact, the company that makes the paper for our money doesn\u2019t make paper for anyone else!", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "The author wrote the passage to ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Tell a funny story about money", "value": "Tell a funny story about money"}, {"text_en": "Explain how paper that money is made from is different from other paper", "value": "Explain how paper that money is made from is different from other paper"}, {"text_en": "Describe fibers and how they are used", "value": "Describe fibers and how they are used"}, {"text_en": "Tell about notebook paper", "value": "Tell about notebook paper"}]}, {"type": "scq", "sentence": "Which statement would the author agree with", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Paper money is interesting and unusual", "value": "Paper money is interesting and unusual"}, {"text_en": "Paper money is worse than notebook paper", "value": "Paper money is worse than notebook paper"}, {"text_en": "Paper money is like notebook paper", "value": "Paper money is like notebook paper"}, {"text_en": "It takes too much time to make paper money.", "value": "It takes too much time to make paper money."}]}, {"type": "scq", "sentence": "Paper money is made from cotton and linen fibers, but notebook paper is made ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "With ink that will not run", "value": "With ink that will not run"}, {"text_en": "From ordinary wood fibers", "value": "From ordinary wood fibers"}, {"text_en": "With different colors", "value": "With different colors"}, {"text_en": "To last forever", "value": "To last forever"}]}, {"type": "scq", "sentence": "Notebook paper and paper money are both ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Used to buy things", "value": "Used to buy things"}, {"text_en": "Used to do homework", "value": "Used to do homework"}, {"text_en": "Made from tree fibers", "value": "Made from tree fibers"}, {"text_en": "Made from things that grow", "value": "Made from things that grow"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "The Paper In Paper Money",
+        "sentence": "You can fold paper money and write on it and draw on it, too. Paper money seems to be like the notebook paper you use in school. But it\u2019s not the same. Notebook paper, like most other kinds of paper, is made of wood fibers from trees. Fibers are parts of wood that are shaped like long, thin threads. Paper money is made from cotton and linen plants. They are pounded together to form strong fibers. Those fibers hold together firmly. So, money is stronger than notebook paper. People use linen and cotton paper to make money so that it will last longer. This way, people don\u2019t have to make a lot of new money all the time. Also, it is harder for someone to make fake money because it is hard to find paper made from linen and cotton. In fact, the company that makes the paper for our money doesn\u2019t make paper for anyone else!",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "The author wrote the passage to ",
+            "hint": "N/A",
+            "answer": [
+                "Explain how paper that money is made from is different from other paper"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Tell a funny story about money",
+                    "value": "Tell a funny story about money"
+                },
+                {
+                    "text_en": "Explain how paper that money is made from is different from other paper",
+                    "value": "Explain how paper that money is made from is different from other paper"
+                },
+                {
+                    "text_en": "Describe fibers and how they are used",
+                    "value": "Describe fibers and how they are used"
+                },
+                {
+                    "text_en": "Tell about notebook paper",
+                    "value": "Tell about notebook paper"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which statement would the author agree with",
+            "hint": "N/A",
+            "answer": [
+                "Paper money is interesting and unusual"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Paper money is interesting and unusual",
+                    "value": "Paper money is interesting and unusual"
+                },
+                {
+                    "text_en": "Paper money is worse than notebook paper",
+                    "value": "Paper money is worse than notebook paper"
+                },
+                {
+                    "text_en": "Paper money is like notebook paper",
+                    "value": "Paper money is like notebook paper"
+                },
+                {
+                    "text_en": "It takes too much time to make paper money.",
+                    "value": "It takes too much time to make paper money."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Paper money is made from cotton and linen fibers, but notebook paper is made ",
+            "hint": "N/A",
+            "answer": [
+                "From ordinary wood fibers"
+            ],
+            "card_data": [
+                {
+                    "text_en": "With ink that will not run",
+                    "value": "With ink that will not run"
+                },
+                {
+                    "text_en": "From ordinary wood fibers",
+                    "value": "From ordinary wood fibers"
+                },
+                {
+                    "text_en": "With different colors",
+                    "value": "With different colors"
+                },
+                {
+                    "text_en": "To last forever",
+                    "value": "To last forever"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Notebook paper and paper money are both ",
+            "hint": "N/A",
+            "answer": [
+                "Made from things that grow"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Used to buy things",
+                    "value": "Used to buy things"
+                },
+                {
+                    "text_en": "Used to do homework",
+                    "value": "Used to do homework"
+                },
+                {
+                    "text_en": "Made from tree fibers",
+                    "value": "Made from tree fibers"
+                },
+                {
+                    "text_en": "Made from things that grow",
+                    "value": "Made from things that grow"
+                }
+            ]
+        }
+    ]
+}

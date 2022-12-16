@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Two Sports To Play", "sentence": "Soccer and basketball are sports that are alike in some ways. Both are played with a ball and two goals. In both sports, players dribble the ball to move it. Soccer players dribble the ball by moving it with their feet. They never use their hands. Basketball players dribble the ball by bouncing it with one hand. Players in both sports want to dribble the ball quickly. They don\u2019t want the other team to get it. They want to get the ball in their team\u2019s goal and score. A soccer ball is kicked to score points, so soccer goals are on the ground. They are tall and wide. A basketball, however, is thrown to score points. So basketball goals are placed high on poles. Since basketballs and soccer balls are used in different ways, the sports are played on different kinds of fields. Soccer is played on grass, while basketball is played on a hard floor.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "How are soccer and basketball alike", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The ball is thrown to score points", "value": "The ball is thrown to score points"}, {"text_en": "The goals are wide and on the ground", "value": "The goals are wide and on the ground"}, {"text_en": "Players dribble the ball in the same way", "value": "Players dribble the ball in the same way"}, {"text_en": "Players score by getting a ball through a goal.", "value": "Players score by getting a ball through a goal."}]}, {"type": "scq", "sentence": "Basketball is different from soccer because the players ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Use their hands", "value": "Use their hands"}, {"text_en": "Dribble the ball", "value": "Dribble the ball"}, {"text_en": "Use goals to score", "value": "Use goals to score"}, {"text_en": "Want to get the ball", "value": "Want to get the ball"}]}, {"type": "scq", "sentence": "Why is basketball played on a hard floor", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "So players can use their hands", "value": "So players can use their hands"}, {"text_en": "So players can throw the ball", "value": "So players can throw the ball"}, {"text_en": "So players can bounce the ball", "value": "So players can bounce the ball"}, {"text_en": "So players can score for their teams", "value": "So players can score for their teams"}]}, {"type": "scq", "sentence": "Which sentence tells a difference between soccer and basketball", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Soccer is played with a ball and two goals", "value": "Soccer is played with a ball and two goals"}, {"text_en": "Basketball players move the ball quickly", "value": "Basketball players move the ball quickly"}, {"text_en": "Soccer players dribble the ball", "value": "Soccer players dribble the ball"}, {"text_en": "Basketball goals are on poles.", "value": "Basketball goals are on poles."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Two Sports To Play",
+        "sentence": "Soccer and basketball are sports that are alike in some ways. Both are played with a ball and two goals. In both sports, players dribble the ball to move it. Soccer players dribble the ball by moving it with their feet. They never use their hands. Basketball players dribble the ball by bouncing it with one hand. Players in both sports want to dribble the ball quickly. They don\u2019t want the other team to get it. They want to get the ball in their team\u2019s goal and score. A soccer ball is kicked to score points, so soccer goals are on the ground. They are tall and wide. A basketball, however, is thrown to score points. So basketball goals are placed high on poles. Since basketballs and soccer balls are used in different ways, the sports are played on different kinds of fields. Soccer is played on grass, while basketball is played on a hard floor.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "How are soccer and basketball alike",
+            "hint": "N/A",
+            "answer": [
+                "Players score by getting a ball through a goal."
+            ],
+            "card_data": [
+                {
+                    "text_en": "The ball is thrown to score points",
+                    "value": "The ball is thrown to score points"
+                },
+                {
+                    "text_en": "The goals are wide and on the ground",
+                    "value": "The goals are wide and on the ground"
+                },
+                {
+                    "text_en": "Players dribble the ball in the same way",
+                    "value": "Players dribble the ball in the same way"
+                },
+                {
+                    "text_en": "Players score by getting a ball through a goal.",
+                    "value": "Players score by getting a ball through a goal."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Basketball is different from soccer because the players ",
+            "hint": "N/A",
+            "answer": [
+                "Use their hands"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Use their hands",
+                    "value": "Use their hands"
+                },
+                {
+                    "text_en": "Dribble the ball",
+                    "value": "Dribble the ball"
+                },
+                {
+                    "text_en": "Use goals to score",
+                    "value": "Use goals to score"
+                },
+                {
+                    "text_en": "Want to get the ball",
+                    "value": "Want to get the ball"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Why is basketball played on a hard floor",
+            "hint": "N/A",
+            "answer": [
+                "So players can bounce the ball"
+            ],
+            "card_data": [
+                {
+                    "text_en": "So players can use their hands",
+                    "value": "So players can use their hands"
+                },
+                {
+                    "text_en": "So players can throw the ball",
+                    "value": "So players can throw the ball"
+                },
+                {
+                    "text_en": "So players can bounce the ball",
+                    "value": "So players can bounce the ball"
+                },
+                {
+                    "text_en": "So players can score for their teams",
+                    "value": "So players can score for their teams"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which sentence tells a difference between soccer and basketball",
+            "hint": "N/A",
+            "answer": [
+                "Basketball goals are on poles."
+            ],
+            "card_data": [
+                {
+                    "text_en": "Soccer is played with a ball and two goals",
+                    "value": "Soccer is played with a ball and two goals"
+                },
+                {
+                    "text_en": "Basketball players move the ball quickly",
+                    "value": "Basketball players move the ball quickly"
+                },
+                {
+                    "text_en": "Soccer players dribble the ball",
+                    "value": "Soccer players dribble the ball"
+                },
+                {
+                    "text_en": "Basketball goals are on poles.",
+                    "value": "Basketball goals are on poles."
+                }
+            ]
+        }
+    ]
+}

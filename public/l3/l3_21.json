@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Follow Our Light", "sentence": "Fireflies sparked in the night sky. Zack grabbed a few and put them into a jar. He would bring them to show-and-tell tomorrow. He looked at the bugs in the jar. The fireflies flew in slow circles. Their quick flickers of light sparkled like stars. Zack started walking home. He lived outside of town. There were no neighborhoods or streetlights. Zack was finding his way home without a problem until a cloud slid in front of the moon. That\u2019s when he wished he had his flashlight. Zack\u2019s stomach flip-flopped as he tried to find his way in the dark. Zack heard tiny voices. The fireflies were calling to him! \u201cLet us out and we will show you the way home,\u201d one firefly said. Zack opened the jar, and the fireflies flew out. They danced in the air in front of Zack. Their light turned the night into day. Zack\u2019s stomach settled down. Soon, he was back home. Zack thanked the fireflies. They flashed brightly before flying off into the night.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "Which one is true about real fireflies", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They give off light at night", "value": "They give off light at night"}, {"text_en": "They can talk to people", "value": "They can talk to people"}, {"text_en": "They help people who are lost", "value": "They help people who are lost"}, {"text_en": "They can dance.", "value": "They can dance."}]}, {"type": "scq", "sentence": "Which event in the story can really happen", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Fireflies lead a person home", "value": "Fireflies lead a person home"}, {"text_en": "Fireflies ask for and give help", "value": "Fireflies ask for and give help"}, {"text_en": "A boy gets lost in the dark", "value": "A boy gets lost in the dark"}, {"text_en": "A boy thanks bugs for their help.", "value": "A boy thanks bugs for their help."}]}, {"type": "scq", "sentence": "Which event in the story is fantasy", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Fireflies fly at night", "value": "Fireflies fly at night"}, {"text_en": "A boy gets scared in the dark", "value": "A boy gets scared in the dark"}, {"text_en": "Fireflies lead a boy home", "value": "Fireflies lead a boy home"}, {"text_en": "A cloud hides the moon.", "value": "A cloud hides the moon."}]}, {"type": "scq", "sentence": "The author wrote the story to ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Teach you about fireflies", "value": "Teach you about fireflies"}, {"text_en": "Tell you a story", "value": "Tell you a story"}, {"text_en": "Explain how to find your way in the dark", "value": "Explain how to find your way in the dark"}, {"text_en": "Compare two friends", "value": "Compare two friends"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Follow Our Light",
+        "sentence": "Fireflies sparked in the night sky. Zack grabbed a few and put them into a jar. He would bring them to show-and-tell tomorrow. He looked at the bugs in the jar. The fireflies flew in slow circles. Their quick flickers of light sparkled like stars. Zack started walking home. He lived outside of town. There were no neighborhoods or streetlights. Zack was finding his way home without a problem until a cloud slid in front of the moon. That\u2019s when he wished he had his flashlight. Zack\u2019s stomach flip-flopped as he tried to find his way in the dark. Zack heard tiny voices. The fireflies were calling to him! \u201cLet us out and we will show you the way home,\u201d one firefly said. Zack opened the jar, and the fireflies flew out. They danced in the air in front of Zack. Their light turned the night into day. Zack\u2019s stomach settled down. Soon, he was back home. Zack thanked the fireflies. They flashed brightly before flying off into the night.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "Which one is true about real fireflies",
+            "hint": "N/A",
+            "answer": [
+                "They give off light at night"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They give off light at night",
+                    "value": "They give off light at night"
+                },
+                {
+                    "text_en": "They can talk to people",
+                    "value": "They can talk to people"
+                },
+                {
+                    "text_en": "They help people who are lost",
+                    "value": "They help people who are lost"
+                },
+                {
+                    "text_en": "They can dance.",
+                    "value": "They can dance."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which event in the story can really happen",
+            "hint": "N/A",
+            "answer": [
+                "A boy gets lost in the dark"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Fireflies lead a person home",
+                    "value": "Fireflies lead a person home"
+                },
+                {
+                    "text_en": "Fireflies ask for and give help",
+                    "value": "Fireflies ask for and give help"
+                },
+                {
+                    "text_en": "A boy gets lost in the dark",
+                    "value": "A boy gets lost in the dark"
+                },
+                {
+                    "text_en": "A boy thanks bugs for their help.",
+                    "value": "A boy thanks bugs for their help."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which event in the story is fantasy",
+            "hint": "N/A",
+            "answer": [
+                "Fireflies lead a boy home"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Fireflies fly at night",
+                    "value": "Fireflies fly at night"
+                },
+                {
+                    "text_en": "A boy gets scared in the dark",
+                    "value": "A boy gets scared in the dark"
+                },
+                {
+                    "text_en": "Fireflies lead a boy home",
+                    "value": "Fireflies lead a boy home"
+                },
+                {
+                    "text_en": "A cloud hides the moon.",
+                    "value": "A cloud hides the moon."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "The author wrote the story to ",
+            "hint": "N/A",
+            "answer": [
+                "Tell you a story"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Teach you about fireflies",
+                    "value": "Teach you about fireflies"
+                },
+                {
+                    "text_en": "Tell you a story",
+                    "value": "Tell you a story"
+                },
+                {
+                    "text_en": "Explain how to find your way in the dark",
+                    "value": "Explain how to find your way in the dark"
+                },
+                {
+                    "text_en": "Compare two friends",
+                    "value": "Compare two friends"
+                }
+            ]
+        }
+    ]
+}

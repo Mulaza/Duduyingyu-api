@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Be An Elephant Detective", "sentence": "Wrinkly gray skin, a huge body, a seven-foot nose. Elephants all seem to look the same. But there are two different kinds of elephants\u2014African and Asian. Each kind is named for the place where it lives in the wild. If you learn a few things to look for, you can tell whether an elephant is African or Asian. An easy way to tell African and Asian elephants apart is to first look at an elephant\u2019s ears. An African elephant has large ears that flap like wings. An Asian elephant has much smaller, rounded ears. Next, look at the elephant\u2019s head. The top of an African elephant\u2019s head is rounded. But an Asian elephant\u2019s head has two bumps on it. If the elephant does not have tusks, it is a female Asian. Finally, check out the elephant\u2019s body. If the back dips down in the middle, it is an African elephant. The back of an Asian elephant is humped. If the two kinds of elephants stood side by side, the African elephant would be much larger.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "How are the two kinds of elephants alike", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They both have small, rounded ears", "value": "They both have small, rounded ears"}, {"text_en": "They both have very long noses", "value": "They both have very long noses"}, {"text_en": "They both have rounded heads", "value": "They both have rounded heads"}, {"text_en": "They both have backs that dip down.", "value": "They both have backs that dip down."}]}, {"type": "scq", "sentence": "Which of these is a difference between african and asian elephants", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "African elephants weigh more", "value": "African elephants weigh more"}, {"text_en": "Asian elephants are taller", "value": "Asian elephants are taller"}, {"text_en": "African elephants have rounded backs, but asian elephants do not", "value": "African elephants have rounded backs, but asian elephants do not"}, {"text_en": "All asian elephants have tusks, but african elephants do not.", "value": "All asian elephants have tusks, but african elephants do not."}]}, {"type": "scq", "sentence": "Which one describes asian elephants but not african elephants", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Their skin is wrinkled", "value": "Their skin is wrinkled"}, {"text_en": "Male elephants have tusks", "value": "Male elephants have tusks"}, {"text_en": "They are named for where they live", "value": "They are named for where they live"}, {"text_en": "Their ears are small and rounded.", "value": "Their ears are small and rounded."}]}, {"type": "scq", "sentence": "What is the passage mainly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "How all elephants are the same", "value": "How all elephants are the same"}, {"text_en": "How to handle an elephant", "value": "How to handle an elephant"}, {"text_en": "How two kinds of elephants are alike and different", "value": "How two kinds of elephants are alike and different"}, {"text_en": "How to identify an african elephant", "value": "How to identify an african elephant"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Be An Elephant Detective",
+        "sentence": "Wrinkly gray skin, a huge body, a seven-foot nose. Elephants all seem to look the same. But there are two different kinds of elephants\u2014African and Asian. Each kind is named for the place where it lives in the wild. If you learn a few things to look for, you can tell whether an elephant is African or Asian. An easy way to tell African and Asian elephants apart is to first look at an elephant\u2019s ears. An African elephant has large ears that flap like wings. An Asian elephant has much smaller, rounded ears. Next, look at the elephant\u2019s head. The top of an African elephant\u2019s head is rounded. But an Asian elephant\u2019s head has two bumps on it. If the elephant does not have tusks, it is a female Asian. Finally, check out the elephant\u2019s body. If the back dips down in the middle, it is an African elephant. The back of an Asian elephant is humped. If the two kinds of elephants stood side by side, the African elephant would be much larger.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "How are the two kinds of elephants alike",
+            "hint": "N/A",
+            "answer": [
+                "They both have very long noses"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They both have small, rounded ears",
+                    "value": "They both have small, rounded ears"
+                },
+                {
+                    "text_en": "They both have very long noses",
+                    "value": "They both have very long noses"
+                },
+                {
+                    "text_en": "They both have rounded heads",
+                    "value": "They both have rounded heads"
+                },
+                {
+                    "text_en": "They both have backs that dip down.",
+                    "value": "They both have backs that dip down."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which of these is a difference between african and asian elephants",
+            "hint": "N/A",
+            "answer": [
+                "African elephants weigh more"
+            ],
+            "card_data": [
+                {
+                    "text_en": "African elephants weigh more",
+                    "value": "African elephants weigh more"
+                },
+                {
+                    "text_en": "Asian elephants are taller",
+                    "value": "Asian elephants are taller"
+                },
+                {
+                    "text_en": "African elephants have rounded backs, but asian elephants do not",
+                    "value": "African elephants have rounded backs, but asian elephants do not"
+                },
+                {
+                    "text_en": "All asian elephants have tusks, but african elephants do not.",
+                    "value": "All asian elephants have tusks, but african elephants do not."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which one describes asian elephants but not african elephants",
+            "hint": "N/A",
+            "answer": [
+                "Their ears are small and rounded."
+            ],
+            "card_data": [
+                {
+                    "text_en": "Their skin is wrinkled",
+                    "value": "Their skin is wrinkled"
+                },
+                {
+                    "text_en": "Male elephants have tusks",
+                    "value": "Male elephants have tusks"
+                },
+                {
+                    "text_en": "They are named for where they live",
+                    "value": "They are named for where they live"
+                },
+                {
+                    "text_en": "Their ears are small and rounded.",
+                    "value": "Their ears are small and rounded."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What is the passage mainly about",
+            "hint": "N/A",
+            "answer": [
+                "How two kinds of elephants are alike and different"
+            ],
+            "card_data": [
+                {
+                    "text_en": "How all elephants are the same",
+                    "value": "How all elephants are the same"
+                },
+                {
+                    "text_en": "How to handle an elephant",
+                    "value": "How to handle an elephant"
+                },
+                {
+                    "text_en": "How two kinds of elephants are alike and different",
+                    "value": "How two kinds of elephants are alike and different"
+                },
+                {
+                    "text_en": "How to identify an african elephant",
+                    "value": "How to identify an african elephant"
+                }
+            ]
+        }
+    ]
+}

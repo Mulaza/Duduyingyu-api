@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "A Curious Creature", "sentence": "An aquarium is a building with a lot of water in a lot of tanks. People go there to see the water animals and plants that live in the tanks. One morning, workers arrived at an aquarium in California. They were ready for work. They were not ready to mop. But that\u2019s what they had to do. Water was all over the floor outside the shark tank and the ray tank. Water squished under the workers\u2019 shoes as they walked. There were no leaks or broken tanks. What caused the flood? The troublemaker turned out to be an eight-armed creature. The small octopus lived in its own tank. It weighed only one pound. But it was curious and quite active, too. During the night, the octopus crawled to the top of its tank. It pulled out a tube that was bringing in water. The tube sprayed seawater outside of the tank. The water flowed for almost 10 hours. About 200 gallons spilled onto the aquarium floor. That\u2019s a big mess for a one-pound octopus!", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "What will the workers probably do next", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Make visitors clean up the mess", "value": "Make visitors clean up the mess"}, {"text_en": "Fix the tubes in the tank so they cannot be pulled out", "value": "Fix the tubes in the tank so they cannot be pulled out"}, {"text_en": "Never display an octopus again", "value": "Never display an octopus again"}, {"text_en": "Wait to see what the octopus will do", "value": "Wait to see what the octopus will do"}]}, {"type": "scq", "sentence": "Which question does the passage answer", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "What caused the flooding", "value": "What caused the flooding"}, {"text_en": "How does an aquarium get its animals", "value": "How does an aquarium get its animals"}, {"text_en": "What upsets an octopus", "value": "What upsets an octopus"}, {"text_en": "How much water does a tank hold?", "value": "How much water does a tank hold?"}]}, {"type": "scq", "sentence": "What is the passage mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "An aquarium in california", "value": "An aquarium in california"}, {"text_en": "An aquariums problems with flooding", "value": "An aquariums problems with flooding"}, {"text_en": "An octopus that floods an aquarium", "value": "An octopus that floods an aquarium"}, {"text_en": "An octopus that swims out of its tank", "value": "An octopus that swims out of its tank"}]}, {"type": "scq", "sentence": "Which is the best title for the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Accidents happen", "value": "Accidents happen"}, {"text_en": "A curious creature", "value": "A curious creature"}, {"text_en": "A cute sea creature", "value": "A cute sea creature"}, {"text_en": "Cleaning up a flood", "value": "Cleaning up a flood"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "A Curious Creature",
+        "sentence": "An aquarium is a building with a lot of water in a lot of tanks. People go there to see the water animals and plants that live in the tanks. One morning, workers arrived at an aquarium in California. They were ready for work. They were not ready to mop. But that\u2019s what they had to do. Water was all over the floor outside the shark tank and the ray tank. Water squished under the workers\u2019 shoes as they walked. There were no leaks or broken tanks. What caused the flood? The troublemaker turned out to be an eight-armed creature. The small octopus lived in its own tank. It weighed only one pound. But it was curious and quite active, too. During the night, the octopus crawled to the top of its tank. It pulled out a tube that was bringing in water. The tube sprayed seawater outside of the tank. The water flowed for almost 10 hours. About 200 gallons spilled onto the aquarium floor. That\u2019s a big mess for a one-pound octopus!",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "What will the workers probably do next",
+            "hint": "N/A",
+            "answer": [
+                "Fix the tubes in the tank so they cannot be pulled out"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Make visitors clean up the mess",
+                    "value": "Make visitors clean up the mess"
+                },
+                {
+                    "text_en": "Fix the tubes in the tank so they cannot be pulled out",
+                    "value": "Fix the tubes in the tank so they cannot be pulled out"
+                },
+                {
+                    "text_en": "Never display an octopus again",
+                    "value": "Never display an octopus again"
+                },
+                {
+                    "text_en": "Wait to see what the octopus will do",
+                    "value": "Wait to see what the octopus will do"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which question does the passage answer",
+            "hint": "N/A",
+            "answer": [
+                "What caused the flooding"
+            ],
+            "card_data": [
+                {
+                    "text_en": "What caused the flooding",
+                    "value": "What caused the flooding"
+                },
+                {
+                    "text_en": "How does an aquarium get its animals",
+                    "value": "How does an aquarium get its animals"
+                },
+                {
+                    "text_en": "What upsets an octopus",
+                    "value": "What upsets an octopus"
+                },
+                {
+                    "text_en": "How much water does a tank hold?",
+                    "value": "How much water does a tank hold?"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What is the passage mostly about",
+            "hint": "N/A",
+            "answer": [
+                "An octopus that floods an aquarium"
+            ],
+            "card_data": [
+                {
+                    "text_en": "An aquarium in california",
+                    "value": "An aquarium in california"
+                },
+                {
+                    "text_en": "An aquariums problems with flooding",
+                    "value": "An aquariums problems with flooding"
+                },
+                {
+                    "text_en": "An octopus that floods an aquarium",
+                    "value": "An octopus that floods an aquarium"
+                },
+                {
+                    "text_en": "An octopus that swims out of its tank",
+                    "value": "An octopus that swims out of its tank"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which is the best title for the passage",
+            "hint": "N/A",
+            "answer": [
+                "A curious creature"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Accidents happen",
+                    "value": "Accidents happen"
+                },
+                {
+                    "text_en": "A curious creature",
+                    "value": "A curious creature"
+                },
+                {
+                    "text_en": "A cute sea creature",
+                    "value": "A cute sea creature"
+                },
+                {
+                    "text_en": "Cleaning up a flood",
+                    "value": "Cleaning up a flood"
+                }
+            ]
+        }
+    ]
+}

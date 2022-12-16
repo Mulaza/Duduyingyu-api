@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Sea Animal Surprise", "sentence": "People usually go to the ocean to watch sea animals. But sometimes sea animals go to land to see people! Monterey, California, is a city by the Pacific Ocean. California sea lions, which look like seals, live in those waters. Every day, sea lions are seen resting on rocks. In 2009, however, hundreds of barking sea lions waddled out of the ocean. They used their webbed flippers to scoot along. They moved up boat ramps and onto docks. Some even came onto a parking lot. A few checked out the restrooms. Most of the sea lions that came ashore were tired from spending a long time looking for fish to eat. They plopped down to nap. A person was hired to get the sea lions back to their ocean home. He used a broom to shoo them back into the sea.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "What is the passage mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Seals", "value": "Seals"}, {"text_en": "Sea lions", "value": "Sea lions"}, {"text_en": "Ocean fish", "value": "Ocean fish"}, {"text_en": "A person who has a broom", "value": "A person who has a broom"}]}, {"type": "scq", "sentence": "What is the setting of the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Places in monterey, california", "value": "Places in monterey, california"}, {"text_en": "Deep in the pacific ocean", "value": "Deep in the pacific ocean"}, {"text_en": "A parking lot and dock", "value": "A parking lot and dock"}, {"text_en": "On rocks in the ocean", "value": "On rocks in the ocean"}]}, {"type": "scq", "sentence": "Based on the passage, which one seems to be true about the sea lions on shore", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They hate being out of the ocean", "value": "They hate being out of the ocean"}, {"text_en": "They have a lot of energy", "value": "They have a lot of energy"}, {"text_en": "They do not mind being on land", "value": "They do not mind being on land"}, {"text_en": "They are lost.", "value": "They are lost."}]}, {"type": "scq", "sentence": "Based on the passage, which one is true about california sea lions", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They rest every few hours", "value": "They rest every few hours"}, {"text_en": "They can move in water and on land", "value": "They can move in water and on land"}, {"text_en": "They look like whales", "value": "They look like whales"}, {"text_en": "They go onto land to eat.", "value": "They go onto land to eat."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Sea Animal Surprise",
+        "sentence": "People usually go to the ocean to watch sea animals. But sometimes sea animals go to land to see people! Monterey, California, is a city by the Pacific Ocean. California sea lions, which look like seals, live in those waters. Every day, sea lions are seen resting on rocks. In 2009, however, hundreds of barking sea lions waddled out of the ocean. They used their webbed flippers to scoot along. They moved up boat ramps and onto docks. Some even came onto a parking lot. A few checked out the restrooms. Most of the sea lions that came ashore were tired from spending a long time looking for fish to eat. They plopped down to nap. A person was hired to get the sea lions back to their ocean home. He used a broom to shoo them back into the sea.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "What is the passage mostly about",
+            "hint": "N/A",
+            "answer": [
+                "Sea lions"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Seals",
+                    "value": "Seals"
+                },
+                {
+                    "text_en": "Sea lions",
+                    "value": "Sea lions"
+                },
+                {
+                    "text_en": "Ocean fish",
+                    "value": "Ocean fish"
+                },
+                {
+                    "text_en": "A person who has a broom",
+                    "value": "A person who has a broom"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What is the setting of the passage",
+            "hint": "N/A",
+            "answer": [
+                "Places in monterey, california"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Places in monterey, california",
+                    "value": "Places in monterey, california"
+                },
+                {
+                    "text_en": "Deep in the pacific ocean",
+                    "value": "Deep in the pacific ocean"
+                },
+                {
+                    "text_en": "A parking lot and dock",
+                    "value": "A parking lot and dock"
+                },
+                {
+                    "text_en": "On rocks in the ocean",
+                    "value": "On rocks in the ocean"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Based on the passage, which one seems to be true about the sea lions on shore",
+            "hint": "N/A",
+            "answer": [
+                "They do not mind being on land"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They hate being out of the ocean",
+                    "value": "They hate being out of the ocean"
+                },
+                {
+                    "text_en": "They have a lot of energy",
+                    "value": "They have a lot of energy"
+                },
+                {
+                    "text_en": "They do not mind being on land",
+                    "value": "They do not mind being on land"
+                },
+                {
+                    "text_en": "They are lost.",
+                    "value": "They are lost."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Based on the passage, which one is true about california sea lions",
+            "hint": "N/A",
+            "answer": [
+                "They can move in water and on land"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They rest every few hours",
+                    "value": "They rest every few hours"
+                },
+                {
+                    "text_en": "They can move in water and on land",
+                    "value": "They can move in water and on land"
+                },
+                {
+                    "text_en": "They look like whales",
+                    "value": "They look like whales"
+                },
+                {
+                    "text_en": "They go onto land to eat.",
+                    "value": "They go onto land to eat."
+                }
+            ]
+        }
+    ]
+}

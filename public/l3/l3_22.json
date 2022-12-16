@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Birthday Blues", "sentence": "Nathan woke up early and raced into the kitchen. He saw his family eating cereal and toast just like every other day. Where were his birthday presents? Where was his birthday cake? Did his family forget his special day? The doorbell rang. Nathan opened the door, but no one was there. All he saw was a note on the ground. The note said that Nathan was going on a treasure hunt, and he would need to find the clues. The first clue was in the desert. Nathan was confused. Then he smiled and headed to his sister\u2019s sandbox. There was the second clue. Nathan spent an hour following one clue after another. Finally, he got to the last note. All it said was Happy Birthday. There was no treasure! Nathan wiped away his tears. He slowly walked back to his house with his head hung low. He couldn\u2019t see the balloons inside the house. He did not see the people quickly hiding.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "What will probably happen next", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Nathan will bury a treasure", "value": "Nathan will bury a treasure"}, {"text_en": "People will surprise nathan", "value": "People will surprise nathan"}, {"text_en": "Nathan will find a treasure", "value": "Nathan will find a treasure"}, {"text_en": "Nathan will play in the yard.", "value": "Nathan will play in the yard."}]}, {"type": "scq", "sentence": "How will nathan probably feel when he is back inside his house", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Disappointed", "value": "Disappointed"}, {"text_en": "Grumpy", "value": "Grumpy"}, {"text_en": "Cheerful", "value": "Cheerful"}, {"text_en": "Comfortable", "value": "Comfortable"}]}, {"type": "scq", "sentence": "Which one would be another good title for the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "No presents for nathan", "value": "No presents for nathan"}, {"text_en": "A special breakfast", "value": "A special breakfast"}, {"text_en": "Buried treasure", "value": "Buried treasure"}, {"text_en": "A birthday surprise", "value": "A birthday surprise"}]}, {"type": "scq", "sentence": "Which detail shows that nathan was upset after the treasure hunt", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "His head hung low", "value": "His head hung low"}, {"text_en": "He did not see the balloons", "value": "He did not see the balloons"}, {"text_en": "He saw people hiding", "value": "He saw people hiding"}, {"text_en": "He raced into the house.", "value": "He raced into the house."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Birthday Blues",
+        "sentence": "Nathan woke up early and raced into the kitchen. He saw his family eating cereal and toast just like every other day. Where were his birthday presents? Where was his birthday cake? Did his family forget his special day? The doorbell rang. Nathan opened the door, but no one was there. All he saw was a note on the ground. The note said that Nathan was going on a treasure hunt, and he would need to find the clues. The first clue was in the desert. Nathan was confused. Then he smiled and headed to his sister\u2019s sandbox. There was the second clue. Nathan spent an hour following one clue after another. Finally, he got to the last note. All it said was Happy Birthday. There was no treasure! Nathan wiped away his tears. He slowly walked back to his house with his head hung low. He couldn\u2019t see the balloons inside the house. He did not see the people quickly hiding.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "What will probably happen next",
+            "hint": "N/A",
+            "answer": [
+                "People will surprise nathan"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Nathan will bury a treasure",
+                    "value": "Nathan will bury a treasure"
+                },
+                {
+                    "text_en": "People will surprise nathan",
+                    "value": "People will surprise nathan"
+                },
+                {
+                    "text_en": "Nathan will find a treasure",
+                    "value": "Nathan will find a treasure"
+                },
+                {
+                    "text_en": "Nathan will play in the yard.",
+                    "value": "Nathan will play in the yard."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "How will nathan probably feel when he is back inside his house",
+            "hint": "N/A",
+            "answer": [
+                "Cheerful"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Disappointed",
+                    "value": "Disappointed"
+                },
+                {
+                    "text_en": "Grumpy",
+                    "value": "Grumpy"
+                },
+                {
+                    "text_en": "Cheerful",
+                    "value": "Cheerful"
+                },
+                {
+                    "text_en": "Comfortable",
+                    "value": "Comfortable"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which one would be another good title for the passage",
+            "hint": "N/A",
+            "answer": [
+                "A birthday surprise"
+            ],
+            "card_data": [
+                {
+                    "text_en": "No presents for nathan",
+                    "value": "No presents for nathan"
+                },
+                {
+                    "text_en": "A special breakfast",
+                    "value": "A special breakfast"
+                },
+                {
+                    "text_en": "Buried treasure",
+                    "value": "Buried treasure"
+                },
+                {
+                    "text_en": "A birthday surprise",
+                    "value": "A birthday surprise"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which detail shows that nathan was upset after the treasure hunt",
+            "hint": "N/A",
+            "answer": [
+                "His head hung low"
+            ],
+            "card_data": [
+                {
+                    "text_en": "His head hung low",
+                    "value": "His head hung low"
+                },
+                {
+                    "text_en": "He did not see the balloons",
+                    "value": "He did not see the balloons"
+                },
+                {
+                    "text_en": "He saw people hiding",
+                    "value": "He saw people hiding"
+                },
+                {
+                    "text_en": "He raced into the house.",
+                    "value": "He raced into the house."
+                }
+            ]
+        }
+    ]
+}

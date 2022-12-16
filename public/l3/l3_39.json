@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Animal Buddies", "sentence": "Some birds are friends of crocodiles. Other birds stay with hippos. One kind of bird visits badgers. These animals are partners. They help each other survive. Crocodiles welcome small plover birds as guests. A croc opens its large jaw and the bird hops in. The plover nibbles the leftover food and the small animals stuck between the crocodile\u2019s teeth. As a result, the croc\u2019s teeth stay healthy, and the plover gets a meal. It\u2019s not unusual to see an egret riding on a hippo\u2019s hide. Ticks and flies swarm around hippos. The bird doesn\u2019t have to move to get its food. The hippo gets rid of pests, and the egret gets to eat. Some say that the honeyguide bird works with the honey badger. The bird flies to find a hive. It makes a racket when a hive is found. The badger hurries over and gets its fill of honey. The bird swoops down for the leftovers.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "What does the author want you to know", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Crocodiles are kind to plover birds", "value": "Crocodiles are kind to plover birds"}, {"text_en": "Some animals help each other", "value": "Some animals help each other"}, {"text_en": "Birds eat pesky bugs", "value": "Birds eat pesky bugs"}, {"text_en": "Birds are not afraid of big animals.", "value": "Birds are not afraid of big animals."}]}, {"type": "scq", "sentence": "How do egrets help hippos", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Egrets help hippos avoid crocodiles", "value": "Egrets help hippos avoid crocodiles"}, {"text_en": "Egrets clean hippos teeth", "value": "Egrets clean hippos teeth"}, {"text_en": "Egrets eat the pests that can bite hippos", "value": "Egrets eat the pests that can bite hippos"}, {"text_en": "Egrets show hippos where to get food.", "value": "Egrets show hippos where to get food."}]}, {"type": "scq", "sentence": "Why did the author write the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "To inform you about how animals help each other", "value": "To inform you about how animals help each other"}, {"text_en": "To persuade you to find a buddy", "value": "To persuade you to find a buddy"}, {"text_en": "To tell you a story about hippos", "value": "To tell you a story about hippos"}, {"text_en": "To teach you how to find honey", "value": "To teach you how to find honey"}]}, {"type": "scq", "sentence": "How do plovers help crocodiles", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Plovers clean crocs teeth", "value": "Plovers clean crocs teeth"}, {"text_en": "Plovers show crocs where to find food", "value": "Plovers show crocs where to find food"}, {"text_en": "Plovers share food with crocs", "value": "Plovers share food with crocs"}, {"text_en": "Plovers warn crocs of danger.", "value": "Plovers warn crocs of danger."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Animal Buddies",
+        "sentence": "Some birds are friends of crocodiles. Other birds stay with hippos. One kind of bird visits badgers. These animals are partners. They help each other survive. Crocodiles welcome small plover birds as guests. A croc opens its large jaw and the bird hops in. The plover nibbles the leftover food and the small animals stuck between the crocodile\u2019s teeth. As a result, the croc\u2019s teeth stay healthy, and the plover gets a meal. It\u2019s not unusual to see an egret riding on a hippo\u2019s hide. Ticks and flies swarm around hippos. The bird doesn\u2019t have to move to get its food. The hippo gets rid of pests, and the egret gets to eat. Some say that the honeyguide bird works with the honey badger. The bird flies to find a hive. It makes a racket when a hive is found. The badger hurries over and gets its fill of honey. The bird swoops down for the leftovers.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "What does the author want you to know",
+            "hint": "N/A",
+            "answer": [
+                "Some animals help each other"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Crocodiles are kind to plover birds",
+                    "value": "Crocodiles are kind to plover birds"
+                },
+                {
+                    "text_en": "Some animals help each other",
+                    "value": "Some animals help each other"
+                },
+                {
+                    "text_en": "Birds eat pesky bugs",
+                    "value": "Birds eat pesky bugs"
+                },
+                {
+                    "text_en": "Birds are not afraid of big animals.",
+                    "value": "Birds are not afraid of big animals."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "How do egrets help hippos",
+            "hint": "N/A",
+            "answer": [
+                "Egrets eat the pests that can bite hippos"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Egrets help hippos avoid crocodiles",
+                    "value": "Egrets help hippos avoid crocodiles"
+                },
+                {
+                    "text_en": "Egrets clean hippos teeth",
+                    "value": "Egrets clean hippos teeth"
+                },
+                {
+                    "text_en": "Egrets eat the pests that can bite hippos",
+                    "value": "Egrets eat the pests that can bite hippos"
+                },
+                {
+                    "text_en": "Egrets show hippos where to get food.",
+                    "value": "Egrets show hippos where to get food."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Why did the author write the passage",
+            "hint": "N/A",
+            "answer": [
+                "To inform you about how animals help each other"
+            ],
+            "card_data": [
+                {
+                    "text_en": "To inform you about how animals help each other",
+                    "value": "To inform you about how animals help each other"
+                },
+                {
+                    "text_en": "To persuade you to find a buddy",
+                    "value": "To persuade you to find a buddy"
+                },
+                {
+                    "text_en": "To tell you a story about hippos",
+                    "value": "To tell you a story about hippos"
+                },
+                {
+                    "text_en": "To teach you how to find honey",
+                    "value": "To teach you how to find honey"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "How do plovers help crocodiles",
+            "hint": "N/A",
+            "answer": [
+                "Plovers clean crocs teeth"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Plovers clean crocs teeth",
+                    "value": "Plovers clean crocs teeth"
+                },
+                {
+                    "text_en": "Plovers show crocs where to find food",
+                    "value": "Plovers show crocs where to find food"
+                },
+                {
+                    "text_en": "Plovers share food with crocs",
+                    "value": "Plovers share food with crocs"
+                },
+                {
+                    "text_en": "Plovers warn crocs of danger.",
+                    "value": "Plovers warn crocs of danger."
+                }
+            ]
+        }
+    ]
+}

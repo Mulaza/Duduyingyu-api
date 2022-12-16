@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Whoa, Boy!", "sentence": "Evan lived in the city. More than anything, he wanted to ride a horse. He could hardly wait to gallop as fast as the wind. Evan visited Uncle Pete at his farm. His uncle was ready to show Evan how to ride. Evan sat on a fence as his uncle walked a horse toward him. The ground seemed to shake with every step the horse took. Evan dug his fingernails into the fence. He stared at the huge beast. \u201cWere all horses this big?\u201d he wondered. Uncle Pete helped Evan onto the horse\u2019s back. Then Evan tapped the horse\u2019s sides with his heels. The horse began to trot. Evan bounced up and down like a jumping frog. \u201cRiding a horse hurts,\u201d said Evan. He decided to forget about galloping. For now, the speed of a merry-go-round seemed just right.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": "Where does the passage happen", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "On a farm", "value": "On a farm"}, {"text_en": "In a city", "value": "In a city"}, {"text_en": "Near a frog pond", "value": "Near a frog pond"}, {"text_en": "At a castle", "value": "At a castle"}]}, {"type": "scq", "sentence": "When evan sees the horse, he feels ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Very happy", "value": "Very happy"}, {"text_en": "A bit scared", "value": "A bit scared"}, {"text_en": "Quite brave", "value": "Quite brave"}, {"text_en": "A little silly", "value": "A little silly"}]}, {"type": "scq", "sentence": "Which of these is most like evans experience", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Learning to write letters", "value": "Learning to write letters"}, {"text_en": "Learning to divide numbers", "value": "Learning to divide numbers"}, {"text_en": "Learning to ride a bike", "value": "Learning to ride a bike"}, {"text_en": "Learning how to care for a goldfish", "value": "Learning how to care for a goldfish"}]}, {"type": "scq", "sentence": "What does the last sentence in the passage mean", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Evan was on a merry-go-round", "value": "Evan was on a merry-go-round"}, {"text_en": "Evan wanted a new horse to ride", "value": "Evan wanted a new horse to ride"}, {"text_en": "Evan did not want to go faster", "value": "Evan did not want to go faster"}, {"text_en": "Evan wanted to hop like a frog.", "value": "Evan wanted to hop like a frog."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Whoa, Boy!",
+        "sentence": "Evan lived in the city. More than anything, he wanted to ride a horse. He could hardly wait to gallop as fast as the wind. Evan visited Uncle Pete at his farm. His uncle was ready to show Evan how to ride. Evan sat on a fence as his uncle walked a horse toward him. The ground seemed to shake with every step the horse took. Evan dug his fingernails into the fence. He stared at the huge beast. \u201cWere all horses this big?\u201d he wondered. Uncle Pete helped Evan onto the horse\u2019s back. Then Evan tapped the horse\u2019s sides with his heels. The horse began to trot. Evan bounced up and down like a jumping frog. \u201cRiding a horse hurts,\u201d said Evan. He decided to forget about galloping. For now, the speed of a merry-go-round seemed just right.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "Where does the passage happen",
+            "hint": "N/A",
+            "answer": [
+                "On a farm"
+            ],
+            "card_data": [
+                {
+                    "text_en": "On a farm",
+                    "value": "On a farm"
+                },
+                {
+                    "text_en": "In a city",
+                    "value": "In a city"
+                },
+                {
+                    "text_en": "Near a frog pond",
+                    "value": "Near a frog pond"
+                },
+                {
+                    "text_en": "At a castle",
+                    "value": "At a castle"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "When evan sees the horse, he feels ",
+            "hint": "N/A",
+            "answer": [
+                "A bit scared"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Very happy",
+                    "value": "Very happy"
+                },
+                {
+                    "text_en": "A bit scared",
+                    "value": "A bit scared"
+                },
+                {
+                    "text_en": "Quite brave",
+                    "value": "Quite brave"
+                },
+                {
+                    "text_en": "A little silly",
+                    "value": "A little silly"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "Which of these is most like evans experience",
+            "hint": "N/A",
+            "answer": [
+                "Learning to ride a bike"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Learning to write letters",
+                    "value": "Learning to write letters"
+                },
+                {
+                    "text_en": "Learning to divide numbers",
+                    "value": "Learning to divide numbers"
+                },
+                {
+                    "text_en": "Learning to ride a bike",
+                    "value": "Learning to ride a bike"
+                },
+                {
+                    "text_en": "Learning how to care for a goldfish",
+                    "value": "Learning how to care for a goldfish"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "What does the last sentence in the passage mean",
+            "hint": "N/A",
+            "answer": [
+                "Evan did not want to go faster"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Evan was on a merry-go-round",
+                    "value": "Evan was on a merry-go-round"
+                },
+                {
+                    "text_en": "Evan wanted a new horse to ride",
+                    "value": "Evan wanted a new horse to ride"
+                },
+                {
+                    "text_en": "Evan did not want to go faster",
+                    "value": "Evan did not want to go faster"
+                },
+                {
+                    "text_en": "Evan wanted to hop like a frog.",
+                    "value": "Evan wanted to hop like a frog."
+                }
+            ]
+        }
+    ]
+}

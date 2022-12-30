@@ -5,32 +5,32 @@
 
     [
         { "children": [ 
-            { "title": "The cat on my hat", "description": "课程说明...", "level": "三分钟", "reference" : "l1_1"},
-            { "title": "Pigs in the sky", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_2"},
-            { "title": "Foxes in the den", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_3"},
-            { "title": "My dog Mop", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_4"}
+            { "title": "The cat on my hat", "description": "课程说明...", "level": "1级", "reference" : "l1_1"},
+            { "title": "Pigs in the sky", "description": "课程说明...", "level": "1级", "reference" : "l1_2"},
+            { "title": "Foxes in the den", "description": "课程说明...", "level": "1级", "reference" : "l1_3"},
+            { "title": "My dog Mop", "description": "课程说明...", "level": "1级", "reference" : "l1_4"}
 
                                  ]}, 
       
         { "children": [ 
-            { "title": "Pigs in the mud", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_5"},
-            { "title": "Kit and her dog", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_6"},
-            { "title": "Deep sea rays", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_7"},
-            { "title": "Jen gets a pet", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_8"}
+            { "title": "Pigs in the mud", "description": "课程说明...", "level": "1级", "reference" : "l1_5"},
+            { "title": "Kit and her dog", "description": "课程说明...", "level": "1级", "reference" : "l1_6"},
+            { "title": "Deep sea rays", "description": "课程说明...", "level": "1级", "reference" : "l1_7"},
+            { "title": "Jen gets a pet", "description": "课程说明...", "level": "1级", "reference" : "l1_8"}
                                 ]},
 
         { "children": [ 
             
-            { "title": "Rex stinks", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_9"},
-            { "title": "Help flowers grow", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_10"},
-            { "title": "Jack and Cam", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_11"},
-            { "title": "Eva's birthday", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_12"}
+            { "title": "Rex stinks", "description": "课程说明...", "level": "1级", "reference" : "l1_9"},
+            { "title": "Help flowers grow", "description": "课程说明...", "level": "1级", "reference" : "l1_10"},
+            { "title": "Jack and Cam", "description": "课程说明...", "level": "1级", "reference" : "l1_11"},
+            { "title": "Eva's birthday", "description": "课程说明...", "level": "1级", "reference" : "l1_12"}
                                 ]},
 
 
         { "children": [ 
-            { "title": "Hungry Mike", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_13"},
-            { "title": "A robin's nest", "description": "课程说明...", "level": "一级阅读", "reference" : "l1_14"}
+            { "title": "Hungry Mike", "description": "课程说明...", "level": "1级", "reference" : "l1_13"},
+            { "title": "A robin's nest", "description": "课程说明...", "level": "1级", "reference" : "l1_14"}
                                 ]}                         
 
     ],
@@ -38,15 +38,15 @@
 
     [
         { "children": [ 
-            { "title": "Rosa to the rescue", "description": "课程说明...", "level": "二级阅读", "reference" : "l2_1"},
-            { "title": "Hooray for snow!", "description": "课程说明...", "level": "二级阅读", "reference" : "l2_2"},
-            { "title": "Dr.Seuss", "description": "课程说明...", "level": "二级阅读", "reference" : "l2_3"},
-            { "title": "Atalanta", "description": "课程说明...", "level": "二级阅读", "reference" : "l2_4"}
+            { "title": "Rosa to the rescue", "description": "课程说明...", "level": "2级", "reference" : "l2_1"},
+            { "title": "Hooray for snow!", "description": "课程说明...", "level": "2级", "reference" : "l2_2"},
+            { "title": "Dr.Seuss", "description": "课程说明...", "level": "2级", "reference" : "l2_3"},
+            { "title": "Atalanta", "description": "课程说明...", "level": "2级", "reference" : "l2_4"}
                                  ]}, 
       
         { "children": [ 
             
-            { "title": "Annie Sullivan", "description": "课程说明...", "level": "二级阅读", "reference" : "l2_5"}
+            { "title": "Annie Sullivan", "description": "课程说明...", "level": "2级", "reference" : "l2_5"}
 
                                 ]}
 
@@ -57,88 +57,88 @@
 
     [
         { "children": [ 
-            { "title": "Sparky the Wonder Dog", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_1"},
-            { "title": "Whoa, Boy!", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_2"},
-            { "title": "Learning About Chimpanzees", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_3"},
-            { "title": "Charles the Grouch", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_4"}
+            { "title": "Sparky the Wonder Dog", "description": "课程说明...", "level": "3级", "reference" : "l3_1"},
+            { "title": "Whoa, Boy!", "description": "课程说明...", "level": "3级", "reference" : "l3_2"},
+            { "title": "Learning About Chimpanzees", "description": "课程说明...", "level": "3级", "reference" : "l3_3"},
+            { "title": "Charles the Grouch", "description": "课程说明...", "level": "3级", "reference" : "l3_4"}
                                  ]}, 
       
         { "children": [ 
             
-            { "title": "Odd Baby Birds", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_5"},
-            { "title": "Ways Dogs Talk", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_6"},
-            { "title": "No Camp for Me!", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_7"},
-            { "title": "Puffins and Penguins", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_8"}
+            { "title": "Odd Baby Birds", "description": "课程说明...", "level": "3级", "reference" : "l3_5"},
+            { "title": "Ways Dogs Talk", "description": "课程说明...", "level": "3级", "reference" : "l3_6"},
+            { "title": "No Camp for Me!", "description": "课程说明...", "level": "3级", "reference" : "l3_7"},
+            { "title": "Puffins and Penguins", "description": "课程说明...", "level": "3级", "reference" : "l3_8"}
                                 ]},
 
         { "children": [ 
             
-            { "title": "Kids to the Rescue", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_9"},
-            { "title": "Achooooo!", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_10"},
-            { "title": "Ready, Aim, Spit!", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_11"},
-            { "title": "Wiggly Workers", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_12"}
+            { "title": "Kids to the Rescue", "description": "课程说明...", "level": "3级", "reference" : "l3_9"},
+            { "title": "Achooooo!", "description": "课程说明...", "level": "3级", "reference" : "l3_10"},
+            { "title": "Ready, Aim, Spit!", "description": "课程说明...", "level": "3级", "reference" : "l3_11"},
+            { "title": "Wiggly Workers", "description": "课程说明...", "level": "3级", "reference" : "l3_12"}
             
                                 ]},
         
         { "children": [ 
-            { "title": "Rugged Roads", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_13"},    
-            { "title": "Rub That Mud!", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_14"},
-            { "title": "Is She Smarter Than a Fifth-Grader?", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_15"},
-            { "title": "Boas", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_16"}
+            { "title": "Rugged Roads", "description": "课程说明...", "level": "3级", "reference" : "l3_13"},    
+            { "title": "Rub That Mud!", "description": "课程说明...", "level": "3级", "reference" : "l3_14"},
+            { "title": "Is She Smarter Than a Fifth-Grader?", "description": "课程说明...", "level": "3级", "reference" : "l3_15"},
+            { "title": "Boas", "description": "课程说明...", "level": "3级", "reference" : "l3_16"}
             
                                 ]},
 
         { "children": [ 
-            { "title": "Fumi’s House", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_17"},
-            { "title": "The Paper in Paper Money", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_18"},
-            { "title": "A Clever Spinner", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_19"},
-            { "title": "Earth’s Top and Bottom", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_20"}    
+            { "title": "Fumi’s House", "description": "课程说明...", "level": "3级", "reference" : "l3_17"},
+            { "title": "The Paper in Paper Money", "description": "课程说明...", "level": "3级", "reference" : "l3_18"},
+            { "title": "A Clever Spinner", "description": "课程说明...", "level": "3级", "reference" : "l3_19"},
+            { "title": "Earth’s Top and Bottom", "description": "课程说明...", "level": "3级", "reference" : "l3_20"}    
                                 ]},
 
 
         { "children": [ 
-            { "title": "Follow Our Light", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_21"},
-            { "title": "Birthday Blues", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_22"},
-            { "title": "A Curious Creature", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_23"},
-            { "title": "How Paper Straws Were Invented", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_24"}    
+            { "title": "Follow Our Light", "description": "课程说明...", "level": "3级", "reference" : "l3_21"},
+            { "title": "Birthday Blues", "description": "课程说明...", "level": "3级", "reference" : "l3_22"},
+            { "title": "A Curious Creature", "description": "课程说明...", "level": "3级", "reference" : "l3_23"},
+            { "title": "How Paper Straws Were Invented", "description": "课程说明...", "level": "3级", "reference" : "l3_24"}    
                                 ]},
 
 
         { "children": [ 
-            { "title": "How an Island Is Formed", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_25"},
-            { "title": "Mia in the Kitchen", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_26"},
-            { "title": "The Ever-Growing Plant", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_27"},
-            { "title": "Deep in the Sea", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_28"}    
+            { "title": "How an Island Is Formed", "description": "课程说明...", "level": "3级", "reference" : "l3_25"},
+            { "title": "Mia in the Kitchen", "description": "课程说明...", "level": "3级", "reference" : "l3_26"},
+            { "title": "The Ever-Growing Plant", "description": "课程说明...", "level": "3级", "reference" : "l3_27"},
+            { "title": "Deep in the Sea", "description": "课程说明...", "level": "3级", "reference" : "l3_28"}    
                                 ]},
 
 
         { "children": [ 
-            { "title": "Terrific Trunks!", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_29"},
-            { "title": "Be an Elephant Detective", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_30"},
-            { "title": "Two Sports to Play", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_31"},
-            { "title": "Diego Rivera, Famous Artist", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_32"}    
+            { "title": "Terrific Trunks!", "description": "课程说明...", "level": "3级", "reference" : "l3_29"},
+            { "title": "Be an Elephant Detective", "description": "课程说明...", "level": "3级", "reference" : "l3_30"},
+            { "title": "Two Sports to Play", "description": "课程说明...", "level": "3级", "reference" : "l3_31"},
+            { "title": "Diego Rivera, Famous Artist", "description": "课程说明...", "level": "3级", "reference" : "l3_32"}    
                                 ]},
 
 
         { "children": [ 
-            { "title": "Lost in a Backpack", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_33"},
-            { "title": "Is It a Goat or a Sheep?", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_34"},
-            { "title": "Diving Deep, Deep, Deep", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_35"},
-            { "title": "Sea Animal Surprise", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_36"}    
+            { "title": "Lost in a Backpack", "description": "课程说明...", "level": "3级", "reference" : "l3_33"},
+            { "title": "Is It a Goat or a Sheep?", "description": "课程说明...", "level": "3级", "reference" : "l3_34"},
+            { "title": "Diving Deep, Deep, Deep", "description": "课程说明...", "level": "3级", "reference" : "l3_35"},
+            { "title": "Sea Animal Surprise", "description": "课程说明...", "level": "3级", "reference" : "l3_36"}    
                                 ]},
 
 
         { "children": [ 
-            { "title": "Make a Wish!", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_37"},
-            { "title": "What Is a Friend?", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_38"},
-            { "title": "Animal Buddies", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_39"},
-            { "title": "How High Can It Go?", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_40"}    
+            { "title": "Make a Wish!", "description": "课程说明...", "level": "3级", "reference" : "l3_37"},
+            { "title": "What Is a Friend?", "description": "课程说明...", "level": "3级", "reference" : "l3_38"},
+            { "title": "Animal Buddies", "description": "课程说明...", "level": "3级", "reference" : "l3_39"},
+            { "title": "How High Can It Go?", "description": "课程说明...", "level": "3级", "reference" : "l3_40"}    
                                 ]},
 
 
         { "children": [ 
-            { "title": "Big Brother Connor", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_41"},
-            { "title": "How a Cut Becomes a Scab", "description": "课程说明...", "level": "三级阅读", "reference" : "l3_42"}
+            { "title": "Big Brother Connor", "description": "课程说明...", "level": "3级", "reference" : "l3_41"},
+            { "title": "How a Cut Becomes a Scab", "description": "课程说明...", "level": "3级", "reference" : "l3_42"}
               
                                 ]}
 
@@ -151,118 +151,118 @@
 
     [
         { "children": [ 
-            { "title": "The Doomsday Vault", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_1"},
-            { "title": "Children’s Day in Japan", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_2"},
-            { "title": "Real-Life Dragons", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_3"},
-            { "title": "Game Day", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_4"}
+            { "title": "The Doomsday Vault", "description": "课程说明...", "level": "4级", "reference" : "l4_1"},
+            { "title": "Children’s Day in Japan", "description": "课程说明...", "level": "4级", "reference" : "l4_2"},
+            { "title": "Real-Life Dragons", "description": "课程说明...", "level": "4级", "reference" : "l4_3"},
+            { "title": "Game Day", "description": "课程说明...", "level": "4级", "reference" : "l4_4"}
                                  ]}, 
       
         { "children": [ 
-            { "title": "Galileo’s Wild Idea", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_5"},
-            { "title": "Growing a Community", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_6"},
-            { "title": "Kate’s Vacation", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_7"},
-            { "title": "Hurricane Plane", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_8"}
+            { "title": "Galileo’s Wild Idea", "description": "课程说明...", "level": "4级", "reference" : "l4_5"},
+            { "title": "Growing a Community", "description": "课程说明...", "level": "4级", "reference" : "l4_6"},
+            { "title": "Kate’s Vacation", "description": "课程说明...", "level": "4级", "reference" : "l4_7"},
+            { "title": "Hurricane Plane", "description": "课程说明...", "level": "4级", "reference" : "l4_8"}
                                 ]},
 
         { "children": [ 
-            { "title": "The Great Pacific Garbage Patch", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_9"},
-            { "title": "One Smelly Bug", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_10"},
-            { "title": "Australia’s and America’s Great Capitals", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_11"},
-            { "title": "The Oldest Treasure Map", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_12"}
+            { "title": "The Great Pacific Garbage Patch", "description": "课程说明...", "level": "4级", "reference" : "l4_9"},
+            { "title": "One Smelly Bug", "description": "课程说明...", "level": "4级", "reference" : "l4_10"},
+            { "title": "Australia’s and America’s Great Capitals", "description": "课程说明...", "level": "4级", "reference" : "l4_11"},
+            { "title": "The Oldest Treasure Map", "description": "课程说明...", "level": "4级", "reference" : "l4_12"}
                                 ]},
 
         { "children": [ 
-            { "title": "Tammy’s Troubles", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_13"},
-            { "title": "A Neighborhood Party", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_14"},
-            { "title": "Smart Snacks", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_15"},
-            { "title": "When It Rains, It Pollutes", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_16"}
+            { "title": "Tammy’s Troubles", "description": "课程说明...", "level": "4级", "reference" : "l4_13"},
+            { "title": "A Neighborhood Party", "description": "课程说明...", "level": "4级", "reference" : "l4_14"},
+            { "title": "Smart Snacks", "description": "课程说明...", "level": "4级", "reference" : "l4_15"},
+            { "title": "When It Rains, It Pollutes", "description": "课程说明...", "level": "4级", "reference" : "l4_16"}
                                 ]},
          
         { "children": [ 
-            { "title": "Dinosaur Discoverer", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_17"},
-            { "title": "Swimming with Dolphins", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_18"},
-            { "title": "Using the Sun at Night", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_19"},
-            { "title": "Noisy Neighbors", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_20"}
+            { "title": "Dinosaur Discoverer", "description": "课程说明...", "level": "4级", "reference" : "l4_17"},
+            { "title": "Swimming with Dolphins", "description": "课程说明...", "level": "4级", "reference" : "l4_18"},
+            { "title": "Using the Sun at Night", "description": "课程说明...", "level": "4级", "reference" : "l4_19"},
+            { "title": "Noisy Neighbors", "description": "课程说明...", "level": "4级", "reference" : "l4_20"}
                                 ]},
 
         { "children": [ 
-            { "title": "The Rugged Sport of Rugby", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_21"},
-            { "title": "Slow Down, Bo!", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_22"},
-            { "title": "Life on Jupiter’s Icy Moon", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_23"},
-            { "title": "A Frog with . . . Claws?", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_24"}
+            { "title": "The Rugged Sport of Rugby", "description": "课程说明...", "level": "4级", "reference" : "l4_21"},
+            { "title": "Slow Down, Bo!", "description": "课程说明...", "level": "4级", "reference" : "l4_22"},
+            { "title": "Life on Jupiter’s Icy Moon", "description": "课程说明...", "level": "4级", "reference" : "l4_23"},
+            { "title": "A Frog with . . . Claws?", "description": "课程说明...", "level": "4级", "reference" : "l4_24"}
                                 ]},
 
         { "children": [ 
-            { "title": "A Patient Parent", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_25"},
-            { "title": "A Storm Is Brewing", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_26"},
-            { "title": "Mixed-Up Aunt Hilda", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_72"},
-            { "title": "Brain Freeze", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_28"}
+            { "title": "A Patient Parent", "description": "课程说明...", "level": "4级", "reference" : "l4_25"},
+            { "title": "A Storm Is Brewing", "description": "课程说明...", "level": "4级", "reference" : "l4_26"},
+            { "title": "Mixed-Up Aunt Hilda", "description": "课程说明...", "level": "4级", "reference" : "l4_72"},
+            { "title": "Brain Freeze", "description": "课程说明...", "level": "4级", "reference" : "l4_28"}
                                 ]},
 
         { "children": [ 
-            { "title": "Coaster Kingdom", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_29"},
-            { "title": "The Lake on Top of a Mountain", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_30"},
-            { "title": "New Reality Show Is a Real “Dog”", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_31"},
-            { "title": "Save the Skunks!", "description": "课程说明...", "level": "四级阅读", "reference" : "l4_32"}
+            { "title": "Coaster Kingdom", "description": "课程说明...", "level": "4级", "reference" : "l4_29"},
+            { "title": "The Lake on Top of a Mountain", "description": "课程说明...", "level": "4级", "reference" : "l4_30"},
+            { "title": "New Reality Show Is a Real “Dog”", "description": "课程说明...", "level": "4级", "reference" : "l4_31"},
+            { "title": "Save the Skunks!", "description": "课程说明...", "level": "4级", "reference" : "l4_32"}
                                 ]}
     ],
 
 
     [
         { "children": [ 
-            { "title": "The Big Interview", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_1"},
-            { "title": "A Long Day", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_2"},
-            { "title": "Rare and Beautiful Blooms", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_3"},
-            { "title": "The Greatest Trick", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_4"}
+            { "title": "The Big Interview", "description": "课程说明...", "level": "5级", "reference" : "l5_1"},
+            { "title": "A Long Day", "description": "课程说明...", "level": "5级", "reference" : "l5_2"},
+            { "title": "Rare and Beautiful Blooms", "description": "课程说明...", "level": "5级", "reference" : "l5_3"},
+            { "title": "The Greatest Trick", "description": "课程说明...", "level": "5级", "reference" : "l5_4"}
                                  ]}, 
       
         { "children": [ 
-            { "title": "The Famous Rockettes", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_5"},
-            { "title": "World Champion Magician", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_6"},
-            { "title": "Gardens and Grades", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_7"},
-            { "title": "Flowers for Dinner", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_8"}
+            { "title": "The Famous Rockettes", "description": "课程说明...", "level": "5级", "reference" : "l5_5"},
+            { "title": "World Champion Magician", "description": "课程说明...", "level": "5级", "reference" : "l5_6"},
+            { "title": "Gardens and Grades", "description": "课程说明...", "level": "5级", "reference" : "l5_7"},
+            { "title": "Flowers for Dinner", "description": "课程说明...", "level": "5级", "reference" : "l5_8"}
                                 ]},
 
         { "children": [ 
-            { "title": "Crazy Contests", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_9"},
-            { "title": "Cockroach Fun Facts", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_10"},
-            { "title": "A Sheltered Life", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_11"},
-            { "title": "Getting the Perfect Shot", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_12"}
+            { "title": "Crazy Contests", "description": "课程说明...", "level": "5级", "reference" : "l5_9"},
+            { "title": "Cockroach Fun Facts", "description": "课程说明...", "level": "5级", "reference" : "l5_10"},
+            { "title": "A Sheltered Life", "description": "课程说明...", "level": "5级", "reference" : "l5_11"},
+            { "title": "Getting the Perfect Shot", "description": "课程说明...", "level": "5级", "reference" : "l5_12"}
                                 ]},
 
         { "children": [ 
-            { "title": "Flavoring the Globe", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_13"},
-            { "title": "A Splashy Sport", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_14"},
-            { "title": "Dandelions to the Rescue", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_15"},
-            { "title": "A Tasty Accident", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_16"}
+            { "title": "Flavoring the Globe", "description": "课程说明...", "level": "5级", "reference" : "l5_13"},
+            { "title": "A Splashy Sport", "description": "课程说明...", "level": "5级", "reference" : "l5_14"},
+            { "title": "Dandelions to the Rescue", "description": "课程说明...", "level": "5级", "reference" : "l5_15"},
+            { "title": "A Tasty Accident", "description": "课程说明...", "level": "5级", "reference" : "l5_16"}
                                 ]},
 
         { "children": [ 
-            { "title": "The Rafting Trip", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_17"},
-            { "title": "The Rarest Beef", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_18"},
-            { "title": "An American Treasure", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_19"},
-            { "title": "America’s Littlest Big Eater", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_20"}
+            { "title": "The Rafting Trip", "description": "课程说明...", "level": "5级", "reference" : "l5_17"},
+            { "title": "The Rarest Beef", "description": "课程说明...", "level": "5级", "reference" : "l5_18"},
+            { "title": "An American Treasure", "description": "课程说明...", "level": "5级", "reference" : "l5_19"},
+            { "title": "America’s Littlest Big Eater", "description": "课程说明...", "level": "5级", "reference" : "l5_20"}
                                     ]}, 
         
         { "children": [ 
-            { "title": "Oil from a Stone", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_21"},
-            { "title": "The First Fish", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_22"},
-            { "title": "Dog of the Millennium", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_23"},
-            { "title": "Mira’s Visit", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_24"}
+            { "title": "Oil from a Stone", "description": "课程说明...", "level": "5级", "reference" : "l5_21"},
+            { "title": "The First Fish", "description": "课程说明...", "level": "5级", "reference" : "l5_22"},
+            { "title": "Dog of the Millennium", "description": "课程说明...", "level": "5级", "reference" : "l5_23"},
+            { "title": "Mira’s Visit", "description": "课程说明...", "level": "5级", "reference" : "l5_24"}
                                 ]},
 
         { "children": [ 
-            { "title": "Hidden Treasure", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_25"},
-            { "title": "Handmade Memories", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_26"},
-            { "title": "A Pyramid in Wyoming", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_27"},
-            { "title": "How Hot Is That Pepper?", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_28"}
+            { "title": "Hidden Treasure", "description": "课程说明...", "level": "5级", "reference" : "l5_25"},
+            { "title": "Handmade Memories", "description": "课程说明...", "level": "5级", "reference" : "l5_26"},
+            { "title": "A Pyramid in Wyoming", "description": "课程说明...", "level": "5级", "reference" : "l5_27"},
+            { "title": "How Hot Is That Pepper?", "description": "课程说明...", "level": "5级", "reference" : "l5_28"}
                                 ]},
 
         { "children": [ 
-            { "title": "Good Luck Charm", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_29"},
-            { "title": "The Egg Drop", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_30"},
-            { "title": "The Lawn Chair Flyer", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_31"},
-            { "title": "Underground Mysteries", "description": "课程说明...", "level": "五级阅读", "reference" : "l5_32"}
+            { "title": "Good Luck Charm", "description": "课程说明...", "level": "5级", "reference" : "l5_29"},
+            { "title": "The Egg Drop", "description": "课程说明...", "level": "5级", "reference" : "l5_30"},
+            { "title": "The Lawn Chair Flyer", "description": "课程说明...", "level": "5级", "reference" : "l5_31"},
+            { "title": "Underground Mysteries", "description": "课程说明...", "level": "5级", "reference" : "l5_32"}
                                 ]}
 
 
@@ -271,91 +271,91 @@
 
     [
         { "children": [ 
-            { "title": "Ishmael and Isadore", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_1"},
-            { "title": "Up to the Mountaintop", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_2"},
-            { "title": "Dirty Job? Oh Yeah!", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_3"},
-            { "title": "The Elephant and the Hummingbird", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_4"}
+            { "title": "Ishmael and Isadore", "description": "课程说明...", "level": "6级", "reference" : "l6_1"},
+            { "title": "Up to the Mountaintop", "description": "课程说明...", "level": "6级", "reference" : "l6_2"},
+            { "title": "Dirty Job? Oh Yeah!", "description": "课程说明...", "level": "6级", "reference" : "l6_3"},
+            { "title": "The Elephant and the Hummingbird", "description": "课程说明...", "level": "6级", "reference" : "l6_4"}
                                  ]}, 
       
         { "children": [ 
             
-            { "title": "Newsies Strike New York", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_5"},
-            { "title": "Forests of Clouds and Mist", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_6"},
-            { "title": "Kids Take to the Airwaves", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_7"},
-            { "title": "Not Quite the Same", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_8"}
+            { "title": "Newsies Strike New York", "description": "课程说明...", "level": "6级", "reference" : "l6_5"},
+            { "title": "Forests of Clouds and Mist", "description": "课程说明...", "level": "6级", "reference" : "l6_6"},
+            { "title": "Kids Take to the Airwaves", "description": "课程说明...", "level": "6级", "reference" : "l6_7"},
+            { "title": "Not Quite the Same", "description": "课程说明...", "level": "6级", "reference" : "l6_8"}
 
                                 ]},
 
         { "children": [ 
             
-            { "title": "A Plane in the Hudson River", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_9"},
-            { "title": "The World’s Biggest Wave", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_10"},
-            { "title": "Soldier in Disguise", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_11"},
-            { "title": "Digging into Custer’s Last Stand", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_12"}
+            { "title": "A Plane in the Hudson River", "description": "课程说明...", "level": "6级", "reference" : "l6_9"},
+            { "title": "The World’s Biggest Wave", "description": "课程说明...", "level": "6级", "reference" : "l6_10"},
+            { "title": "Soldier in Disguise", "description": "课程说明...", "level": "6级", "reference" : "l6_11"},
+            { "title": "Digging into Custer’s Last Stand", "description": "课程说明...", "level": "6级", "reference" : "l6_12"}
                                 ]},
                                 
         { "children": [ 
             
-            { "title": "Florida’s Python Problem", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_13"},
-            { "title": "Three Parts for Three Characters", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_14"},
-            { "title": "Ray Wallace’s Bigfoot Hoax", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_15"},
-            { "title": "Ephesus", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_16"}
+            { "title": "Florida’s Python Problem", "description": "课程说明...", "level": "6级", "reference" : "l6_13"},
+            { "title": "Three Parts for Three Characters", "description": "课程说明...", "level": "6级", "reference" : "l6_14"},
+            { "title": "Ray Wallace’s Bigfoot Hoax", "description": "课程说明...", "level": "6级", "reference" : "l6_15"},
+            { "title": "Ephesus", "description": "课程说明...", "level": "6级", "reference" : "l6_16"}
                                 ]},     
 
         { "children": [ 
             
-            { "title": "Taking Action", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_17"},
-            { "title": "The Smilodon and the Tiger", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_18"},
-            { "title": "Ancient Greek PE", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_19"},
-            { "title": "Prometheus", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_20"}
+            { "title": "Taking Action", "description": "课程说明...", "level": "6级", "reference" : "l6_17"},
+            { "title": "The Smilodon and the Tiger", "description": "课程说明...", "level": "6级", "reference" : "l6_18"},
+            { "title": "Ancient Greek PE", "description": "课程说明...", "level": "6级", "reference" : "l6_19"},
+            { "title": "Prometheus", "description": "课程说明...", "level": "6级", "reference" : "l6_20"}
                                 ]},
 
         { "children": [ 
 
-            { "title": "A Diagnosis", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_21"},
-            { "title": "The World in a Pond", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_22"},
-            { "title": "The Cliff Dwellers", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_23"},
-            { "title": "Wildfires in Washington", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_24"}
+            { "title": "A Diagnosis", "description": "课程说明...", "level": "6级", "reference" : "l6_21"},
+            { "title": "The World in a Pond", "description": "课程说明...", "level": "6级", "reference" : "l6_22"},
+            { "title": "The Cliff Dwellers", "description": "课程说明...", "level": "6级", "reference" : "l6_23"},
+            { "title": "Wildfires in Washington", "description": "课程说明...", "level": "6级", "reference" : "l6_24"}
                                 ]},
 
         { "children": [ 
 
-            { "title": "Building a House of Cards", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_25"},
-            { "title": "Hoodoos in Bryce Canyon", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_26"},
-            { "title": "The Value of Gold", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_27"},
-            { "title": "Eating the Roman Way Today", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_28"}
+            { "title": "Building a House of Cards", "description": "课程说明...", "level": "6级", "reference" : "l6_25"},
+            { "title": "Hoodoos in Bryce Canyon", "description": "课程说明...", "level": "6级", "reference" : "l6_26"},
+            { "title": "The Value of Gold", "description": "课程说明...", "level": "6级", "reference" : "l6_27"},
+            { "title": "Eating the Roman Way Today", "description": "课程说明...", "level": "6级", "reference" : "l6_28"}
                                 ]},
 
         { "children": [ 
 
-            { "title": "A Little Can Go a Long Way", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_29"},
-            { "title": "The Return of the Wolf", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_30"},
-            { "title": "Crusader for Civil Rights", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_31"},
-            { "title": "One School at a Time", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_32"}
+            { "title": "A Little Can Go a Long Way", "description": "课程说明...", "level": "6级", "reference" : "l6_29"},
+            { "title": "The Return of the Wolf", "description": "课程说明...", "level": "6级", "reference" : "l6_30"},
+            { "title": "Crusader for Civil Rights", "description": "课程说明...", "level": "6级", "reference" : "l6_31"},
+            { "title": "One School at a Time", "description": "课程说明...", "level": "6级", "reference" : "l6_32"}
                                 ]},
 
 
         { "children": [ 
 
-            { "title": "The Blue Lagoon", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_33"},
-            { "title": "The Most Powerful Thing in the World", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_34"},
-            { "title": "Helping Horses", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_35"},
-            { "title": "A Musical Prodigy", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_36"}
+            { "title": "The Blue Lagoon", "description": "课程说明...", "level": "6级", "reference" : "l6_33"},
+            { "title": "The Most Powerful Thing in the World", "description": "课程说明...", "level": "6级", "reference" : "l6_34"},
+            { "title": "Helping Horses", "description": "课程说明...", "level": "6级", "reference" : "l6_35"},
+            { "title": "A Musical Prodigy", "description": "课程说明...", "level": "6级", "reference" : "l6_36"}
                                 ]},
 
         { "children": [ 
 
-            { "title": "Harvesting Rain the Easy Way", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_37"},
-            { "title": "The Dog Hoser", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_38"},
-            { "title": "Back from the Brink of Extinction", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_39"},
-            { "title": "A Wild Flamingo Chase", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_40"}
+            { "title": "Harvesting Rain the Easy Way", "description": "课程说明...", "level": "6级", "reference" : "l6_37"},
+            { "title": "The Dog Hoser", "description": "课程说明...", "level": "6级", "reference" : "l6_38"},
+            { "title": "Back from the Brink of Extinction", "description": "课程说明...", "level": "6级", "reference" : "l6_39"},
+            { "title": "A Wild Flamingo Chase", "description": "课程说明...", "level": "6级", "reference" : "l6_40"}
                                 ]},
 
         { "children": [ 
 
-            { "title": "Deadly in the Water", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_41"},
-            { "title": "Rain in Space?", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_42"},
-            { "title": "Skeleton on the Ice", "description": "课程说明...", "level": "五级阅读", "reference" : "l6_43"}
+            { "title": "Deadly in the Water", "description": "课程说明...", "level": "6级", "reference" : "l6_41"},
+            { "title": "Rain in Space?", "description": "课程说明...", "level": "6级", "reference" : "l6_42"},
+            { "title": "Skeleton on the Ice", "description": "课程说明...", "level": "6级", "reference" : "l6_43"}
                                 ]}
 
 

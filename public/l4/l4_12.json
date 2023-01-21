@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "The Oldest Treasure Map", "sentence": "You\u2019ve probably read stories or seen movies about treasure maps. Maybe a pirate was looking for buried treasure. Maybe an explorer was seeking a lost fortune. Most treasure maps are made up by storytellers, but one treasure map is very real and very old. The Copper Scroll is a treasure map like no other. Instead of being written on paper or animal skin, this map is written on copper. The map is from the Middle East and is over 2,000 years old. Because it is made from copper, the map didn\u2019t hold up very well over time. Researchers had to cut the map into strips and then carefully put them back together. The map\u2019s writing is difficult to read, so people aren\u2019t sure what it says. Most think the map lists the places where silver and gold were buried. But so far, none of the treasure listed on the map has been found. However, the map is still important. It has helped researchers learn more about how people spoke and wrote thousands of years ago.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " whatisthe passage mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "People who study old languages", "value": "People who study old languages"}, {"text_en": "Treasure maps in fiction", "value": "Treasure maps in fiction"}, {"text_en": "Life thousands of years ago", "value": "Life thousands of years ago"}, {"text_en": "An old treasure map ", "value": "An old treasure map "}]}, {"type": "scq", "sentence": " why are people unsure about what the treasure map says", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The map uses a secret code", "value": "The map uses a secret code"}, {"text_en": "It is difficult to write on copper", "value": "It is difficult to write on copper"}, {"text_en": "The map is difficult to read", "value": "The map is difficult to read"}, {"text_en": "No one understands the language on the scroll. ", "value": "No one understands the language on the scroll. "}]}, {"type": "scq", "sentence": " whatisan effect of the map being written on copper", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "It is damaged", "value": "It is damaged"}, {"text_en": "It is worth a lot of money", "value": "It is worth a lot of money"}, {"text_en": "It is heavy", "value": "It is heavy"}, {"text_en": "It is easy to cut into strips. ", "value": "It is easy to cut into strips. "}]}, {"type": "scq", "sentence": " howisthe map different from other treasure maps", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "It is written on copper instead of paper", "value": "It is written on copper instead of paper"}, {"text_en": "It describes a unique treasure", "value": "It describes a unique treasure"}, {"text_en": "It comes from a story", "value": "It comes from a story"}, {"text_en": "It is not important to researchers.", "value": "It is not important to researchers."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "The Oldest Treasure Map",
+        "sentence": "You\u2019ve probably read stories or seen movies about treasure maps. Maybe a pirate was looking for buried treasure. Maybe an explorer was seeking a lost fortune. Most treasure maps are made up by storytellers, but one treasure map is very real and very old. The Copper Scroll is a treasure map like no other. Instead of being written on paper or animal skin, this map is written on copper. The map is from the Middle East and is over 2,000 years old. Because it is made from copper, the map didn\u2019t hold up very well over time. Researchers had to cut the map into strips and then carefully put them back together. The map\u2019s writing is difficult to read, so people aren\u2019t sure what it says. Most think the map lists the places where silver and gold were buried. But so far, none of the treasure listed on the map has been found. However, the map is still important. It has helped researchers learn more about how people spoke and wrote thousands of years ago.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " whatisthe passage mostly about",
+            "hint": "N/A",
+            "answer": [
+                "-----"
+            ],
+            "card_data": [
+                {
+                    "text_en": "People who study old languages",
+                    "value": "People who study old languages"
+                },
+                {
+                    "text_en": "Treasure maps in fiction",
+                    "value": "Treasure maps in fiction"
+                },
+                {
+                    "text_en": "Life thousands of years ago",
+                    "value": "Life thousands of years ago"
+                },
+                {
+                    "text_en": "An old treasure map ",
+                    "value": "An old treasure map "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " why are people unsure about what the treasure map says",
+            "hint": "N/A",
+            "answer": [
+                "-----"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The map uses a secret code",
+                    "value": "The map uses a secret code"
+                },
+                {
+                    "text_en": "It is difficult to write on copper",
+                    "value": "It is difficult to write on copper"
+                },
+                {
+                    "text_en": "The map is difficult to read",
+                    "value": "The map is difficult to read"
+                },
+                {
+                    "text_en": "No one understands the language on the scroll. ",
+                    "value": "No one understands the language on the scroll. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what is an effect of the map being written on copper",
+            "hint": "N/A",
+            "answer": [
+                "-----"
+            ],
+            "card_data": [
+                {
+                    "text_en": "It is damaged",
+                    "value": "It is damaged"
+                },
+                {
+                    "text_en": "It is worth a lot of money",
+                    "value": "It is worth a lot of money"
+                },
+                {
+                    "text_en": "It is heavy",
+                    "value": "It is heavy"
+                },
+                {
+                    "text_en": "It is easy to cut into strips. ",
+                    "value": "It is easy to cut into strips. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " how is the map different from other treasure maps",
+            "hint": "N/A",
+            "answer": [
+                "-----"
+            ],
+            "card_data": [
+                {
+                    "text_en": "It is written on copper instead of paper",
+                    "value": "It is written on copper instead of paper"
+                },
+                {
+                    "text_en": "It describes a unique treasure",
+                    "value": "It describes a unique treasure"
+                },
+                {
+                    "text_en": "It comes from a story",
+                    "value": "It comes from a story"
+                },
+                {
+                    "text_en": "It is not important to researchers.",
+                    "value": "It is not important to researchers."
+                }
+            ]
+        }
+    ]
+}

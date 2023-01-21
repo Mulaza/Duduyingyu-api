@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "One Smelly Bug", "sentence": "Bombardier (bom-buhr-DEER) beetles are colorful but are best left alone. These beetles get their name from the way they keep themselves safe. When a bombardier beetle is threatened, it \u201cbombards\u201d its enemy by spraying a boiling hot, smelly liquid from its body. Frogs, birds, and other animals looking for a meal get a nasty surprise instead. The bombardier beetle has special body parts that hold two liquids. Muscles push these liquids together, where they mix into a smelly, hot spray. The beetle can aim the liquid in many directions. This allows it to protect itself from the front, side, or back. When the beetle sprays, it also makes a loud pop and a gas that looks like smoke. It\u2019s quite a surprise to see a popping, smoking bug! The beetle isn\u2019t the only animal that can protect itself by stinking. Skunks, stink bugs, and musk ox are a few other animals that also use a nasty smell to keep others away. But they don\u2019t pop and smoke like the bombardier beetle does. So watch out for this \u201cexplosive\u201d insect!", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " whatisthe passage mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "How the bombardier beetle got its name", "value": "How the bombardier beetle got its name"}, {"text_en": "Animals that stink", "value": "Animals that stink"}, {"text_en": "The difference between liquids and gases", "value": "The difference between liquids and gases"}, {"text_en": "A beetle that defends itself in a special way ", "value": "A beetle that defends itself in a special way "}]}, {"type": "scq", "sentence": " accordingtothepassage,howareskunks andbombardierbeetlesalike", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Both are hunted by frogs", "value": "Both are hunted by frogs"}, {"text_en": "Both use a bad smell to protect themselves", "value": "Both use a bad smell to protect themselves"}, {"text_en": "Both make a loud popping noise", "value": "Both make a loud popping noise"}, {"text_en": "Both make a boiling hot liquid. ", "value": "Both make a boiling hot liquid. "}]}, {"type": "scq", "sentence": " how did the bombardier beetle get its name", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "From the way it attacks frogs and birds", "value": "From the way it attacks frogs and birds"}, {"text_en": "From the hot, smelly liquid it makes", "value": "From the hot, smelly liquid it makes"}, {"text_en": "From the way it hunts for its food", "value": "From the way it hunts for its food"}, {"text_en": "From the way it looks and moves ", "value": "From the way it looks and moves "}]}, {"type": "scq", "sentence": " whatisthe effect of the beetle being able to aim in many directions", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The beetle can protect itself from all sides", "value": "The beetle can protect itself from all sides"}, {"text_en": "The beetle can make many different popping noises", "value": "The beetle can make many different popping noises"}, {"text_en": "The beetle can walk backward", "value": "The beetle can walk backward"}, {"text_en": "The beetle can produce liquids inside its body", "value": "The beetle can produce liquids inside its body"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "One Smelly Bug",
+        "sentence": "Bombardier (bom-buhr-DEER) beetles are colorful but are best left alone. These beetles get their name from the way they keep themselves safe. When a bombardier beetle is threatened, it \u201cbombards\u201d its enemy by spraying a boiling hot, smelly liquid from its body. Frogs, birds, and other animals looking for a meal get a nasty surprise instead. The bombardier beetle has special body parts that hold two liquids. Muscles push these liquids together, where they mix into a smelly, hot spray. The beetle can aim the liquid in many directions. This allows it to protect itself from the front, side, or back. When the beetle sprays, it also makes a loud pop and a gas that looks like smoke. It\u2019s quite a surprise to see a popping, smoking bug! The beetle isn\u2019t the only animal that can protect itself by stinking. Skunks, stink bugs, and musk ox are a few other animals that also use a nasty smell to keep others away. But they don\u2019t pop and smoke like the bombardier beetle does. So watch out for this \u201cexplosive\u201d insect!",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " what is the passage mostly about",
+            "hint": "N/A",
+            "answer": [
+                "A beetle that defends itself in a special way"
+            ],
+            "card_data": [
+                {
+                    "text_en": "How the bombardier beetle got its name",
+                    "value": "How the bombardier beetle got its name"
+                },
+                {
+                    "text_en": "Animals that stink",
+                    "value": "Animals that stink"
+                },
+                {
+                    "text_en": "The difference between liquids and gases",
+                    "value": "The difference between liquids and gases"
+                },
+                {
+                    "text_en": "A beetle that defends itself in a special way",
+                    "value": "A beetle that defends itself in a special way"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " according to the passage, how are skunks and bombardier beetles alike",
+            "hint": "N/A",
+            "answer": [
+                "Both use a bad smell to protect themselves"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Both are hunted by frogs",
+                    "value": "Both are hunted by frogs"
+                },
+                {
+                    "text_en": "Both use a bad smell to protect themselves",
+                    "value": "Both use a bad smell to protect themselves"
+                },
+                {
+                    "text_en": "Both make a loud popping noise",
+                    "value": "Both make a loud popping noise"
+                },
+                {
+                    "text_en": "Both make a boiling hot liquid. ",
+                    "value": "Both make a boiling hot liquid. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " how did the bombardier beetle get its name",
+            "hint": "N/A",
+            "answer": [
+                "From the hot, smelly liquid it makes"
+            ],
+            "card_data": [
+                {
+                    "text_en": "From the way it attacks frogs and birds",
+                    "value": "From the way it attacks frogs and birds"
+                },
+                {
+                    "text_en": "From the hot, smelly liquid it makes",
+                    "value": "From the hot, smelly liquid it makes"
+                },
+                {
+                    "text_en": "From the way it hunts for its food",
+                    "value": "From the way it hunts for its food"
+                },
+                {
+                    "text_en": "From the way it looks and moves ",
+                    "value": "From the way it looks and moves "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what is the effect of the beetle being able to aim in many directions",
+            "hint": "N/A",
+            "answer": [
+                "The beetle can protect itself from all sides"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The beetle can protect itself from all sides",
+                    "value": "The beetle can protect itself from all sides"
+                },
+                {
+                    "text_en": "The beetle can make many different popping noises",
+                    "value": "The beetle can make many different popping noises"
+                },
+                {
+                    "text_en": "The beetle can walk backward",
+                    "value": "The beetle can walk backward"
+                },
+                {
+                    "text_en": "The beetle can produce liquids inside its body",
+                    "value": "The beetle can produce liquids inside its body"
+                }
+            ]
+        }
+    ]
+}

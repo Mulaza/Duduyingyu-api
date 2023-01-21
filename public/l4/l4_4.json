@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Game Day", "sentence": "The rain continued to pour throughout the gloomy Saturday afternoon. Lauren and Henry were dressed in their dark blue uniforms. Lauren\u2019s uniform had more dirt stains than Henry\u2019s did because she loved stealing bases and sliding into home. She was the best base stealer on the team. Lauren pounded her fist into her glove as she watched the rain fall in steady sheets. Every couple of minutes, she would sigh loudly, which caused the window to fog up. Henry was reading a comic book and eating an apple and some crackers. He kicked off his shoes and grabbed a pillow from the couch. \u201cAren\u2019t you worried?\u201d Lauren asked him. \u201cWhat if it doesn\u2019t stop raining?\u201d \u201cI hope it rains all day,\u201d Henry said. \u201cI\u2019m having a great time, and besides, we can play next week. This is the final issue of Captain Smoke.\u201d The telephone rang. Henry and Lauren nervously looked at each other. Their mother answered it. \u201cHello, Coach Donna,\u201d she said. After a short pause, she said, \u201cOkay, I\u2019ll let them know. We\u2019ll see you next week.\u201d", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " where does the story take place", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "At a library", "value": "At a library"}, {"text_en": "At a ballpark", "value": "At a ballpark"}, {"text_en": "At a restaurant", "value": "At a restaurant"}, {"text_en": "At lauren and henrys house ", "value": "At lauren and henrys house "}]}, {"type": "scq", "sentence": " which one best describes lauren", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Concerned", "value": "Concerned"}, {"text_en": "Happy", "value": "Happy"}, {"text_en": "Calm", "value": "Calm"}, {"text_en": "Angry ", "value": "Angry "}]}, {"type": "scq", "sentence": " howdoyouthinkhenryfeelsaboutbaseball", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "He wants to play every game", "value": "He wants to play every game"}, {"text_en": "He never likes playing", "value": "He never likes playing"}, {"text_en": "He likes baseball more than reading", "value": "He likes baseball more than reading"}, {"text_en": "He enjoys reading more than baseball. ", "value": "He enjoys reading more than baseball. "}]}, {"type": "scq", "sentence": " how can you tell that lauren enjoys playing baseball more than henry", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "She pounds her fist into her glove", "value": "She pounds her fist into her glove"}, {"text_en": "She seems more worried about the rain than henry does", "value": "She seems more worried about the rain than henry does"}, {"text_en": "She does not eat an apple and crackers", "value": "She does not eat an apple and crackers"}, {"text_en": "She looks at henry when the phone rings.", "value": "She looks at henry when the phone rings."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Game Day",
+        "sentence": "The rain continued to pour throughout the gloomy Saturday afternoon. Lauren and Henry were dressed in their dark blue uniforms. Lauren\u2019s uniform had more dirt stains than Henry\u2019s did because she loved stealing bases and sliding into home. She was the best base stealer on the team. Lauren pounded her fist into her glove as she watched the rain fall in steady sheets. Every couple of minutes, she would sigh loudly, which caused the window to fog up. Henry was reading a comic book and eating an apple and some crackers. He kicked off his shoes and grabbed a pillow from the couch. \u201cAren\u2019t you worried?\u201d Lauren asked him. \u201cWhat if it doesn\u2019t stop raining?\u201d \u201cI hope it rains all day,\u201d Henry said. \u201cI\u2019m having a great time, and besides, we can play next week. This is the final issue of Captain Smoke.\u201d The telephone rang. Henry and Lauren nervously looked at each other. Their mother answered it. \u201cHello, Coach Donna,\u201d she said. After a short pause, she said, \u201cOkay, I\u2019ll let them know. We\u2019ll see you next week.\u201d",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": "where does the story take place",
+            "hint": "N/A",
+            "answer": [
+                "At lauren and henrys house"
+            ],
+            "card_data": [
+                {
+                    "text_en": "At a library",
+                    "value": "At a library"
+                },
+                {
+                    "text_en": "At a ballpark",
+                    "value": "At a ballpark"
+                },
+                {
+                    "text_en": "At a restaurant",
+                    "value": "At a restaurant"
+                },
+                {
+                    "text_en": "At lauren and henrys house",
+                    "value": "At lauren and henrys house"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which one best describes lauren",
+            "hint": "N/A",
+            "answer": [
+                "Concerned"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Concerned",
+                    "value": "Concerned"
+                },
+                {
+                    "text_en": "Happy",
+                    "value": "Happy"
+                },
+                {
+                    "text_en": "Calm",
+                    "value": "Calm"
+                },
+                {
+                    "text_en": "Angry ",
+                    "value": "Angry "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "how do you think henry feels about baseball",
+            "hint": "N/A",
+            "answer": [
+                "He enjoys reading more than baseball"
+            ],
+            "card_data": [
+                {
+                    "text_en": "He wants to play every game",
+                    "value": "He wants to play every game"
+                },
+                {
+                    "text_en": "He never likes playing",
+                    "value": "He never likes playing"
+                },
+                {
+                    "text_en": "He likes baseball more than reading",
+                    "value": "He likes baseball more than reading"
+                },
+                {
+                    "text_en": "He enjoys reading more than baseball",
+                    "value": "He enjoys reading more than baseball"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "how can you tell that lauren enjoys playing baseball more than henry",
+            "hint": "N/A",
+            "answer": [
+                "She seems more worried about the rain than henry does"
+            ],
+            "card_data": [
+                {
+                    "text_en": "She pounds her fist into her glove",
+                    "value": "She pounds her fist into her glove"
+                },
+                {
+                    "text_en": "She seems more worried about the rain than henry does",
+                    "value": "She seems more worried about the rain than henry does"
+                },
+                {
+                    "text_en": "She does not eat an apple and crackers",
+                    "value": "She does not eat an apple and crackers"
+                },
+                {
+                    "text_en": "She looks at henry when the phone rings.",
+                    "value": "She looks at henry when the phone rings."
+                }
+            ]
+        }
+    ]
+}

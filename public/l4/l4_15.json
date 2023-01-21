@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Smart Snacks", "sentence": "It\u2019s not hard to see why cheeseburgers, fries, pizza, and ice cream are popular. They\u2019re delicious! But not everything that tastes good is good for you. The next time you need to feed, consider smart snacks. Nearly everyone loves french fries made from potatoes. Did you know that other root vegetables taste great, too? Root vegetables include beets, carrots, and sweet potatoes. They contain important vitamins and minerals, and they can all do the jobs a potato can do. Raw carrots are crunchy and satisfying. Cooked beets and sweet potatoes are full of flavor. Peel them and cut them into strips, just like fries. Raw carrots are crunchy, and when beets and sweet potatoes are cooked, they are sweet. Give them a try! You\u2019ll forget all about french fries. Discovering new foods can be fun. Plus, if you eat healthful foods, you\u2019ll be less likely to get sick. You\u2019ll also have more energy to run and play. And you will be able to think more clearly and for longer periods of time. So start snacking smartly!", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " which of theseisafact", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Ice cream is delicious", "value": "Ice cream is delicious"}, {"text_en": "Carrots are satisfying", "value": "Carrots are satisfying"}, {"text_en": "Everyone loves french fries", "value": "Everyone loves french fries"}, {"text_en": "Beets have vitamins. ", "value": "Beets have vitamins. "}]}, {"type": "scq", "sentence": " which of theseisnot an effect of eating healthfulfoods", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Getting fewer minerals", "value": "Getting fewer minerals"}, {"text_en": "Being able to concentrate better", "value": "Being able to concentrate better"}, {"text_en": "Being less likely to get sick", "value": "Being less likely to get sick"}, {"text_en": "Having more energy to play ", "value": "Having more energy to play "}]}, {"type": "scq", "sentence": " which of theseisan opinion about root vegetables", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Carrots are crunchy", "value": "Carrots are crunchy"}, {"text_en": "Beets taste as good as potatoes", "value": "Beets taste as good as potatoes"}, {"text_en": "Sweet potatoes are a root vegetable", "value": "Sweet potatoes are a root vegetable"}, {"text_en": "Root vegetables can be cut to look like french fries. ", "value": "Root vegetables can be cut to look like french fries. "}]}, {"type": "scq", "sentence": " whatisthe passage mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "How to make french fries", "value": "How to make french fries"}, {"text_en": "The most popular snack foods", "value": "The most popular snack foods"}, {"text_en": "What to eat when you are sick", "value": "What to eat when you are sick"}, {"text_en": "Healthful snacks you can make from vegetables", "value": "Healthful snacks you can make from vegetables"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Smart Snacks",
+        "sentence": "It\u2019s not hard to see why cheeseburgers, fries, pizza, and ice cream are popular. They\u2019re delicious! But not everything that tastes good is good for you. The next time you need to feed, consider smart snacks. Nearly everyone loves french fries made from potatoes. Did you know that other root vegetables taste great, too? Root vegetables include beets, carrots, and sweet potatoes. They contain important vitamins and minerals, and they can all do the jobs a potato can do. Raw carrots are crunchy and satisfying. Cooked beets and sweet potatoes are full of flavor. Peel them and cut them into strips, just like fries. Raw carrots are crunchy, and when beets and sweet potatoes are cooked, they are sweet. Give them a try! You\u2019ll forget all about french fries. Discovering new foods can be fun. Plus, if you eat healthful foods, you\u2019ll be less likely to get sick. You\u2019ll also have more energy to run and play. And you will be able to think more clearly and for longer periods of time. So start snacking smartly!",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " which of these is a fact",
+            "hint": "N/A",
+            "answer": [
+                "Beets have vitamins"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Ice cream is delicious",
+                    "value": "Ice cream is delicious"
+                },
+                {
+                    "text_en": "Carrots are satisfying",
+                    "value": "Carrots are satisfying"
+                },
+                {
+                    "text_en": "Everyone loves french fries",
+                    "value": "Everyone loves french fries"
+                },
+                {
+                    "text_en": "Beets have vitamins",
+                    "value": "Beets have vitamins"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which of these is not an effect of eating healthful foods",
+            "hint": "N/A",
+            "answer": [
+                "Getting fewer minerals"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Getting fewer minerals",
+                    "value": "Getting fewer minerals"
+                },
+                {
+                    "text_en": "Being able to concentrate better",
+                    "value": "Being able to concentrate better"
+                },
+                {
+                    "text_en": "Being less likely to get sick",
+                    "value": "Being less likely to get sick"
+                },
+                {
+                    "text_en": "Having more energy to play ",
+                    "value": "Having more energy to play "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which of these is an opinion about root vegetables",
+            "hint": "N/A",
+            "answer": [
+                "Beets taste as good as potatoes"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Carrots are crunchy",
+                    "value": "Carrots are crunchy"
+                },
+                {
+                    "text_en": "Beets taste as good as potatoes",
+                    "value": "Beets taste as good as potatoes"
+                },
+                {
+                    "text_en": "Sweet potatoes are a root vegetable",
+                    "value": "Sweet potatoes are a root vegetable"
+                },
+                {
+                    "text_en": "Root vegetables can be cut to look like french fries. ",
+                    "value": "Root vegetables can be cut to look like french fries. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what is the passage mostly about",
+            "hint": "N/A",
+            "answer": [
+                "Healthful snacks you can make from vegetables"
+            ],
+            "card_data": [
+                {
+                    "text_en": "How to make french fries",
+                    "value": "How to make french fries"
+                },
+                {
+                    "text_en": "The most popular snack foods",
+                    "value": "The most popular snack foods"
+                },
+                {
+                    "text_en": "What to eat when you are sick",
+                    "value": "What to eat when you are sick"
+                },
+                {
+                    "text_en": "Healthful snacks you can make from vegetables",
+                    "value": "Healthful snacks you can make from vegetables"
+                }
+            ]
+        }
+    ]
+}

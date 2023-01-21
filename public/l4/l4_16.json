@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "When It Rains, It Pollutes", "sentence": "Have you ever noticed small \u201crivers\u201d of water running down the sides of streets after a heavy rain? That\u2019s storm water, and it is a big source of water pollution. In cities, the roads and sidewalks cover much of the ground. Therefore, they block the ground from soaking up water. As a result, storm water collects on the pavement or flows through gutters. Most cities have storm drains that channel the storm water out of the city. This keeps cities from flooding, but it has an unwanted effect. It dumps a lot of dirty water into lakes, rivers, and the ocean. So how does storm water pollute? Well, if you have ever walked down the sidewalk, you have probably noticed trash in the street. Storm water carries this trash with it as it flows. As a result, bags, cans, and bottles end up in lakes and rivers. So do oil and gasoline left behind by cars. This is because when rain hits the streets, it picks up trash and waste from cars and washes it into the storm water. Scientists and people who plan how cities are designed want to find a way to stop storm water from being such a hazard. They think planning better, having trees and grassy areas, and teaching people not to litter will help.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " according to the passage, whyisstorm water aproblem", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Because it pollutes rivers and lakes", "value": "Because it pollutes rivers and lakes"}, {"text_en": "Because it carries pollution from the ocean", "value": "Because it carries pollution from the ocean"}, {"text_en": "Because it floods cities and towns", "value": "Because it floods cities and towns"}, {"text_en": "Because people use it for drinking water ", "value": "Because people use it for drinking water "}]}, {"type": "scq", "sentence": " what causes storm water to build up in cities", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Too many cars on the road", "value": "Too many cars on the road"}, {"text_en": "Sidewalks and streets that cannot soak up storm water", "value": "Sidewalks and streets that cannot soak up storm water"}, {"text_en": "People washing their cars too often", "value": "People washing their cars too often"}, {"text_en": "Rivers and lakes that flood cities ", "value": "Rivers and lakes that flood cities "}]}, {"type": "scq", "sentence": " what happens soon after storm water builds up in cities", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "It soaks into the ground", "value": "It soaks into the ground"}, {"text_en": "It flows through storm drains", "value": "It flows through storm drains"}, {"text_en": "People learn not to litter", "value": "People learn not to litter"}, {"text_en": "Rain falls from the sky. ", "value": "Rain falls from the sky. "}]}, {"type": "scq", "sentence": " which of these would not help make storm water safer", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Better planning of where storm water goes", "value": "Better planning of where storm water goes"}, {"text_en": "Planting more trees and grassy areas", "value": "Planting more trees and grassy areas"}, {"text_en": "Building more roads and sidewalks", "value": "Building more roads and sidewalks"}, {"text_en": "Teaching people about pollution", "value": "Teaching people about pollution"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "When It Rains, It Pollutes",
+        "sentence": "Have you ever noticed small \u201crivers\u201d of water running down the sides of streets after a heavy rain? That\u2019s storm water, and it is a big source of water pollution. In cities, the roads and sidewalks cover much of the ground. Therefore, they block the ground from soaking up water. As a result, storm water collects on the pavement or flows through gutters. Most cities have storm drains that channel the storm water out of the city. This keeps cities from flooding, but it has an unwanted effect. It dumps a lot of dirty water into lakes, rivers, and the ocean. So how does storm water pollute? Well, if you have ever walked down the sidewalk, you have probably noticed trash in the street. Storm water carries this trash with it as it flows. As a result, bags, cans, and bottles end up in lakes and rivers. So do oil and gasoline left behind by cars. This is because when rain hits the streets, it picks up trash and waste from cars and washes it into the storm water. Scientists and people who plan how cities are designed want to find a way to stop storm water from being such a hazard. They think planning better, having trees and grassy areas, and teaching people not to litter will help.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " according to the passage, why is storm water a problem",
+            "hint": "N/A",
+            "answer": [
+                "Because it pollutes rivers and lakes"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Because it pollutes rivers and lakes",
+                    "value": "Because it pollutes rivers and lakes"
+                },
+                {
+                    "text_en": "Because it carries pollution from the ocean",
+                    "value": "Because it carries pollution from the ocean"
+                },
+                {
+                    "text_en": "Because it floods cities and towns",
+                    "value": "Because it floods cities and towns"
+                },
+                {
+                    "text_en": "Because people use it for drinking water ",
+                    "value": "Because people use it for drinking water "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what causes storm water to build up in cities",
+            "hint": "N/A",
+            "answer": [
+                "Sidewalks and streets that cannot soak up storm water"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Too many cars on the road",
+                    "value": "Too many cars on the road"
+                },
+                {
+                    "text_en": "Sidewalks and streets that cannot soak up storm water",
+                    "value": "Sidewalks and streets that cannot soak up storm water"
+                },
+                {
+                    "text_en": "People washing their cars too often",
+                    "value": "People washing their cars too often"
+                },
+                {
+                    "text_en": "Rivers and lakes that flood cities ",
+                    "value": "Rivers and lakes that flood cities "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what happens soon after storm water builds up in cities",
+            "hint": "N/A",
+            "answer": [
+                "It flows through storm drains"
+            ],
+            "card_data": [
+                {
+                    "text_en": "It soaks into the ground",
+                    "value": "It soaks into the ground"
+                },
+                {
+                    "text_en": "It flows through storm drains",
+                    "value": "It flows through storm drains"
+                },
+                {
+                    "text_en": "People learn not to litter",
+                    "value": "People learn not to litter"
+                },
+                {
+                    "text_en": "Rain falls from the sky. ",
+                    "value": "Rain falls from the sky. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which of these would not help make storm water safer",
+            "hint": "N/A",
+            "answer": [
+                "Building more roads and sidewalks"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Better planning of where storm water goes",
+                    "value": "Better planning of where storm water goes"
+                },
+                {
+                    "text_en": "Planting more trees and grassy areas",
+                    "value": "Planting more trees and grassy areas"
+                },
+                {
+                    "text_en": "Building more roads and sidewalks",
+                    "value": "Building more roads and sidewalks"
+                },
+                {
+                    "text_en": "Teaching people about pollution",
+                    "value": "Teaching people about pollution"
+                }
+            ]
+        }
+    ]
+}

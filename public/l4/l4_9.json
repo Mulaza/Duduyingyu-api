@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "The Great Pacific Garbage Patch", "sentence": "In the Pacific Ocean near Hawaii, millions of tons of garbage swirl slowly in the water. The remains of bottles, plastic bags, fishing nets, and other items float gently around. This is the Pacific Garbage Patch, and it\u2019s a huge problem. The Pacific Garbage Patch is in a part of the ocean where water moves endlessly in a circle. Trash from thousands of miles away is pulled by ocean currents until it travels to this spot. Most of the garbage is plastic. This is because plastic doesn\u2019t break down easily. It can only break down into small pieces. These small pieces look like food to fish, birds, and other animals. When these animals eat the plastic instead of filling up on real food, they can become sick and starve to death. Scientists worry that this ocean garbage will hurt more than just marine life. Eventually, sick animals can make their way into the human food supply. But right now, nobody is sure how to solve the problem. One thing that does work, though, is to recycle plastics or throw them away properly. Remember, if your soda bottle doesn\u2019t become litter in the first place, it won\u2019t get into the ocean.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " whatisthe passage mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Things made from plastic", "value": "Things made from plastic"}, {"text_en": "Plastic in the ocean", "value": "Plastic in the ocean"}, {"text_en": "How plastic breaks down", "value": "How plastic breaks down"}, {"text_en": "The reasons to recycle plastic ", "value": "The reasons to recycle plastic "}]}, {"type": "scq", "sentence": " whydomarine animals mistakeplastic forfood", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Plastic breaks down into small pieces", "value": "Plastic breaks down into small pieces"}, {"text_en": "Plastic smells like food to the animals", "value": "Plastic smells like food to the animals"}, {"text_en": "Plastic carries pieces of food with it", "value": "Plastic carries pieces of food with it"}, {"text_en": "Plastic provides animals with energy. ", "value": "Plastic provides animals with energy. "}]}, {"type": "scq", "sentence": " recycling helps theoceanbecause ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "It turns plastics into food", "value": "It turns plastics into food"}, {"text_en": "It provides jobs for scientists", "value": "It provides jobs for scientists"}, {"text_en": "It keeps trash out of the ocean", "value": "It keeps trash out of the ocean"}, {"text_en": "It stops people from throwing plastic away ", "value": "It stops people from throwing plastic away "}]}, {"type": "scq", "sentence": " what are scientists worried about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The plastic makes the ocean ugly", "value": "The plastic makes the ocean ugly"}, {"text_en": "The plastic could eventually hurt people", "value": "The plastic could eventually hurt people"}, {"text_en": "The plastic makes it difficult to swim", "value": "The plastic makes it difficult to swim"}, {"text_en": "The plastic is all coming from hawaii.", "value": "The plastic is all coming from hawaii."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "The Great Pacific Garbage Patch",
+        "sentence": "In the Pacific Ocean near Hawaii, millions of tons of garbage swirl slowly in the water. The remains of bottles, plastic bags, fishing nets, and other items float gently around. This is the Pacific Garbage Patch, and it\u2019s a huge problem. The Pacific Garbage Patch is in a part of the ocean where water moves endlessly in a circle. Trash from thousands of miles away is pulled by ocean currents until it travels to this spot. Most of the garbage is plastic. This is because plastic doesn\u2019t break down easily. It can only break down into small pieces. These small pieces look like food to fish, birds, and other animals. When these animals eat the plastic instead of filling up on real food, they can become sick and starve to death. Scientists worry that this ocean garbage will hurt more than just marine life. Eventually, sick animals can make their way into the human food supply. But right now, nobody is sure how to solve the problem. One thing that does work, though, is to recycle plastics or throw them away properly. Remember, if your soda bottle doesn\u2019t become litter in the first place, it won\u2019t get into the ocean.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " what is the passage mostly about",
+            "hint": "N/A",
+            "answer": [
+                "Plastic in the ocean"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Things made from plastic",
+                    "value": "Things made from plastic"
+                },
+                {
+                    "text_en": "Plastic in the ocean",
+                    "value": "Plastic in the ocean"
+                },
+                {
+                    "text_en": "How plastic breaks down",
+                    "value": "How plastic breaks down"
+                },
+                {
+                    "text_en": "The reasons to recycle plastic ",
+                    "value": "The reasons to recycle plastic "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " why do marine animals mistake plastic for food",
+            "hint": "N/A",
+            "answer": [
+                "Plastic breaks down into small pieces"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Plastic breaks down into small pieces",
+                    "value": "Plastic breaks down into small pieces"
+                },
+                {
+                    "text_en": "Plastic smells like food to the animals",
+                    "value": "Plastic smells like food to the animals"
+                },
+                {
+                    "text_en": "Plastic carries pieces of food with it",
+                    "value": "Plastic carries pieces of food with it"
+                },
+                {
+                    "text_en": "Plastic provides animals with energy. ",
+                    "value": "Plastic provides animals with energy. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "recycling helps the ocean because ",
+            "hint": "N/A",
+            "answer": [
+                "It keeps trash out of the ocean"
+            ],
+            "card_data": [
+                {
+                    "text_en": "It turns plastics into food",
+                    "value": "It turns plastics into food"
+                },
+                {
+                    "text_en": "It provides jobs for scientists",
+                    "value": "It provides jobs for scientists"
+                },
+                {
+                    "text_en": "It keeps trash out of the ocean",
+                    "value": "It keeps trash out of the ocean"
+                },
+                {
+                    "text_en": "It stops people from throwing plastic away ",
+                    "value": "It stops people from throwing plastic away "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what are scientists worried about",
+            "hint": "N/A",
+            "answer": [
+                "The plastic could eventually hurt people"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The plastic makes the ocean ugly",
+                    "value": "The plastic makes the ocean ugly"
+                },
+                {
+                    "text_en": "The plastic could eventually hurt people",
+                    "value": "The plastic could eventually hurt people"
+                },
+                {
+                    "text_en": "The plastic makes it difficult to swim",
+                    "value": "The plastic makes it difficult to swim"
+                },
+                {
+                    "text_en": "The plastic is all coming from hawaii.",
+                    "value": "The plastic is all coming from hawaii."
+                }
+            ]
+        }
+    ]
+}

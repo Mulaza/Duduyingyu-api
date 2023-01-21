@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Real-Life Dragons", "sentence": "Stories about dragons that breathe fire and fly through the air are just make-believe. But some islands in the Indian Ocean are home to a very real reptile called the Komodo dragon. This giant lizard can grow to be 10 feet long and weigh up to 150 pounds. Komodo dragons don\u2019t have wings, or smoke coming out of their nostrils, but they have strong tails and a very nasty bite. A Komodo dragon has a powerful venom and knife-like teeth. When a Komodo dragon bites an animal, the animal usually goes into shock and dies quickly. Although they can be dangerous, Komodo dragons usually don\u2019t attack people. In fact, in the past 35 years, Komodo dragons have attacked only five people. The Indonesian people who inhabit the same islands as the dragons believe that the lizards are special and should be treated with respect.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " what does the title of the passage tell you", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "All dragons are make-believe", "value": "All dragons are make-believe"}, {"text_en": "Some dragons are real", "value": "Some dragons are real"}, {"text_en": "Dragons are good for stories", "value": "Dragons are good for stories"}, {"text_en": "Dragons are a type of lizard. ", "value": "Dragons are a type of lizard. "}]}, {"type": "scq", "sentence": " ifakomodo dragon bit an animal, the animal would probably ", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Get sick and then get better", "value": "Get sick and then get better"}, {"text_en": "Avoid komodo dragons in the future", "value": "Avoid komodo dragons in the future"}, {"text_en": "Not be able to survive the bite", "value": "Not be able to survive the bite"}, {"text_en": "Clean the bite with water ", "value": "Clean the bite with water "}]}, {"type": "scq", "sentence": " whatisthe last paragraph mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The danger of komodo dragons to people", "value": "The danger of komodo dragons to people"}, {"text_en": "The danger of people to komodo dragons", "value": "The danger of people to komodo dragons"}, {"text_en": "How to treat the bite of a komodo dragon", "value": "How to treat the bite of a komodo dragon"}, {"text_en": "How komodo dragons are usually not a danger to people ", "value": "How komodo dragons are usually not a danger to people "}]}, {"type": "scq", "sentence": " ifthe title of the passage were fairy-tale dragons, which would you expect to read about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Fire-breathing dragons", "value": "Fire-breathing dragons"}, {"text_en": "Poisonous lizards", "value": "Poisonous lizards"}, {"text_en": "Komodo dragons", "value": "Komodo dragons"}, {"text_en": "The indian ocean", "value": "The indian ocean"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Real-Life Dragons",
+        "sentence": "Stories about dragons that breathe fire and fly through the air are just make-believe. But some islands in the Indian Ocean are home to a very real reptile called the Komodo dragon. This giant lizard can grow to be 10 feet long and weigh up to 150 pounds. Komodo dragons don\u2019t have wings, or smoke coming out of their nostrils, but they have strong tails and a very nasty bite. A Komodo dragon has a powerful venom and knife-like teeth. When a Komodo dragon bites an animal, the animal usually goes into shock and dies quickly. Although they can be dangerous, Komodo dragons usually don\u2019t attack people. In fact, in the past 35 years, Komodo dragons have attacked only five people. The Indonesian people who inhabit the same islands as the dragons believe that the lizards are special and should be treated with respect.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " what does the title of the passage tell you",
+            "hint": "N/A",
+            "answer": [
+                "Some dragons are real"
+            ],
+            "card_data": [
+                {
+                    "text_en": "All dragons are make-believe",
+                    "value": "All dragons are make-believe"
+                },
+                {
+                    "text_en": "Some dragons are real",
+                    "value": "Some dragons are real"
+                },
+                {
+                    "text_en": "Dragons are good for stories",
+                    "value": "Dragons are good for stories"
+                },
+                {
+                    "text_en": "Dragons are a type of lizard. ",
+                    "value": "Dragons are a type of lizard. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " ifakomodo dragon bit an animal, the animal would probably ",
+            "hint": "N/A",
+            "answer": [
+                "Not be able to survive the bite"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Get sick and then get better",
+                    "value": "Get sick and then get better"
+                },
+                {
+                    "text_en": "Avoid komodo dragons in the future",
+                    "value": "Avoid komodo dragons in the future"
+                },
+                {
+                    "text_en": "Not be able to survive the bite",
+                    "value": "Not be able to survive the bite"
+                },
+                {
+                    "text_en": "Clean the bite with water ",
+                    "value": "Clean the bite with water "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " whatisthe last paragraph mostly about",
+            "hint": "N/A",
+            "answer": [
+                "How komodo dragons are usually not a danger to people"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The danger of komodo dragons to people",
+                    "value": "The danger of komodo dragons to people"
+                },
+                {
+                    "text_en": "The danger of people to komodo dragons",
+                    "value": "The danger of people to komodo dragons"
+                },
+                {
+                    "text_en": "How to treat the bite of a komodo dragon",
+                    "value": "How to treat the bite of a komodo dragon"
+                },
+                {
+                    "text_en": "How komodo dragons are usually not a danger to people",
+                    "value": "How komodo dragons are usually not a danger to people"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " ifthe title of the passage were fairy-tale dragons, which would you expect to read about",
+            "hint": "N/A",
+            "answer": [
+                "Fire-breathing dragons"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Fire-breathing dragons",
+                    "value": "Fire-breathing dragons"
+                },
+                {
+                    "text_en": "Poisonous lizards",
+                    "value": "Poisonous lizards"
+                },
+                {
+                    "text_en": "Komodo dragons",
+                    "value": "Komodo dragons"
+                },
+                {
+                    "text_en": "The indian ocean",
+                    "value": "The indian ocean"
+                }
+            ]
+        }
+    ]
+}

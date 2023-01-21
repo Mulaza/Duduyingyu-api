@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Tammy\u2019S Troubles", "sentence": "Tammy was in a foul mood. Her parents had insisted that she was too young for a cell phone, no matter how much she begged. \u201cBut Sun and Alicia have cell phones!\u201d Tammy cried. \u201cIf I don\u2019t get one, I won\u2019t be popular.\u201d \u201cHaving a cell phone doesn\u2019t make you popular,\u201d Tammy\u2019s dad said. He was always saying stuff like that, as if he knew what it was like to be in fourth grade. \u201cBesides,\u201d Dad said, \u201cyour school doesn\u2019t allow cell phones, and you can call your friends from the house as soon as you finish your homework.\u201d \u201cBut I can\u2019t send them text messages,\u201d Tammy replied. \u201cYou can use e-mail,\u201d Mom said. \u201cCell phones are expensive. We want you to wait until you can pay for part of the cost before you get one.\u201d \u201cBy that time I won\u2019t need one,\u201d Tammy said. \u201cNobody will know who I am. I might as well move to a deserted island.\u201d \u201cIn that case, I\u2019ll get you some empty bottles and some paper,\u201d Dad said. \u201cBottle messages are way cooler than text messages.\u201d \u201cUgh,\u201d sighed Tammy.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " whatisthe story mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Why cell phones are bad", "value": "Why cell phones are bad"}, {"text_en": "The ways parents and their children behave", "value": "The ways parents and their children behave"}, {"text_en": "Reasons for buying a new cell phone", "value": "Reasons for buying a new cell phone"}, {"text_en": "A girl who wants a cell phone from her parents ", "value": "A girl who wants a cell phone from her parents "}]}, {"type": "scq", "sentence": " why does tammys dad think thereisno reason for tammy to getacell phone", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They are too expensive", "value": "They are too expensive"}, {"text_en": "They are not as good as writing letters", "value": "They are not as good as writing letters"}, {"text_en": "The school does not allow them", "value": "The school does not allow them"}, {"text_en": "Tammy has too much homework. ", "value": "Tammy has too much homework. "}]}, {"type": "scq", "sentence": " why does tammys mom not want to get tammyacell phone", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "She thinks e-mail is better", "value": "She thinks e-mail is better"}, {"text_en": "She thinks cell phones are too expensive", "value": "She thinks cell phones are too expensive"}, {"text_en": "She thinks tammy should get a job", "value": "She thinks tammy should get a job"}, {"text_en": "She thinks tammy is too old for one. ", "value": "She thinks tammy is too old for one. "}]}, {"type": "scq", "sentence": " howisusing e-mail like usingacell phone", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Both can send messages", "value": "Both can send messages"}, {"text_en": "Both are good for making calls", "value": "Both are good for making calls"}, {"text_en": "None of tammys friends use them", "value": "None of tammys friends use them"}, {"text_en": "Both are allowed at school.", "value": "Both are allowed at school."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Tammy\u2019S Troubles",
+        "sentence": "Tammy was in a foul mood. Her parents had insisted that she was too young for a cell phone, no matter how much she begged. \u201cBut Sun and Alicia have cell phones!\u201d Tammy cried. \u201cIf I don\u2019t get one, I won\u2019t be popular.\u201d \u201cHaving a cell phone doesn\u2019t make you popular,\u201d Tammy\u2019s dad said. He was always saying stuff like that, as if he knew what it was like to be in fourth grade. \u201cBesides,\u201d Dad said, \u201cyour school doesn\u2019t allow cell phones, and you can call your friends from the house as soon as you finish your homework.\u201d \u201cBut I can\u2019t send them text messages,\u201d Tammy replied. \u201cYou can use e-mail,\u201d Mom said. \u201cCell phones are expensive. We want you to wait until you can pay for part of the cost before you get one.\u201d \u201cBy that time I won\u2019t need one,\u201d Tammy said. \u201cNobody will know who I am. I might as well move to a deserted island.\u201d \u201cIn that case, I\u2019ll get you some empty bottles and some paper,\u201d Dad said. \u201cBottle messages are way cooler than text messages.\u201d \u201cUgh,\u201d sighed Tammy.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " what is the story mostly about",
+            "hint": "N/A",
+            "answer": [
+                "A girl who wants a cell phone from her parents"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Why cell phones are bad",
+                    "value": "Why cell phones are bad"
+                },
+                {
+                    "text_en": "The ways parents and their children behave",
+                    "value": "The ways parents and their children behave"
+                },
+                {
+                    "text_en": "Reasons for buying a new cell phone",
+                    "value": "Reasons for buying a new cell phone"
+                },
+                {
+                    "text_en": "A girl who wants a cell phone from her parents",
+                    "value": "A girl who wants a cell phone from her parents"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " why does tammys dad think there is no reason for tammy to get a cell phone",
+            "hint": "N/A",
+            "answer": [
+                "The school does not allow them"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They are too expensive",
+                    "value": "They are too expensive"
+                },
+                {
+                    "text_en": "They are not as good as writing letters",
+                    "value": "They are not as good as writing letters"
+                },
+                {
+                    "text_en": "The school does not allow them",
+                    "value": "The school does not allow them"
+                },
+                {
+                    "text_en": "Tammy has too much homework. ",
+                    "value": "Tammy has too much homework. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " why does tammys mom not want to get tammy a cell phone",
+            "hint": "N/A",
+            "answer": [
+                "She thinks cell phones are too expensive"
+            ],
+            "card_data": [
+                {
+                    "text_en": "She thinks e-mail is better",
+                    "value": "She thinks e-mail is better"
+                },
+                {
+                    "text_en": "She thinks cell phones are too expensive",
+                    "value": "She thinks cell phones are too expensive"
+                },
+                {
+                    "text_en": "She thinks tammy should get a job",
+                    "value": "She thinks tammy should get a job"
+                },
+                {
+                    "text_en": "She thinks tammy is too old for one. ",
+                    "value": "She thinks tammy is too old for one. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " how is using e-mail like using a cell phone",
+            "hint": "N/A",
+            "answer": [
+                "Both can send messages"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Both can send messages",
+                    "value": "Both can send messages"
+                },
+                {
+                    "text_en": "Both are good for making calls",
+                    "value": "Both are good for making calls"
+                },
+                {
+                    "text_en": "None of tammys friends use them",
+                    "value": "None of tammys friends use them"
+                },
+                {
+                    "text_en": "Both are allowed at school.",
+                    "value": "Both are allowed at school."
+                }
+            ]
+        }
+    ]
+}

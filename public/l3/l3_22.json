@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What will probably happen next",
+            "sentence": "What will probably happen next ?",
             "hint": "N/A",
             "answer": [
                 "People will surprise nathan"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "How will nathan probably feel when he is back inside his house",
+            "sentence": "How will nathan probably feel when he is back inside his house ?",
             "hint": "N/A",
             "answer": [
                 "Cheerful"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one would be another good title for the passage",
+            "sentence": "Which one would be another good title for the passage ?",
             "hint": "N/A",
             "answer": [
                 "A birthday surprise"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which detail shows that nathan was upset after the treasure hunt",
+            "sentence": "Which detail shows that nathan was upset after the treasure hunt ?",
             "hint": "N/A",
             "answer": [
                 "His head hung low"

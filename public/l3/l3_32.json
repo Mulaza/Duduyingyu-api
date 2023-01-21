@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Why do you think diegos parents covered his room with sheets of paper",
+            "sentence": "Why do you think diegos parents covered his room with sheets of paper ?",
             "hint": "N/A",
             "answer": [
                 "To give him big drawing spaces"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What helped diego become a muralist",
+            "sentence": "What helped diego become a muralist ?",
             "hint": "N/A",
             "answer": [
                 "Drawing on the papered walls of his room"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is probably true about the murals at the office of education",
+            "sentence": "Which one is probably true about the murals at the office of education ?",
             "hint": "N/A",
             "answer": [
                 "The people in the murals are large"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why do you think diego made special paints every day",
+            "sentence": "Why do you think diego made special paints every day ?",
             "hint": "N/A",
             "answer": [
                 "He used a lot of paint"

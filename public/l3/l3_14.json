@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Why do workers rub special mud on baseballs",
+            "sentence": "Why do workers rub special mud on baseballs ?",
             "hint": "N/A",
             "answer": [
                 "So the ball is safer to use"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is the next step after secret ingredients are added to the mud",
+            "sentence": "What is the next step after secret ingredients are added to the mud ?",
             "hint": "N/A",
             "answer": [
                 "The mud sits in barrels"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which step comes before rinsing the mud",
+            "sentence": "Which step comes before rinsing the mud ?",
             "hint": "N/A",
             "answer": [
                 "Digging up the muck"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Who performs the final step in getting the shine off the baseballs",
+            "sentence": "Who performs the final step in getting the shine off the baseballs ?",
             "hint": "N/A",
             "answer": [
                 "A worker at each park"

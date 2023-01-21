@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "The first paragraph is mostly about ",
+            "sentence": "The first paragraph is mostly about ?",
             "hint": "N/A",
             "answer": [
                 "Using grass as straws"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "The second paragraph is mostly about ",
+            "sentence": "The second paragraph is mostly about ?",
             "hint": "N/A",
             "answer": [
                 "The invention of the paper straw"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why did marvin stone cover the paper straw in thin wax",
+            "sentence": "Why did marvin stone cover the paper straw in thin wax ?",
             "hint": "N/A",
             "answer": [
                 "So the straw would last"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is the best title for the passage",
+            "sentence": "Which one is the best title for the passage ?",
             "hint": "N/A",
             "answer": [
                 "How paper straws were invented"

@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "How are the two kinds of elephants alike",
+            "sentence": "How are the two kinds of elephants alike ?",
             "hint": "N/A",
             "answer": [
                 "They both have very long noses"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which of these is a difference between african and asian elephants",
+            "sentence": "Which of these is a difference between african and asian elephants ?",
             "hint": "N/A",
             "answer": [
                 "African elephants weigh more"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one describes asian elephants but not african elephants",
+            "sentence": "Which one describes asian elephants but not african elephants ?",
             "hint": "N/A",
             "answer": [
                 "Their ears are small and rounded."
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is the passage mainly about",
+            "sentence": "What is the passage mainly about ?",
             "hint": "N/A",
             "answer": [
                 "How two kinds of elephants are alike and different"

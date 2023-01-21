@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What is make-believe in the passage",
+            "sentence": "What is make-believe in the passage ?",
             "hint": "N/A",
             "answer": [
                 "An elf appears in a garden"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What in the passage can happen",
+            "sentence": "What in the passage can happen ?",
             "hint": "N/A",
             "answer": [
                 "A man can be grumpy"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why does charles want more wishes",
+            "sentence": "Why does charles want more wishes ?",
             "hint": "N/A",
             "answer": [
                 "He is never happy with the way things are"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which adjective best describes charles",
+            "sentence": "Which adjective best describes charles ?",
             "hint": "N/A",
             "answer": [
                 "Crabby"

@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Max is probably looking for ",
+            "sentence": "Max is probably looking for ?",
             "hint": "N/A",
             "answer": [
                 "His homework"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one do you think is true about max",
+            "sentence": "Which one do you think is true about max ?",
             "hint": "N/A",
             "answer": [
                 "He is messy"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "The paper max finds ",
+            "sentence": "The paper max finds ?",
             "hint": "N/A",
             "answer": [
                 "Is crumpled"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one best describes maxs teacher",
+            "sentence": "Which one best describes maxs teacher ?",
             "hint": "N/A",
             "answer": [
                 "Bothered"

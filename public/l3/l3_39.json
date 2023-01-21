@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What does the author want you to know",
+            "sentence": "What does the author want you to know ?",
             "hint": "N/A",
             "answer": [
                 "Some animals help each other"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "How do egrets help hippos",
+            "sentence": "How do egrets help hippos ?",
             "hint": "N/A",
             "answer": [
                 "Egrets eat the pests that can bite hippos"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why did the author write the passage",
+            "sentence": "Why did the author write the passage ?",
             "hint": "N/A",
             "answer": [
                 "To inform you about how animals help each other"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "How do plovers help crocodiles",
+            "sentence": "How do plovers help crocodiles ?",
             "hint": "N/A",
             "answer": [
                 "Plovers clean crocs teeth"

@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Where does the passage happen",
+            "sentence": "Where does the passage happen ?",
             "hint": "N/A",
             "answer": [
                 "On a farm"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "When evan sees the horse, he feels ",
+            "sentence": "When evan sees the horse, he feels ?",
             "hint": "N/A",
             "answer": [
                 "A bit scared"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which of these is most like evans experience",
+            "sentence": "Which of these is most like evans experience ?",
             "hint": "N/A",
             "answer": [
                 "Learning to ride a bike"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What does the last sentence in the passage mean",
+            "sentence": "What does the last sentence in the passage mean ?",
             "hint": "N/A",
             "answer": [
                 "Evan did not want to go faster"

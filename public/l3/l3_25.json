@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "The rocks underneath the ocean floor are soft because ",
+            "sentence": "The rocks underneath the ocean floor are soft because ?",
             "hint": "N/A",
             "answer": [
                 "It is very hot there"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Because underwater volcanoes can rise above the water, ",
+            "sentence": "Because underwater volcanoes can rise above the water ?",
             "hint": "N/A",
             "answer": [
                 "Their tops can form islands"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why can some rocks squeeze through cracks under earths crust",
+            "sentence": "Why can some rocks squeeze through cracks under earths crust ?",
             "hint": "N/A",
             "answer": [
                 "Those rocks are soft and hot"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is true about an island in the sea",
+            "sentence": "Which one is true about an island in the sea ?",
             "hint": "N/A",
             "answer": [
                 "It goes down to the ocean floor"

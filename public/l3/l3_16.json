@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which fact would go under the subhead how boas eat",
+            "sentence": "Which fact would go under the subhead how boas eat ?",
             "hint": "N/A",
             "answer": [
                 "Boas do not eat every day"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one would go with the passage",
+            "sentence": "Which one would go with the passage ?",
             "hint": "N/A",
             "answer": [
                 "A map showing where boas live in the world"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which of these is a good title for the passage",
+            "sentence": "Which of these is a good title for the passage ?",
             "hint": "N/A",
             "answer": [
                 "Facts about boas"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What do boas do right after they grab their prey",
+            "sentence": "What do boas do right after they grab their prey ?",
             "hint": "N/A",
             "answer": [
                 "Squeeze it to death"

@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which of these is an opinion",
+            "sentence": "Which of these is an opinion ?",
             "hint": "N/A",
             "answer": [
                 "Some deep-sea fish are creepy"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which of these is a fact",
+            "sentence": "Which of these is a fact ?",
             "hint": "N/A",
             "answer": [
                 "A viperfish cannot close its mouth"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which of these is an opinion",
+            "sentence": "Which of these is an opinion ?",
             "hint": "N/A",
             "answer": [
                 "The best way for fish to catch food is to wiggle their lights"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is true about fish in the deep sea",
+            "sentence": "Which one is true about fish in the deep sea ?",
             "hint": "N/A",
             "answer": [
                 "Their bodies help them live in the dark"

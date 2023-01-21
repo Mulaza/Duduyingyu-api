@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which one is a fact",
+            "sentence": "Which one is a fact ?",
             "hint": "N/A",
             "answer": [
                 "Kudzu can grow a foot a day"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is an opinion",
+            "sentence": "Which one is an opinion ?",
             "hint": "N/A",
             "answer": [
                 "Kudzu grows too well"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which of these is what someone thinks about kudzu",
+            "sentence": "Which of these is what someone thinks about kudzu ?",
             "hint": "N/A",
             "answer": [
                 "It would be good in a scary movie."
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one can be proved true about kudzu",
+            "sentence": "Which one can be proved true about kudzu ?",
             "hint": "N/A",
             "answer": [
                 "It grows quickly"

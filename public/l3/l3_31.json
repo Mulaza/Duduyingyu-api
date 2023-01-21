@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "How are soccer and basketball alike",
+            "sentence": "How are soccer and basketball alike ?",
             "hint": "N/A",
             "answer": [
                 "Players score by getting a ball through a goal."
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Basketball is different from soccer because the players ",
+            "sentence": "Basketball is different from soccer because the players ?",
             "hint": "N/A",
             "answer": [
                 "Use their hands"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why is basketball played on a hard floor",
+            "sentence": "Why is basketball played on a hard floor ?",
             "hint": "N/A",
             "answer": [
                 "So players can bounce the ball"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which sentence tells a difference between soccer and basketball",
+            "sentence": "Which sentence tells a difference between soccer and basketball ?",
             "hint": "N/A",
             "answer": [
                 "Basketball goals are on poles."

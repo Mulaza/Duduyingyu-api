@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What will the workers probably do next",
+            "sentence": "What will the workers probably do next ?",
             "hint": "N/A",
             "answer": [
                 "Fix the tubes in the tank so they cannot be pulled out"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which question does the passage answer",
+            "sentence": "Which question does the passage answer ?",
             "hint": "N/A",
             "answer": [
                 "What caused the flooding"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is the passage mostly about",
+            "sentence": "What is the passage mostly about ?",
             "hint": "N/A",
             "answer": [
                 "An octopus that floods an aquarium"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which is the best title for the passage",
+            "sentence": "Which is the best title for the passage ?",
             "hint": "N/A",
             "answer": [
                 "A curious creature"

@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which one is true about real fireflies",
+            "sentence": "Which one is true about real fireflies ?",
             "hint": "N/A",
             "answer": [
                 "They give off light at night"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which event in the story can really happen",
+            "sentence": "Which event in the story can really happen ?",
             "hint": "N/A",
             "answer": [
                 "A boy gets lost in the dark"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which event in the story is fantasy",
+            "sentence": "Which event in the story is fantasy ?",
             "hint": "N/A",
             "answer": [
                 "Fireflies lead a boy home"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "The author wrote the story to ",
+            "sentence": "The author wrote the story to ?",
             "hint": "N/A",
             "answer": [
                 "Tell you a story"

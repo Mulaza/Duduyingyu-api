@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Because an elephants trunk is so large, it can ",
+            "sentence": "Because an elephants trunk is so large, it can ?",
             "hint": "N/A",
             "answer": [
                 "Smell food from far away"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is an opinion about elephants",
+            "sentence": "Which one is an opinion about elephants ?",
             "hint": "N/A",
             "answer": [
                 "An elephants trunk is the worlds most useful nose"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why is an elephants trunk busy",
+            "sentence": "Why is an elephants trunk busy ?",
             "hint": "N/A",
             "answer": [
                 "Because elephants need to eat a lot"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is a fact about elephants",
+            "sentence": "Which one is a fact about elephants ?",
             "hint": "N/A",
             "answer": [
                 "They eat a lot of plants every day"

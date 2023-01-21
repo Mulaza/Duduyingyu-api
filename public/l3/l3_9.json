@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which one would be a good title for the passage",
+            "sentence": "Which one would be a good title for the passage ?",
             "hint": "N/A",
             "answer": [
                 "Kids to the rescue"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why do the children gather the baby puffins that fly into town",
+            "sentence": "Why do the children gather the baby puffins that fly into town ?",
             "hint": "N/A",
             "answer": [
                 "To keep the birds safe from harm"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Some puffins land in yards because they ",
+            "sentence": "Some puffins land in yards because they ?",
             "hint": "N/A",
             "answer": [
                 "Fly toward the wrong lights"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is the puffin patrol",
+            "sentence": "What is the puffin patrol ?",
             "hint": "N/A",
             "answer": [
                 "Children who find and rescue baby puffins"

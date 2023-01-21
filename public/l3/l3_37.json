@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What in the passage can really happen",
+            "sentence": "What in the passage can really happen ?",
             "hint": "N/A",
             "answer": [
                 "A girl can have a party"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What in the passage is fantasy",
+            "sentence": "What in the passage is fantasy ?",
             "hint": "N/A",
             "answer": [
                 "A pony shows up in an instant"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Real ponies ",
+            "sentence": "Real ponies ?",
             "hint": "N/A",
             "answer": [
                 "Like sparkles"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "The passage would most likely be found in a ",
+            "sentence": "The passage would most likely be found in a ?",
             "hint": "N/A",
             "answer": [
                 "Book of silly stories"

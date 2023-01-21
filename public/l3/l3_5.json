@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "To have orange-tipped feathers, baby waxwings must ",
+            "sentence": "To have orange-tipped feathers, baby waxwings must ?",
             "hint": "N/A",
             "answer": [
                 "Eat one kind of red berry"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is true about most adult waxwings",
+            "sentence": "Which one is true about most adult waxwings ?",
             "hint": "N/A",
             "answer": [
                 "Their tail feathers have yellow tips."
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which question does the passage answer",
+            "sentence": "Which question does the passage answer ?",
             "hint": "N/A",
             "answer": [
                 "Why do some young waxwings look different from their parents"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Based on what you read, what happens when red and yellow are mixed",
+            "sentence": "Based on what you read, what happens when red and yellow are mixed ?",
             "hint": "N/A",
             "answer": [
                 "They make orange"

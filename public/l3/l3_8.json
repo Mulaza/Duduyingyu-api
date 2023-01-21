@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What is the passage mainly about",
+            "sentence": "What is the passage mainly about ?",
             "hint": "N/A",
             "answer": [
                 "How two seabirds are the same and different"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "How are puffins and penguins alike",
+            "sentence": "How are puffins and penguins alike ?",
             "hint": "N/A",
             "answer": [
                 "They both eat ocean fish."
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "How are puffins different from penguins",
+            "sentence": "How are puffins different from penguins ?",
             "hint": "N/A",
             "answer": [
                 "Puffins have orange feet, but penguins often have black feet"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Because penguins have stiff wings, they ",
+            "sentence": "Because penguins have stiff wings, they ?",
             "hint": "N/A",
             "answer": [
                 "Cannot fly"

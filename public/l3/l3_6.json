@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What is the passage mainly about",
+            "sentence": "What is the passage mainly about ?",
             "hint": "N/A",
             "answer": [
                 "The ways dogs tell people what they want"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Based on the passage, which sentence is true",
+            "sentence": "Based on the passage, which sentence is true ?",
             "hint": "N/A",
             "answer": [
                 "Happy dogs may jump up on you"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What might cause a dog to put its head in your lap",
+            "sentence": "What might cause a dog to put its head in your lap ?",
             "hint": "N/A",
             "answer": [
                 "It wants you to pay attention to it"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "A happy dog wags its tail, but a scared dog ",
+            "sentence": "A happy dog wags its tail, but a scared dog ?",
             "hint": "N/A",
             "answer": [
                 "Puts its tail down"

@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What does the archerfish do first after a bug lands on a branch",
+            "sentence": "What does the archerfish do first after a bug lands on a branch ?",
             "hint": "N/A",
             "answer": [
                 "It presses its tongue against the roof of its mouth"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Immediately before the archerfish spits water from its mouth, it ",
+            "sentence": "Immediately before the archerfish spits water from its mouth, it ?",
             "hint": "N/A",
             "answer": [
                 "Eats a bug"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why does the archerfish press its tongue against the roof of its mouth",
+            "sentence": "Why does the archerfish press its tongue against the roof of its mouth ?",
             "hint": "N/A",
             "answer": [
                 "To make a narrow tube"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why does an archerfish need to be still",
+            "sentence": "Why does an archerfish need to be still ?",
             "hint": "N/A",
             "answer": [
                 "To wait for a bug to land"

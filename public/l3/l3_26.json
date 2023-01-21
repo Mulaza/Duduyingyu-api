@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Why does mia decide to bake a cake by herself",
+            "sentence": "Why does mia decide to bake a cake by herself ?",
             "hint": "N/A",
             "answer": [
                 "She thinks baking will be easy."
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why is mia bored",
+            "sentence": "Why is mia bored ?",
             "hint": "N/A",
             "answer": [
                 "She has nothing to do"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why does mias cake taste bad",
+            "sentence": "Why does mias cake taste bad ?",
             "hint": "N/A",
             "answer": [
                 "Because mia used salt instead of sugar"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Because mia makes a mistake while baking, she decides to ",
+            "sentence": "Because mia makes a mistake while baking, she decides to ?",
             "hint": "N/A",
             "answer": [
                 "Work more slowly and carefully"

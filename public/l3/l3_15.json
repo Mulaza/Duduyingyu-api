@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which sentence expresses an opinion about grace",
+            "sentence": "Which sentence expresses an opinion about grace ?",
             "hint": "N/A",
             "answer": [
                 "She may be the smartest mule in the world"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which is one result of grace being smart",
+            "sentence": "Which is one result of grace being smart ?",
             "hint": "N/A",
             "answer": [
                 "She can raise money for the poor"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Grace is in a movie because ",
+            "sentence": "Grace is in a movie because ?",
             "hint": "N/A",
             "answer": [
                 "She can follow commands"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is not a fact about grace",
+            "sentence": "Which one is not a fact about grace ?",
             "hint": "N/A",
             "answer": [
                 "She is very stubborn"

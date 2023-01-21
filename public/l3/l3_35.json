@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which of these best describes who the passage is about",
+            "sentence": "Which of these best describes who the passage is about ?",
             "hint": "N/A",
             "answer": [
                 "An underwater scientist"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "The setting of most of the passage is ",
+            "sentence": "The setting of most of the passage is ?",
             "hint": "N/A",
             "answer": [
                 "The deep sea"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Based on what you read, what is true about dr. sylvia earle",
+            "sentence": "Based on what you read, what is true about dr. sylvia earle ?",
             "hint": "N/A",
             "answer": [
                 "She is curious"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Dr. earles helmet had four windows so that she ",
+            "sentence": "Dr. earles helmet had four windows so that she ?",
             "hint": "N/A",
             "answer": [
                 "Could see all around her"

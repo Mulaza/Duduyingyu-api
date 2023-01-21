@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What in the passage is make-believe",
+            "sentence": "What in the passage is make-believe ?",
             "hint": "N/A",
             "answer": [
                 "A spider laughs"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What in the passage can really happen",
+            "sentence": "What in the passage can really happen ?",
             "hint": "N/A",
             "answer": [
                 "A spider can pull silk out of her body"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "The author wrote the passage to ",
+            "sentence": "The author wrote the passage to ?",
             "hint": "N/A",
             "answer": [
                 "Tell a fun story"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which statement would the author probably agree with",
+            "sentence": "Which statement would the author probably agree with ?",
             "hint": "N/A",
             "answer": [
                 "It is important to tell a good story about spiders."

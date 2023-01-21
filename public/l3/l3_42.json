@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "The author wrote the passage to ",
+            "sentence": "The author wrote the passage to ?",
             "hint": "N/A",
             "answer": [
                 "Explain how your body heals a cut"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "The author uses the last paragraph to ",
+            "sentence": "The author uses the last paragraph to ?",
             "hint": "N/A",
             "answer": [
                 "Explain the importance of a scab"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What probably happens after a scab falls off",
+            "sentence": "What probably happens after a scab falls off ?",
             "hint": "N/A",
             "answer": [
                 "The skin feels soft and new."
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What would probably happen if you picked off a scab",
+            "sentence": "What would probably happen if you picked off a scab ?",
             "hint": "N/A",
             "answer": [
                 "The cut would be open to germs"

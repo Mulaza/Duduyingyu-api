@@ -1,7 +1,7 @@
 {
     "lesson": {
         "type": "sentence",
-        "title": "Is It A Goat Or A Sheep?",
+        "title": "Is It A Goat Or A Sheep ?",
         "sentence": "Goats and sheep seem very much alike. They both walk on two toes, which makes them very nimble animals. They can climb rocky ridges. And they can walk on narrow ledges like tightrope walkers in a circus. People around the world think both animals are good to eat and that their milk is good to drink. The milk of both goats and sheep is often made into cheese. The bodies of sheep and goats are different. Most goats have beards, and most sheep do not. A goat\u2019s tail sticks up, while a sheep\u2019s tail hangs down. A goat\u2019s hair is short and stringy. The hair of a sheep is thick and curly and is called wool. It needs to be cut every year. The hair of both animals is made into yarn. Goats and sheep have different behaviors, too. They both are grazers that eat plants. Sheep like to eat short, tender grass, while goats like to eat leaves, twigs, and vines. Goats can stand on their hind legs to reach food. Sheep like to stay together in flocks. But goats are more curious and independent than sheep.",
         "key_words": [
             {
@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "How are goats and sheep the same",
+            "sentence": "How are goats and sheep the same ?",
             "hint": "N/A",
             "answer": [
                 "They both give milk that people drink"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "How are sheep different from goats",
+            "sentence": "How are sheep different from goats ?",
             "hint": "N/A",
             "answer": [
                 "Sheep do not have beards, but goats do."
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "How are goats different from sheep",
+            "sentence": "How are goats different from sheep ?",
             "hint": "N/A",
             "answer": [
                 "The tails of goats go up, but the tails of sheep go down"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Based on the passage, which one is most likely true about both goats and sheep",
+            "sentence": "Based on the passage, which one is most likely true about both goats and sheep ?",
             "hint": "N/A",
             "answer": [
                 "They are useful to people"

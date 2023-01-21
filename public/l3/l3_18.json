@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "The author wrote the passage to ",
+            "sentence": "The author wrote the passage to ?",
             "hint": "N/A",
             "answer": [
                 "Explain how paper that money is made from is different from other paper"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which statement would the author agree with",
+            "sentence": "Which statement would the author agree with ?",
             "hint": "N/A",
             "answer": [
                 "Paper money is interesting and unusual"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Paper money is made from cotton and linen fibers, but notebook paper is made ",
+            "sentence": "Paper money is made from cotton and linen fibers, but notebook paper is made ?",
             "hint": "N/A",
             "answer": [
                 "From ordinary wood fibers"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Notebook paper and paper money are both ",
+            "sentence": "Notebook paper and paper money are both ?",
             "hint": "N/A",
             "answer": [
                 "Made from things that grow"

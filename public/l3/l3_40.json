@@ -1,7 +1,7 @@
 {
     "lesson": {
         "type": "sentence",
-        "title": "How High Can It Go?",
+        "title": "How High Can It Go ?",
         "sentence": "Rey wants to build a tower. He is using things that he finds in his backyard. Rey makes a patch of dirt flat. Then he begins making the base of his tower. Rey lays three bricks side by side. Then he places some flat rocks on top. Rey stacks more bricks on top of the rocks. The base is nice and strong. Rey then spreads some grass on the flat rocks. Then he finds some twigs. He puts them in one layer. Rey sets more flat rocks on the twigs to keep them in place. The twigs look good poking out of the rocks. Then he finds some toy cars and lines them up on the rocks. The tower is getting tall. Rey feels it\u2019s time to add some wood. He stacks three boards, then two bumpy rocks, and then three more boards. Rey saves the biggest and heaviest board for the top.",
         "key_words": [
             {
@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What will probably happen next",
+            "sentence": "What will probably happen next ?",
             "hint": "N/A",
             "answer": [
                 "The tower will fall."
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What will rey probably do the next time he builds a tower",
+            "sentence": "What will rey probably do the next time he builds a tower ?",
             "hint": "N/A",
             "answer": [
                 "Place the heaviest board on the bottom"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why did the author write the story",
+            "sentence": "Why did the author write the story ?",
             "hint": "N/A",
             "answer": [
                 "For the reader to enjoy"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is the story mainly about",
+            "sentence": "What is the story mainly about ?",
             "hint": "N/A",
             "answer": [
                 "A boy making a tower"

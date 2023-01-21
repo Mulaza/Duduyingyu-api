@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What will probably happen next",
+            "sentence": "What will probably happen next ?",
             "hint": "N/A",
             "answer": [
                 "Connor will play with katy."
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What will connor probably say when katy asks him to play ball",
+            "sentence": "What will connor probably say when katy asks him to play ball ?",
             "hint": "N/A",
             "answer": [
                 "The ball is the moon. lets get it!"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Based on the passage, what does the author tell you about connor",
+            "sentence": "Based on the passage, what does the author tell you about connor ?",
             "hint": "N/A",
             "answer": [
                 "He uses his imagination to play with his little sister"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "If katy spilled her milk during dinner, connor would probably ",
+            "sentence": "If katy spilled her milk during dinner, connor would probably ?",
             "hint": "N/A",
             "answer": [
                 "Help her clean the mess"

@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which one is a fact about earthworms",
+            "sentence": "Which one is a fact about earthworms ?",
             "hint": "N/A",
             "answer": [
                 "They are useful for making soil rich."
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is an opinion about earthworms",
+            "sentence": "Which one is an opinion about earthworms ?",
             "hint": "N/A",
             "answer": [
                 "They are farmers best friends"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Because earthworms loosen the soil, ",
+            "sentence": "Because earthworms loosen the soil ?",
             "hint": "N/A",
             "answer": [
                 "Plants get the air they need"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What happens when soil has earthworms",
+            "sentence": "What happens when soil has earthworms ?",
             "hint": "N/A",
             "answer": [
                 "Plants grow better"

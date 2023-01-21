@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Why did the author write the passage",
+            "sentence": "Why did the author write the passage ?",
             "hint": "N/A",
             "answer": [
                 "To compare homes in japan and in the united states"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is the same about fumis and karas homes",
+            "sentence": "What is the same about fumis and karas homes ?",
             "hint": "N/A",
             "answer": [
                 "Families sit around a table to eat"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "How is fumi different from kara",
+            "sentence": "How is fumi different from kara ?",
             "hint": "N/A",
             "answer": [
                 "Fumis family sits on the floor to eat"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Kara and fumi both ",
+            "sentence": "Kara and fumi both ?",
             "hint": "N/A",
             "answer": [
                 "Sit on chairs during dinner"

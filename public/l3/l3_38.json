@@ -1,7 +1,7 @@
 {
     "lesson": {
         "type": "sentence",
-        "title": "What Is A Friend?",
+        "title": "What Is A Friend ?",
         "sentence": "Long ago, Fox and Stork were friends. One evening, Fox invited Stork to his den for dinner. As a joke, Fox served a clear soup in a shallow dish. Fox easily lapped up his soup with his long tongue. But Stork\u2019s bill was long and narrow. It did not work like a straw. She could not eat her soup. \u201cI\u2019m sorry you didn\u2019t like the soup,\u201d said Fox with a snicker. Before Stork left, she invited Fox for dinner the following night. When Fox arrived at Stork\u2019s house, he smelled a delicious aroma. He hurried to the table. Stork had made a stew filled with meat and vegetables. Stork served the stew in two tall glass jars. She reached her long bill into her jar and gobbled it up. Fox\u2019s tongue could not reach the stew. \u201cI\u2019m sorry you didn\u2019t like the stew,\u201d said Stork. Fox\u2019s stomach growled as he headed home. He knew he had treated Stork badly. That night he learned a lesson about friendship.",
         "key_words": [
             {
@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which one can happen in real life",
+            "sentence": "Which one can happen in real life ?",
             "hint": "N/A",
             "answer": [
                 "Stew can be made with meat and vegetables"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What in the passage is fantasy",
+            "sentence": "What in the passage is fantasy ?",
             "hint": "N/A",
             "answer": [
                 "A stork teaches a fox a lesson"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one describes fox",
+            "sentence": "Which one describes fox ?",
             "hint": "N/A",
             "answer": [
                 "Not a true friend"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which lesson about friendship does stork teach fox",
+            "sentence": "Which lesson about friendship does stork teach fox ?",
             "hint": "N/A",
             "answer": [
                 "Treat your friends the way you want to be treated"

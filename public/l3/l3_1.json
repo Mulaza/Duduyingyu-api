@@ -5,13 +5,109 @@
         "sentence": "Bella\u2019s dog Sparky likes to run and explore. Bella thinks that Sparky is like a magician. One moment Sparky is in the backyard and then, all of a sudden, he\u2019s gone! Sparky escaped again last week, so Bella set out to find him. She called out Sparky\u2019s name as she walked. Bella even shook Sparky\u2019s bag of dog chow. \u201cTreats! Treats!\u201d yelled Bella. Sparky loved his treats, but he did not appear. Then Bella stopped. She smelled some meat grilling. She spotted a cloud of smoke from behind a house. Bella headed there and peeked in the yard. Sure enough, there was Sparky. He stood on his hind legs in front of a grill. Sparky was whistling and flipping burgers. Bella could see Sparky\u2019s mouth drool. Bella wondered where Sparky got the apron he was wearing.",
         "key_words": [
             {
-                "word": "word",
+                "word": "explore",
                 "translation": "--",
                 "speech": "\u540d\u8bcd",
                 "example": "N/A"
             },
             {
-                "word": "word",
+                "word": "magician",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "moment",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "backyard",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "gone",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "escaped",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "shook",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "Treats",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "yelled",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "smelled",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "grilling",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "spotted",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "smoke",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "peeked",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "hind",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "whistling",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "flipping",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "apron",
                 "translation": "--",
                 "speech": "\u540d\u8bcd",
                 "example": "N/A"
@@ -21,7 +117,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What can really happen",
+            "sentence": "What can really happen ?",
             "hint": "N/A",
             "answer": [
                 "A dog can run away"
@@ -47,7 +143,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is make-believe in the story",
+            "sentence": "What is make-believe in the story ?",
             "hint": "N/A",
             "answer": [
                 "A dog cooks burgers"
@@ -73,7 +169,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which word best describes sparky",
+            "sentence": "Which word best describes sparky ?",
             "hint": "N/A",
             "answer": [
                 "Clever"
@@ -99,7 +195,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one can be said about sparky",
+            "sentence": "Which one can be said about sparky ?",
             "hint": "N/A",
             "answer": [
                 "Sparky has run away before"

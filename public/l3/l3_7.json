@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What is the main idea of the second paragraph",
+            "sentence": "What is the main idea of the second paragraph ?",
             "hint": "N/A",
             "answer": [
                 "Fabio is bitten by a fish"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is the main idea of the third paragraph",
+            "sentence": "What is the main idea of the third paragraph ?",
             "hint": "N/A",
             "answer": [
                 "Fabio makes a friend"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which detail shows that camp was not fun for fabio",
+            "sentence": "Which detail shows that camp was not fun for fabio ?",
             "hint": "N/A",
             "answer": [
                 "Twigs scratch fabios legs"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What happens because cody talks to fabio",
+            "sentence": "What happens because cody talks to fabio ?",
             "hint": "N/A",
             "answer": [
                 "Fabio no longer hates camp"

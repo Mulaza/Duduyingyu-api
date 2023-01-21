@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Why did the author write the passage",
+            "sentence": "Why did the author write the passage ?",
             "hint": "N/A",
             "answer": [
                 "To tell how the arctic and antarctica are the same and different"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one is true about the arctic",
+            "sentence": "Which one is true about the arctic ?",
             "hint": "N/A",
             "answer": [
                 "The arctic is an ocean surrounded by land"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is one way antarctica is different from the arctic",
+            "sentence": "What is one way antarctica is different from the arctic ?",
             "hint": "N/A",
             "answer": [
                 "Antarctica is never mild, but the arctic sometimes is"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which phrase describes both places",
+            "sentence": "Which phrase describes both places ?",
             "hint": "N/A",
             "answer": [
                 "Icy and frozen"

@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which one is not a reason why people walked alongside their wagons",
+            "sentence": "Which one is not a reason why people walked alongside their wagons ?",
             "hint": "N/A",
             "answer": [
                 "The wagon was used to make butter."
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which of these was one good result of the rugged roads",
+            "sentence": "Which of these was one good result of the rugged roads ?",
             "hint": "N/A",
             "answer": [
                 "The milk was turned into butter"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which sentence is an opinion",
+            "sentence": "Which sentence is an opinion ?",
             "hint": "N/A",
             "answer": [
                 "Traveling by covered wagons was fun"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Why were the wagons uncomfortable to ride in",
+            "sentence": "Why were the wagons uncomfortable to ride in ?",
             "hint": "N/A",
             "answer": [
                 "Because the wheels were covered in iron"

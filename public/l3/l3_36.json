@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What is the passage mostly about",
+            "sentence": "What is the passage mostly about ?",
             "hint": "N/A",
             "answer": [
                 "Sea lions"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is the setting of the passage",
+            "sentence": "What is the setting of the passage ?",
             "hint": "N/A",
             "answer": [
                 "Places in monterey, california"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Based on the passage, which one seems to be true about the sea lions on shore",
+            "sentence": "Based on the passage, which one seems to be true about the sea lions on shore ?",
             "hint": "N/A",
             "answer": [
                 "They do not mind being on land"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Based on the passage, which one is true about california sea lions",
+            "sentence": "Based on the passage, which one is true about california sea lions ?",
             "hint": "N/A",
             "answer": [
                 "They can move in water and on land"

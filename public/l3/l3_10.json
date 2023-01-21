@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "What causes the bear to sneeze",
+            "sentence": "What causes the bear to sneeze ?",
             "hint": "N/A",
             "answer": [
                 "The mouse tickles the bears nose."
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What is the passage mostly about",
+            "sentence": "What is the passage mostly about ?",
             "hint": "N/A",
             "answer": [
                 "Animals making a mitten their home"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "In the beginning, the mitten was flat and smooth. in the end, it was ",
+            "sentence": "In the beginning, the mitten was flat and smooth. in the end, it was ?",
             "hint": "N/A",
             "answer": [
                 "Lumpy and stretched"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "What happens because the bear sneezes",
+            "sentence": "What happens because the bear sneezes ?",
             "hint": "N/A",
             "answer": [
                 "The animals fly out of the mitten"

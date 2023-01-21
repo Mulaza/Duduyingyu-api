@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "Which one is probably jane goodalls job",
+            "sentence": "Which one is probably jane goodalls job ?",
             "hint": "N/A",
             "answer": [
                 "She is a scientist"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Based on the passage, which one is true about chimpanzees",
+            "sentence": "Based on the passage, which one is true about chimpanzees ?",
             "hint": "N/A",
             "answer": [
                 "They act like people in some ways"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Where do chimpanzees live",
+            "sentence": "Where do chimpanzees live ?",
             "hint": "N/A",
             "answer": [
                 "In forests"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "Which one shows that chimpanzees act like people",
+            "sentence": "Which one shows that chimpanzees act like people ?",
             "hint": "N/A",
             "answer": [
                 "They play games together"

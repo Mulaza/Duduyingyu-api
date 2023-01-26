@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "where did galileo live",
+            "sentence": "where did galileo live ?",
             "hint": "N/A",
             "answer": [
                 "Italy"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": "which one best describes galileo",
+            "sentence": "which one best describes Galileo ?",
             "hint": "N/A",
             "answer": [
                 "He was curious about science"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "which one best describes italys rulers",
+            "sentence": "which one best describes italys rulers ?",
             "hint": "N/A",
             "answer": [
                 "They wanted to punish galileo for his ideas"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "what is a theme of the passage",
+            "sentence": "what is a theme of the passage ?",
             "hint": "N/A",
             "answer": [
                 "Sometimes unfair things happen to people"

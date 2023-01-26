@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " what is a message of the passage",
+            "sentence": " what is a message of the passage ?",
             "hint": "N/A",
             "answer": [
                 "There is no reason to tell stories to impress others"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " why do you think Kates face turned bright red at the end",
+            "sentence": " why do you think Kates face turned bright red at the end ?",
             "hint": "N/A",
             "answer": [
                 "She was embarrassed by Sarahs words"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " which of these best describes kate",
+            "sentence": " which of these best describes kate ?",
             "hint": "N/A",
             "answer": [
                 "She is imaginative and boastful"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what lesson do you think kate learned",
+            "sentence": " what lesson do you think kate learned ?",
             "hint": "N/A",
             "answer": [
                 "It is best to talk about something you have actually done"

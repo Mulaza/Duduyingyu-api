@@ -21,19 +21,19 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " how are canberra and washington, d.c., alike",
+            "sentence": " how are Canberra and Washington, D.C., alike ?",
             "hint": "N/A",
             "answer": [
                 "Both are national capitals"
             ],
             "card_data": [
                 {
-                    "text_en": "Both are in australia",
-                    "value": "Both are in australia"
+                    "text_en": "Both are in Australia",
+                    "value": "Both are in Australia"
                 },
                 {
-                    "text_en": "Both are in the united states",
-                    "value": "Both are in the united states"
+                    "text_en": "Both are in the United States",
+                    "value": "Both are in the United States"
                 },
                 {
                     "text_en": "Both are the largest cities in the world",
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what is similar about the national library of australia and the library of congress",
+            "sentence": " what is similar about the national library of australia and the library of congress ?",
             "hint": "N/A",
             "answer": [
                 "Both are important libraries with a lot of books"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " why do people visit the monuments in each capital",
+            "sentence": " why do people visit the monuments in each capital ?",
             "hint": "N/A",
             "answer": [
                 "To learn about the nations history"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what is the main idea of the passage",
+            "sentence": " what is the main idea of the passage ?",
             "hint": "N/A",
             "answer": [
                 "Canberra and washington, d. c., have many similarities"

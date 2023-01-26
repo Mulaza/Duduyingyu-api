@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Noisy Neighbors", "sentence": "Mr. Kim couldn\u2019t take it anymore. He needed peace and quiet. But his two neighbors, Ms. Abrams and Mr. Green, were the noisiest people he had ever known! In the house on the left, Ms. Abrams gave tuba lessons. In the house on the right, Mr. Green worked on cuckoo clocks. And in the middle was Mr. Kim\u2014sad, tired, and crabby. Then he had an idea. He would pay his neighbors to move! \u201cOh boy!\u201d Ms. Abrams said when Mr. Kim offered her $200 to move away. \u201cHot dog!\u201d said Mr. Green when Mr. Kim offered him the same deal. The next day, he saw Mr. Green carrying his clocks to Ms. Abrams\u2019 house and Ms. Abrams carrying her tuba to Mr. Green\u2019s house. \u201cI thought you were both moving,\u201d Mr. Kim said. \u201cWe are,\u201d Mr. Green said. \u201cMs. Abrams is moving into my old place, and I\u2019m moving into hers.\u201d Mr. Kim nearly fainted. What would he do? The next day, Mr. Green and Ms. Abrams visited Mr. Kim. \u201cWe know why you asked us to move,\u201d Mr. Green said. \u201cSo we got you this.\u201d And they gave Mr. Kim a very fancy set of earmuffs. Finally, peace and quiet!", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " whatisone theme of the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Sometimes your plans do not work as you expect", "value": "Sometimes your plans do not work as you expect"}, {"text_en": "Asking others for favors is not wise", "value": "Asking others for favors is not wise"}, {"text_en": "Good friends are better than money", "value": "Good friends are better than money"}, {"text_en": "Do to others what you would want done to you. ", "value": "Do to others what you would want done to you. "}]}, {"type": "scq", "sentence": " how are mr. green andms.abrams alike", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They both work on cuckoo clocks", "value": "They both work on cuckoo clocks"}, {"text_en": "They both teach tuba lessons", "value": "They both teach tuba lessons"}, {"text_en": "They both annoy mr. kim", "value": "They both annoy mr. kim"}, {"text_en": "They both want to move far away. ", "value": "They both want to move far away. "}]}, {"type": "scq", "sentence": " whatisanother theme of the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "You should always be quiet", "value": "You should always be quiet"}, {"text_en": "Some gifts are better than others", "value": "Some gifts are better than others"}, {"text_en": "People can surprise you with kindness", "value": "People can surprise you with kindness"}, {"text_en": "Good results come from hard work. ", "value": "Good results come from hard work. "}]}, {"type": "scq", "sentence": " why did the author write the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "To explain how to trick the neighbors", "value": "To explain how to trick the neighbors"}, {"text_en": "To entertain people with a funny story", "value": "To entertain people with a funny story"}, {"text_en": "To instruct people on where to live", "value": "To instruct people on where to live"}, {"text_en": "To persuade people to give gifts instead of money", "value": "To persuade people to give gifts instead of money"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Noisy Neighbors",
+        "sentence": "Mr. Kim couldn\u2019t take it anymore. He needed peace and quiet. But his two neighbors, Ms. Abrams and Mr. Green, were the noisiest people he had ever known! In the house on the left, Ms. Abrams gave tuba lessons. In the house on the right, Mr. Green worked on cuckoo clocks. And in the middle was Mr. Kim\u2014sad, tired, and crabby. Then he had an idea. He would pay his neighbors to move! \u201cOh boy!\u201d Ms. Abrams said when Mr. Kim offered her $200 to move away. \u201cHot dog!\u201d said Mr. Green when Mr. Kim offered him the same deal. The next day, he saw Mr. Green carrying his clocks to Ms. Abrams\u2019 house and Ms. Abrams carrying her tuba to Mr. Green\u2019s house. \u201cI thought you were both moving,\u201d Mr. Kim said. \u201cWe are,\u201d Mr. Green said. \u201cMs. Abrams is moving into my old place, and I\u2019m moving into hers.\u201d Mr. Kim nearly fainted. What would he do? The next day, Mr. Green and Ms. Abrams visited Mr. Kim. \u201cWe know why you asked us to move,\u201d Mr. Green said. \u201cSo we got you this.\u201d And they gave Mr. Kim a very fancy set of earmuffs. Finally, peace and quiet!",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " whatisone theme of the passage",
+            "hint": "N/A",
+            "answer": [
+                "Sometimes your plans do not work as you expect"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Sometimes your plans do not work as you expect",
+                    "value": "Sometimes your plans do not work as you expect"
+                },
+                {
+                    "text_en": "Asking others for favors is not wise",
+                    "value": "Asking others for favors is not wise"
+                },
+                {
+                    "text_en": "Good friends are better than money",
+                    "value": "Good friends are better than money"
+                },
+                {
+                    "text_en": "Do to others what you would want done to you",
+                    "value": "Do to others what you would want done to you"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": "how are Mr. Green and Ms. Abrams alike",
+            "hint": "N/A",
+            "answer": [
+                "They both annoy Mr. Kim"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They both work on cuckoo clocks",
+                    "value": "They both work on cuckoo clocks"
+                },
+                {
+                    "text_en": "They both teach tuba lessons",
+                    "value": "They both teach tuba lessons"
+                },
+                {
+                    "text_en": "They both annoy Mr. Kim",
+                    "value": "They both annoy Mr. Kim"
+                },
+                {
+                    "text_en": "They both want to move far away. ",
+                    "value": "They both want to move far away. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " whatisanother theme of the passage",
+            "hint": "N/A",
+            "answer": [
+                "People can surprise you with kindness"
+            ],
+            "card_data": [
+                {
+                    "text_en": "You should always be quiet",
+                    "value": "You should always be quiet"
+                },
+                {
+                    "text_en": "Some gifts are better than others",
+                    "value": "Some gifts are better than others"
+                },
+                {
+                    "text_en": "People can surprise you with kindness",
+                    "value": "People can surprise you with kindness"
+                },
+                {
+                    "text_en": "Good results come from hard work. ",
+                    "value": "Good results come from hard work. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " why did the author write the passage",
+            "hint": "N/A",
+            "answer": [
+                "To entertain people with a funny story"
+            ],
+            "card_data": [
+                {
+                    "text_en": "To explain how to trick the neighbors",
+                    "value": "To explain how to trick the neighbors"
+                },
+                {
+                    "text_en": "To entertain people with a funny story",
+                    "value": "To entertain people with a funny story"
+                },
+                {
+                    "text_en": "To instruct people on where to live",
+                    "value": "To instruct people on where to live"
+                },
+                {
+                    "text_en": "To persuade people to give gifts instead of money",
+                    "value": "To persuade people to give gifts instead of money"
+                }
+            ]
+        }
+    ]
+}

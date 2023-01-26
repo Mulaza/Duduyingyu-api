@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " what does the title of the passage tell you",
+            "sentence": " what does the title of the passage tell you ?",
             "hint": "N/A",
             "answer": [
                 "Some dragons are real"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " ifakomodo dragon bit an animal, the animal would probably ",
+            "sentence": " if a komodo dragon bit an animal, the animal would probably ?",
             "hint": "N/A",
             "answer": [
                 "Not be able to survive the bite"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " whatisthe last paragraph mostly about",
+            "sentence": " what is the last paragraph mostly about ?",
             "hint": "N/A",
             "answer": [
                 "How komodo dragons are usually not a danger to people"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " ifthe title of the passage were fairy-tale dragons, which would you expect to read about",
+            "sentence": " if the title of the passage were fairy-tale dragons, which would you expect to read about ?",
             "hint": "N/A",
             "answer": [
                 "Fire-breathing dragons"

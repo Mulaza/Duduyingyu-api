@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Save The Skunks!", "sentence": "When people think about the need to protect animals, how many think of skunks? People dislike skunks for several reasons. Skunks can get into garbage cans. They sometimes carry diseases. And worst of all, of course, they can spray people and pets with a disgusting smelling liquid. But skunks play an important role in their environment. Skunks are great to have around because they eat other pests. For example, a skunk will eat dangerous scorpions and spiders. Having a skunk around is much better than being bothered by those creepy creatures. Another reason to protect skunks is that they eat animals that are already dead. This helps keep forests and neighborhoods clean. It\u2019s also important to remember that skunks are in our neighborhoods because we have come into their habitats. It\u2019s unfair to want the skunks to leave when they were here first! So the next time you catch a whiff of skunk spray, smile and hold your nose. Think about the good work that this peaceful animal is doing to keep your neighborhood clean and safe.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " according to the passage, which of theseis areason why some people dislike skunks", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Skunks eat spiders", "value": "Skunks eat spiders"}, {"text_en": "Skunks eat dead animals", "value": "Skunks eat dead animals"}, {"text_en": "Skunks sometimes carry diseases", "value": "Skunks sometimes carry diseases"}, {"text_en": "Skunks are better than scorpions.", "value": "Skunks are better than scorpions."}]}, {"type": "scq", "sentence": " which of these does not tell how the author feels about skunks", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "People dislike skunks for several reasons", "value": "People dislike skunks for several reasons"}, {"text_en": "The next time you catch a whiff of skunk spray, smile and hold your nose", "value": "The next time you catch a whiff of skunk spray, smile and hold your nose"}, {"text_en": "Its unfair to want the skunks to leave when they were here first!", "value": "Its unfair to want the skunks to leave when they were here first!"}, {"text_en": "Skunks are great to have around because they eat other pests. ", "value": "Skunks are great to have around because they eat other pests. "}]}, {"type": "scq", "sentence": " which of theseisafact", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Spiders are creepy", "value": "Spiders are creepy"}, {"text_en": "Skunks are better than spiders", "value": "Skunks are better than spiders"}, {"text_en": "Some skunks carry diseases", "value": "Some skunks carry diseases"}, {"text_en": "A skunks spray is the worst smell. ", "value": "A skunks spray is the worst smell. "}]}, {"type": "scq", "sentence": " which oneisan effect of skunks eating dead animals", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "There are fewer scorpions and spiders in peoples homes", "value": "There are fewer scorpions and spiders in peoples homes"}, {"text_en": "The neighborhoods stay cleaner than they would be without the skunks", "value": "The neighborhoods stay cleaner than they would be without the skunks"}, {"text_en": "Pets and people get sprayed less often", "value": "Pets and people get sprayed less often"}, {"text_en": "Skunks stay out of peoples garbage.", "value": "Skunks stay out of peoples garbage."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Save The Skunks!",
+        "sentence": "When people think about the need to protect animals, how many think of skunks? People dislike skunks for several reasons. Skunks can get into garbage cans. They sometimes carry diseases. And worst of all, of course, they can spray people and pets with a disgusting smelling liquid. But skunks play an important role in their environment. Skunks are great to have around because they eat other pests. For example, a skunk will eat dangerous scorpions and spiders. Having a skunk around is much better than being bothered by those creepy creatures. Another reason to protect skunks is that they eat animals that are already dead. This helps keep forests and neighborhoods clean. It\u2019s also important to remember that skunks are in our neighborhoods because we have come into their habitats. It\u2019s unfair to want the skunks to leave when they were here first! So the next time you catch a whiff of skunk spray, smile and hold your nose. Think about the good work that this peaceful animal is doing to keep your neighborhood clean and safe.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " according to the passage, which of theseis areason why some people dislike skunks ?",
+            "hint": "N/A",
+            "answer": [
+                "Skunks sometimes carry diseases"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Skunks eat spiders",
+                    "value": "Skunks eat spiders"
+                },
+                {
+                    "text_en": "Skunks eat dead animals",
+                    "value": "Skunks eat dead animals"
+                },
+                {
+                    "text_en": "Skunks sometimes carry diseases",
+                    "value": "Skunks sometimes carry diseases"
+                },
+                {
+                    "text_en": "Skunks are better than scorpions.",
+                    "value": "Skunks are better than scorpions."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which of these does not tell how the author feels about skunks ?",
+            "hint": "N/A",
+            "answer": [
+                "People dislike skunks for several reasons"
+            ],
+            "card_data": [
+                {
+                    "text_en": "People dislike skunks for several reasons",
+                    "value": "People dislike skunks for several reasons"
+                },
+                {
+                    "text_en": "The next time you catch a whiff of skunk spray, smile and hold your nose",
+                    "value": "The next time you catch a whiff of skunk spray, smile and hold your nose"
+                },
+                {
+                    "text_en": "Its unfair to want the skunks to leave when they were here first!",
+                    "value": "Its unfair to want the skunks to leave when they were here first!"
+                },
+                {
+                    "text_en": "Skunks are great to have around because they eat other pests. ",
+                    "value": "Skunks are great to have around because they eat other pests. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which of these is a fact ?",
+            "hint": "N/A",
+            "answer": [
+                "Some skunks carry diseases"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Spiders are creepy",
+                    "value": "Spiders are creepy"
+                },
+                {
+                    "text_en": "Skunks are better than spiders",
+                    "value": "Skunks are better than spiders"
+                },
+                {
+                    "text_en": "Some skunks carry diseases",
+                    "value": "Some skunks carry diseases"
+                },
+                {
+                    "text_en": "A skunks spray is the worst smell. ",
+                    "value": "A skunks spray is the worst smell. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which one is an effect of skunks eating dead animals ?",
+            "hint": "N/A",
+            "answer": [
+                "The neighborhoods stay cleaner than they would be without the skunks"
+            ],
+            "card_data": [
+                {
+                    "text_en": "There are fewer scorpions and spiders in peoples homes",
+                    "value": "There are fewer scorpions and spiders in peoples homes"
+                },
+                {
+                    "text_en": "The neighborhoods stay cleaner than they would be without the skunks",
+                    "value": "The neighborhoods stay cleaner than they would be without the skunks"
+                },
+                {
+                    "text_en": "Pets and people get sprayed less often",
+                    "value": "Pets and people get sprayed less often"
+                },
+                {
+                    "text_en": "Skunks stay out of peoples garbage.",
+                    "value": "Skunks stay out of peoples garbage."
+                }
+            ]
+        }
+    ]
+}

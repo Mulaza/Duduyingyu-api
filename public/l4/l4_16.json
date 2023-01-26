@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " according to the passage, why is storm water a problem",
+            "sentence": " according to the passage, why is storm water a problem ?",
             "hint": "N/A",
             "answer": [
                 "Because it pollutes rivers and lakes"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what causes storm water to build up in cities",
+            "sentence": " what causes storm water to build up in cities ?",
             "hint": "N/A",
             "answer": [
                 "Sidewalks and streets that cannot soak up storm water"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what happens soon after storm water builds up in cities",
+            "sentence": " what happens soon after storm water builds up in cities ?",
             "hint": "N/A",
             "answer": [
                 "It flows through storm drains"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " which of these would not help make storm water safer",
+            "sentence": " which of these would not help make storm water safer ?",
             "hint": "N/A",
             "answer": [
                 "Building more roads and sidewalks"

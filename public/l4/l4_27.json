@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Mixed-Up Aunt Hilda", "sentence": "June and I were very excited because Mom\u2019s sister, Aunt Hilda, was coming to visit all the way from South Africa. Aunt Hilda studied zebras there, and she told many interesting stories. She was really funny, too, because she did everything backward. \u201cI wonder if we\u2019ll have breakfast for dinner,\u201d June said. \u201cOr maybe Aunt Hilda will wash clothes in the dishwasher and dishes in the washing machine again.\u201d \u201cI sure hope not. Her visits are getting expensive,\u201d said Dad, who was looking out the window and waiting for Aunt Hilda\u2019s taxi to arrive. \u201cOh, here she is!\u201d Aunt Hilda came through the door. \u201cGood morning!\u201d she said, even though it was late in the afternoon. We laughed, which made Aunt Hilda blush. Aunt Hilda then passed out presents. She gave me a new doll and June a toy robot. She gave Mom a new tie and Dad some fancy perfume. \u201cI\u2019m so hungry, I could eat a fly!\u201d Aunt Hilda said. \u201cWe\u2019re having chicken salad instead,\u201d Dad said. \u201cWhy don\u2019t you get ready for dinner, Hilda.\u201d Aunt Hilda walked into the bathroom, put on her pajamas, and walked past us to the guest bedroom. June and I started giggling. \u201cIt must have been a very long flight,\u201d Mom said.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " whatisthe passage mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Differences between america and africa", "value": "Differences between america and africa"}, {"text_en": "Differences between a sister and brother", "value": "Differences between a sister and brother"}, {"text_en": "A strange aunt", "value": "A strange aunt"}, {"text_en": "A funny family ", "value": "A funny family "}]}, {"type": "scq", "sentence": " what happens immediately after aunt hilda arrives", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "She gives june a doll", "value": "She gives june a doll"}, {"text_en": "She mixes up the gifts", "value": "She mixes up the gifts"}, {"text_en": "She says, good morning! to the family", "value": "She says, good morning! to the family"}, {"text_en": "She helps the family make breakfast. ", "value": "She helps the family make breakfast. "}]}, {"type": "scq", "sentence": " what happens after hilda says sheishungry", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "She gives the family presents", "value": "She gives the family presents"}, {"text_en": "She eats a fly", "value": "She eats a fly"}, {"text_en": "Dad sets the table", "value": "Dad sets the table"}, {"text_en": "She gets ready for bed. ", "value": "She gets ready for bed. "}]}, {"type": "scq", "sentence": " which detail supports the idea that hilda isodd", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "She brings gifts for the family", "value": "She brings gifts for the family"}, {"text_en": "She mixes up morning and evening", "value": "She mixes up morning and evening"}, {"text_en": "She is hungry after her trip", "value": "She is hungry after her trip"}, {"text_en": "June and the narrator enjoy her visits.", "value": "June and the narrator enjoy her visits."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Mixed-Up Aunt Hilda",
+        "sentence": "June and I were very excited because Mom\u2019s sister, Aunt Hilda, was coming to visit all the way from South Africa. Aunt Hilda studied zebras there, and she told many interesting stories. She was really funny, too, because she did everything backward. \u201cI wonder if we\u2019ll have breakfast for dinner,\u201d June said. \u201cOr maybe Aunt Hilda will wash clothes in the dishwasher and dishes in the washing machine again.\u201d \u201cI sure hope not. Her visits are getting expensive,\u201d said Dad, who was looking out the window and waiting for Aunt Hilda\u2019s taxi to arrive. \u201cOh, here she is!\u201d Aunt Hilda came through the door. \u201cGood morning!\u201d she said, even though it was late in the afternoon. We laughed, which made Aunt Hilda blush. Aunt Hilda then passed out presents. She gave me a new doll and June a toy robot. She gave Mom a new tie and Dad some fancy perfume. \u201cI\u2019m so hungry, I could eat a fly!\u201d Aunt Hilda said. \u201cWe\u2019re having chicken salad instead,\u201d Dad said. \u201cWhy don\u2019t you get ready for dinner, Hilda.\u201d Aunt Hilda walked into the bathroom, put on her pajamas, and walked past us to the guest bedroom. June and I started giggling. \u201cIt must have been a very long flight,\u201d Mom said.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " whatisthe passage mostly about",
+            "hint": "N/A",
+            "answer": [
+                "A strange aunt"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Differences between america and africa",
+                    "value": "Differences between america and africa"
+                },
+                {
+                    "text_en": "Differences between a sister and brother",
+                    "value": "Differences between a sister and brother"
+                },
+                {
+                    "text_en": "A strange aunt",
+                    "value": "A strange aunt"
+                },
+                {
+                    "text_en": "A funny family ",
+                    "value": "A funny family "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what happens immediately after aunt hilda arrives",
+            "hint": "N/A",
+            "answer": [
+                "She says, good morning! to the family"
+            ],
+            "card_data": [
+                {
+                    "text_en": "She gives june a doll",
+                    "value": "She gives june a doll"
+                },
+                {
+                    "text_en": "She mixes up the gifts",
+                    "value": "She mixes up the gifts"
+                },
+                {
+                    "text_en": "She says, good morning! to the family",
+                    "value": "She says, good morning! to the family"
+                },
+                {
+                    "text_en": "She helps the family make breakfast. ",
+                    "value": "She helps the family make breakfast. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what happens after hilda says sheishungry",
+            "hint": "N/A",
+            "answer": [
+                "She gets ready for bed"
+            ],
+            "card_data": [
+                {
+                    "text_en": "She gives the family presents",
+                    "value": "She gives the family presents"
+                },
+                {
+                    "text_en": "She eats a fly",
+                    "value": "She eats a fly"
+                },
+                {
+                    "text_en": "Dad sets the table",
+                    "value": "Dad sets the table"
+                },
+                {
+                    "text_en": "She gets ready for bed",
+                    "value": "She gets ready for bed"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which detail supports the idea that hilda isodd",
+            "hint": "N/A",
+            "answer": [
+                "She mixes up morning and evening"
+            ],
+            "card_data": [
+                {
+                    "text_en": "She brings gifts for the family",
+                    "value": "She brings gifts for the family"
+                },
+                {
+                    "text_en": "She mixes up morning and evening",
+                    "value": "She mixes up morning and evening"
+                },
+                {
+                    "text_en": "She is hungry after her trip",
+                    "value": "She is hungry after her trip"
+                },
+                {
+                    "text_en": "June and the narrator enjoy her visits.",
+                    "value": "June and the narrator enjoy her visits."
+                }
+            ]
+        }
+    ]
+}

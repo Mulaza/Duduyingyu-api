@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " what is the story mostly about",
+            "sentence": " what is the story mostly about ?",
             "hint": "N/A",
             "answer": [
                 "A girl who wants a cell phone from her parents"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " why does tammys dad think there is no reason for tammy to get a cell phone",
+            "sentence": " why does tammys dad think there is no reason for tammy to get a cell phone ?",
             "hint": "N/A",
             "answer": [
                 "The school does not allow them"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " why does tammys mom not want to get tammy a cell phone",
+            "sentence": " why does tammys mom not want to get tammy a cell phone ?",
             "hint": "N/A",
             "answer": [
                 "She thinks cell phones are too expensive"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " how is using e-mail like using a cell phone",
+            "sentence": " how is using e-mail like using a cell phone ?",
             "hint": "N/A",
             "answer": [
                 "Both can send messages"

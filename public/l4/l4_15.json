@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " which of these is a fact",
+            "sentence": " which of these is a fact ?",
             "hint": "N/A",
             "answer": [
                 "Beets have vitamins"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " which of these is not an effect of eating healthful foods",
+            "sentence": " which of these is not an effect of eating healthful foods ?",
             "hint": "N/A",
             "answer": [
                 "Getting fewer minerals"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " which of these is an opinion about root vegetables",
+            "sentence": " which of these is an opinion about root vegetables ?",
             "hint": "N/A",
             "answer": [
                 "Beets taste as good as potatoes"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what is the passage mostly about",
+            "sentence": " what is the passage mostly about ?",
             "hint": "N/A",
             "answer": [
                 "Healthful snacks you can make from vegetables"

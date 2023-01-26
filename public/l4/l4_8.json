@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " when did scientists use the hurricane plane",
+            "sentence": " when did scientists use the hurricane plane ?",
             "hint": "N/A",
             "answer": [
                 "In fall"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what is one lesson from the passage",
+            "sentence": " what is one lesson from the passage ?",
             "hint": "N/A",
             "answer": [
                 "Safety is more important than knowledge"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " why did scientists needaplane that could fly throughahurricane",
+            "sentence": " why did scientists needaplane that could fly through a hurricane ?",
             "hint": "N/A",
             "answer": [
                 "They wanted to be closer to where the air meets the water"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " how do you think the scientists felt when the plane flew through the hurricane",
+            "sentence": " how do you think the scientists felt when the plane flew through the hurricane ?",
             "hint": "N/A",
             "answer": [
                 "Proud"

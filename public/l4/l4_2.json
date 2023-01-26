@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " whatisthe passage mostly about",
+            "sentence": "what is the passage mostly about ?",
             "hint": "N/A",
             "answer": [
                 "A festival celebrating children"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " according to the passage, what changed about childrens day in 1948",
+            "sentence": " according to the passage, what changed about childrens day in 1948 ?",
             "hint": "N/A",
             "answer": [
                 "It celebrated girls as well as boys"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "which of these is likely to happen on the next childrens day",
+            "sentence": "which of these is likely to happen on the next childrens day ?",
             "hint": "N/A",
             "answer": [
                 "People will fly carp flags"

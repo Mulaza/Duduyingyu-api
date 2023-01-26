@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " which of these would be a good location for a community garden",
+            "sentence": " which of these would be a good location for a community garden ?",
             "hint": "N/A",
             "answer": [
                 "A park that is no longer being used"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what do you think people meant when they said the old lot was only good for growing weeds and collecting trash",
+            "sentence": " what do you think people meant when they said the old lot was only good for growing weeds and collecting trash ?",
             "hint": "N/A",
             "answer": [
                 "The lot was not taken care of"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " which of these would probably not be found in a community garden",
+            "sentence": " which of these would probably not be found in a community garden ?",
             "hint": "N/A",
             "answer": [
                 "People playing soccer"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what is a theme of the passage",
+            "sentence": " what is a theme of the passage ?",
             "hint": "N/A",
             "answer": [
                 "Almost anything can be turned into something useful"

@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "The Rugged Sport Of Rugby", "sentence": "My cousin Chris plays rugby. He says it\u2019s similar to football and soccer, but some things are different. A rugby field is called a \u201cpitch.\u201d However, Chris\u2019s rugby team plays on the soccer field since it\u2019s the same size as a pitch. To score points, players kick, carry, or throw the ball down the pitch. A rugby \u201cgoal\u201d is like a football touchdown, and it is worth five points. A rugby \u201cdrop goal\u201d is like a football field goal. For both drop goals and field goals, you kick the ball between two posts to score three points. The pitch is crowded during a rugby game. That\u2019s because each team has 15 players on the field at once. That is more players than in football and soccer, both of which have 11 players. The ball that players use in rugby is similar to a football. It is made from leather and is shaped like an oval. But it doesn\u2019t have laces, and the ends are less pointed than a football\u2019s ends. Chris enjoys playing rugby and hopes to join a league soon. I might join, too.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " according to the passage, which sports are similar to rugby", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Football and basketball", "value": "Football and basketball"}, {"text_en": "Soccer and baseball", "value": "Soccer and baseball"}, {"text_en": "Baseball and basketball", "value": "Baseball and basketball"}, {"text_en": "Football and soccer ", "value": "Football and soccer "}]}, {"type": "scq", "sentence": " why do you think the author wrote the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "To tell people about her cousin chris", "value": "To tell people about her cousin chris"}, {"text_en": "To explain more about the sport of rugby", "value": "To explain more about the sport of rugby"}, {"text_en": "To persuade people to join rugby leagues", "value": "To persuade people to join rugby leagues"}, {"text_en": "To entertain people with a story about one of chriss rugby matches ", "value": "To entertain people with a story about one of chriss rugby matches "}]}, {"type": "scq", "sentence": " what part of rugbyisnot like soccer", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The size of the field", "value": "The size of the field"}, {"text_en": "The shape of the ball", "value": "The shape of the ball"}, {"text_en": "The ability to score points by kicking the ball", "value": "The ability to score points by kicking the ball"}, {"text_en": "Players running up and down the field ", "value": "Players running up and down the field "}]}, {"type": "scq", "sentence": " whatistrue about soccer and football but not true about rugby", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "It is played on a field", "value": "It is played on a field"}, {"text_en": "It is played with a ball", "value": "It is played with a ball"}, {"text_en": "There are 11 players on a team", "value": "There are 11 players on a team"}, {"text_en": "You can kick the ball to score points.", "value": "You can kick the ball to score points."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "The Rugged Sport Of Rugby",
+        "sentence": "My cousin Chris plays rugby. He says it\u2019s similar to football and soccer, but some things are different. A rugby field is called a \u201cpitch.\u201d However, Chris\u2019s rugby team plays on the soccer field since it\u2019s the same size as a pitch. To score points, players kick, carry, or throw the ball down the pitch. A rugby \u201cgoal\u201d is like a football touchdown, and it is worth five points. A rugby \u201cdrop goal\u201d is like a football field goal. For both drop goals and field goals, you kick the ball between two posts to score three points. The pitch is crowded during a rugby game. That\u2019s because each team has 15 players on the field at once. That is more players than in football and soccer, both of which have 11 players. The ball that players use in rugby is similar to a football. It is made from leather and is shaped like an oval. But it doesn\u2019t have laces, and the ends are less pointed than a football\u2019s ends. Chris enjoys playing rugby and hopes to join a league soon. I might join, too.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " according to the passage, which sports are similar to rugby",
+            "hint": "N/A",
+            "answer": [
+                "Football and soccer"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Football and basketball",
+                    "value": "Football and basketball"
+                },
+                {
+                    "text_en": "Soccer and baseball",
+                    "value": "Soccer and baseball"
+                },
+                {
+                    "text_en": "Baseball and basketball",
+                    "value": "Baseball and basketball"
+                },
+                {
+                    "text_en": "Football and soccer",
+                    "value": "Football and soccer"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " why do you think the author wrote the passage",
+            "hint": "N/A",
+            "answer": [
+                "To explain more about the sport of rugby"
+            ],
+            "card_data": [
+                {
+                    "text_en": "To tell people about her cousin chris",
+                    "value": "To tell people about her cousin chris"
+                },
+                {
+                    "text_en": "To explain more about the sport of rugby",
+                    "value": "To explain more about the sport of rugby"
+                },
+                {
+                    "text_en": "To persuade people to join rugby leagues",
+                    "value": "To persuade people to join rugby leagues"
+                },
+                {
+                    "text_en": "To entertain people with a story about one of chriss rugby matches ",
+                    "value": "To entertain people with a story about one of chriss rugby matches "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what part of rugbyisnot like soccer",
+            "hint": "N/A",
+            "answer": [
+                "The shape of the ball"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The size of the field",
+                    "value": "The size of the field"
+                },
+                {
+                    "text_en": "The shape of the ball",
+                    "value": "The shape of the ball"
+                },
+                {
+                    "text_en": "The ability to score points by kicking the ball",
+                    "value": "The ability to score points by kicking the ball"
+                },
+                {
+                    "text_en": "Players running up and down the field ",
+                    "value": "Players running up and down the field "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " whatistrue about soccer and football but not true about rugby",
+            "hint": "N/A",
+            "answer": [
+                "There are 11 players on a team"
+            ],
+            "card_data": [
+                {
+                    "text_en": "It is played on a field",
+                    "value": "It is played on a field"
+                },
+                {
+                    "text_en": "It is played with a ball",
+                    "value": "It is played with a ball"
+                },
+                {
+                    "text_en": "There are 11 players on a team",
+                    "value": "There are 11 players on a team"
+                },
+                {
+                    "text_en": "You can kick the ball to score points",
+                    "value": "You can kick the ball to score points"
+                }
+            ]
+        }
+    ]
+}

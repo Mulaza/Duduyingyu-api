@@ -21,10 +21,10 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " whatisthe passage mostly about",
+            "sentence": "what is the passage mostly about ?",
             "hint": "N/A",
             "answer": [
-                "-----"
+                "An old treasure map"
             ],
             "card_data": [
                 {
@@ -40,17 +40,17 @@
                     "value": "Life thousands of years ago"
                 },
                 {
-                    "text_en": "An old treasure map ",
-                    "value": "An old treasure map "
+                    "text_en": "An old treasure map",
+                    "value": "An old treasure map"
                 }
             ]
         },
         {
             "type": "scq",
-            "sentence": " why are people unsure about what the treasure map says",
+            "sentence": " why are people unsure about what the treasure map says ?",
             "hint": "N/A",
             "answer": [
-                "-----"
+                "The map is difficult to read"
             ],
             "card_data": [
                 {
@@ -66,17 +66,17 @@
                     "value": "The map is difficult to read"
                 },
                 {
-                    "text_en": "No one understands the language on the scroll. ",
-                    "value": "No one understands the language on the scroll. "
+                    "text_en": "No one understands the language on the scroll",
+                    "value": "No one understands the language on the scroll"
                 }
             ]
         },
         {
             "type": "scq",
-            "sentence": " what is an effect of the map being written on copper",
+            "sentence": " what is an effect of the map being written on copper ?",
             "hint": "N/A",
             "answer": [
-                "-----"
+                "It is damaged"
             ],
             "card_data": [
                 {
@@ -92,17 +92,17 @@
                     "value": "It is heavy"
                 },
                 {
-                    "text_en": "It is easy to cut into strips. ",
-                    "value": "It is easy to cut into strips. "
+                    "text_en": "It is easy to cut into strips",
+                    "value": "It is easy to cut into strips"
                 }
             ]
         },
         {
             "type": "scq",
-            "sentence": " how is the map different from other treasure maps",
+            "sentence": " how is the map different from other treasure maps ?",
             "hint": "N/A",
             "answer": [
-                "-----"
+                "It is written on copper instead of paper"
             ],
             "card_data": [
                 {
@@ -118,8 +118,8 @@
                     "value": "It comes from a story"
                 },
                 {
-                    "text_en": "It is not important to researchers.",
-                    "value": "It is not important to researchers."
+                    "text_en": "It is not important to researchers",
+                    "value": "It is not important to researchers"
                 }
             ]
         }

@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "Using The Sun At Night", "sentence": "My house gets energy from the sun. That kind of energy is called \u201csolar power.\u201d We use it to power the lights, the television, and the computer. It also powers the stove and toaster. It even runs the heater in the winter and the air conditioner in the summer. We collect the sun\u2019s energy with large solar panels on our roof. These panels turn the sun\u2019s energy into electricity. Some of the electricity gets used right away, and some of it is stored so we can use it at night. In the winter, getting enough sunlight can be hard. So sometimes we have to use electricity from the power company. But we need less of this electricity than we would without our solar panels. The sun is a good source of energy because it will never run out. It is also cleaner than some other kinds of energy and is becoming less expensive, too. In the future, more people will have panels like ours on their roofs.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " why do you think the author wrote the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "To explain how the sun makes energy", "value": "To explain how the sun makes energy"}, {"text_en": "To tell a funny story about his house", "value": "To tell a funny story about his house"}, {"text_en": "To describe what his house looks like", "value": "To describe what his house looks like"}, {"text_en": "To persuade people to use solar power ", "value": "To persuade people to use solar power "}]}, {"type": "scq", "sentence": " according to the passage, how are summer and winter different", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "There is more sunlight in the winter", "value": "There is more sunlight in the winter"}, {"text_en": "There is more sunlight in the summer", "value": "There is more sunlight in the summer"}, {"text_en": "The family uses less electricity in the winter", "value": "The family uses less electricity in the winter"}, {"text_en": "The family needs energy from the power company in the summer. ", "value": "The family needs energy from the power company in the summer. "}]}, {"type": "scq", "sentence": " which statement would the author probably agree with most", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Solar power is not a good form of energy", "value": "Solar power is not a good form of energy"}, {"text_en": "Solar panels make roofs look bad", "value": "Solar panels make roofs look bad"}, {"text_en": "Solar power is helpful for the planet", "value": "Solar power is helpful for the planet"}, {"text_en": "Solar power should cost more money. ", "value": "Solar power should cost more money. "}]}, {"type": "scq", "sentence": " how are the solar panels and the power company alike", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Both provide people with electricity", "value": "Both provide people with electricity"}, {"text_en": "Both work better in the summer", "value": "Both work better in the summer"}, {"text_en": "Both always make enough electricity", "value": "Both always make enough electricity"}, {"text_en": "Both turn sunlight into electricity", "value": "Both turn sunlight into electricity"}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "Using The Sun At Night",
+        "sentence": "My house gets energy from the sun. That kind of energy is called \u201csolar power.\u201d We use it to power the lights, the television, and the computer. It also powers the stove and toaster. It even runs the heater in the winter and the air conditioner in the summer. We collect the sun\u2019s energy with large solar panels on our roof. These panels turn the sun\u2019s energy into electricity. Some of the electricity gets used right away, and some of it is stored so we can use it at night. In the winter, getting enough sunlight can be hard. So sometimes we have to use electricity from the power company. But we need less of this electricity than we would without our solar panels. The sun is a good source of energy because it will never run out. It is also cleaner than some other kinds of energy and is becoming less expensive, too. In the future, more people will have panels like ours on their roofs.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " why do you think the author wrote the passage",
+            "hint": "N/A",
+            "answer": [
+                "To persuade people to use solar power"
+            ],
+            "card_data": [
+                {
+                    "text_en": "To explain how the sun makes energy",
+                    "value": "To explain how the sun makes energy"
+                },
+                {
+                    "text_en": "To tell a funny story about his house",
+                    "value": "To tell a funny story about his house"
+                },
+                {
+                    "text_en": "To describe what his house looks like",
+                    "value": "To describe what his house looks like"
+                },
+                {
+                    "text_en": "To persuade people to use solar power",
+                    "value": "To persuade people to use solar power"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " according to the passage, how are summer and winter different",
+            "hint": "N/A",
+            "answer": [
+                "There is more sunlight in the summer"
+            ],
+            "card_data": [
+                {
+                    "text_en": "There is more sunlight in the winter",
+                    "value": "There is more sunlight in the winter"
+                },
+                {
+                    "text_en": "There is more sunlight in the summer",
+                    "value": "There is more sunlight in the summer"
+                },
+                {
+                    "text_en": "The family uses less electricity in the winter",
+                    "value": "The family uses less electricity in the winter"
+                },
+                {
+                    "text_en": "The family needs energy from the power company in the summer. ",
+                    "value": "The family needs energy from the power company in the summer. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which statement would the author probably agree with most",
+            "hint": "N/A",
+            "answer": [
+                "Solar power is helpful for the planet"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Solar power is not a good form of energy",
+                    "value": "Solar power is not a good form of energy"
+                },
+                {
+                    "text_en": "Solar panels make roofs look bad",
+                    "value": "Solar panels make roofs look bad"
+                },
+                {
+                    "text_en": "Solar power is helpful for the planet",
+                    "value": "Solar power is helpful for the planet"
+                },
+                {
+                    "text_en": "Solar power should cost more money",
+                    "value": "Solar power should cost more money"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " how are the solar panels and the power company alike",
+            "hint": "N/A",
+            "answer": [
+                "Both provide people with electricity"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Both provide people with electricity",
+                    "value": "Both provide people with electricity"
+                },
+                {
+                    "text_en": "Both work better in the summer",
+                    "value": "Both work better in the summer"
+                },
+                {
+                    "text_en": "Both always make enough electricity",
+                    "value": "Both always make enough electricity"
+                },
+                {
+                    "text_en": "Both turn sunlight into electricity",
+                    "value": "Both turn sunlight into electricity"
+                }
+            ]
+        }
+    ]
+}

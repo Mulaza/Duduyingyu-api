@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " whatisthe passage mostly about",
+            "sentence": "What is the passage mostly about ?",
             "hint": "N/A",
             "answer": [
                 "A seed vault"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what will dr. fowler probably do once the seed vaultcollects1million seeds",
+            "sentence": "What will dr. fowler probably do once the seed vaultcollects1million seeds ?",
             "hint": "N/A",
             "answer": [
                 "He will close the vault"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what will likely happen to the seedsin the near future",
+            "sentence": "What will likely happen to the seedsin the near future ?",
             "hint": "N/A",
             "answer": [
                 "They will be kept safe"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " which of these seeds would dr. fowler probably put into the seed vault next",
+            "sentence": "which of these seeds would dr. fowler probably put into the seed vault next ?",
             "hint": "N/A",
             "answer": [
                 "Seeds for a vegetable"

@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " which of theseisafact",
+            "sentence": " which of these is a fact ?",
             "hint": "N/A",
             "answer": [
                 "Food and drinks are often served at parties"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what happens first when planninga neighborhoodparty",
+            "sentence": " what happens first when planninga neighborhood party ?",
             "hint": "N/A",
             "answer": [
                 "People figure out where the party will be"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " according to the passage, how are churches and community centers alike",
+            "sentence": " according to the passage, how are churches and community centers alike ?",
             "hint": "N/A",
             "answer": [
                 "Both are often available for neighborhood events"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " according to the passage, which of these is true",
+            "sentence": " according to the passage, which of these is true ?",
             "hint": "N/A",
             "answer": [
                 "Some people have neighborhood parties to celebrate holidays"

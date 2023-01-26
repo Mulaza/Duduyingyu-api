@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": "where does the story take place",
+            "sentence": "where does the story take place ?",
             "hint": "N/A",
             "answer": [
                 "At lauren and henrys house"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " which one best describes lauren",
+            "sentence": " which one best describes lauren ?",
             "hint": "N/A",
             "answer": [
                 "Concerned"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "how do you think henry feels about baseball",
+            "sentence": "how do you think henry feels about baseball ?",
             "hint": "N/A",
             "answer": [
                 "He enjoys reading more than baseball"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": "how can you tell that lauren enjoys playing baseball more than henry",
+            "sentence": "how can you tell that lauren enjoys playing baseball more than henry ?",
             "hint": "N/A",
             "answer": [
                 "She seems more worried about the rain than henry does"

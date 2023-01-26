@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " what is the passage mostly about",
+            "sentence": " what is the passage mostly about ?",
             "hint": "N/A",
             "answer": [
                 "A beetle that defends itself in a special way"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " according to the passage, how are skunks and bombardier beetles alike",
+            "sentence": " according to the passage, how are skunks and bombardier beetles alike ?",
             "hint": "N/A",
             "answer": [
                 "Both use a bad smell to protect themselves"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": " how did the bombardier beetle get its name",
+            "sentence": " how did the bombardier beetle get its name ?",
             "hint": "N/A",
             "answer": [
                 "From the hot, smelly liquid it makes"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what is the effect of the beetle being able to aim in many directions",
+            "sentence": " what is the effect of the beetle being able to aim in many directions ?",
             "hint": "N/A",
             "answer": [
                 "The beetle can protect itself from all sides"

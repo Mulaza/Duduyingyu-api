@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "A Patient Parent", "sentence": "Adults may tell you that it\u2019s tough being a parent. Just tell them that they have it easy compared to the emperor penguin. This parent has one of the toughest jobs in the world. Emperor penguins mate in Antarctica in March or April. The female lays an egg in May or June. Then the mother penguin carefully passes the egg to the father, who balances it on top of his feet. The penguins must be very careful not to drop the egg, as it can crack or freeze if it touches the ground. The mother leaves to find food, and the father waits patiently for the egg to hatch. This usually takes at least 60 days. During that time, the father doesn\u2019t eat, and he must stay very still so he doesn\u2019t hurt the egg. By the time the chick hatches, the father is very weak. But he must feed the baby if the mother has not yet returned. He does this by making a special liquid in his throat. Luckily the mother penguin usually returns within a few days after the chick hatches. She feeds the chick and takes care of it so the father can go get food for himself. By this time, the male has gone 115 days without eating. Talk about a devoted dad!", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " what does the mother penguin do after shelaysthe egg", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "She finds food", "value": "She finds food"}, {"text_en": "She gives the egg to the father", "value": "She gives the egg to the father"}, {"text_en": "She takes care of the egg", "value": "She takes care of the egg"}, {"text_en": "She lets the father eat. ", "value": "She lets the father eat. "}]}, {"type": "scq", "sentence": " what happens before the chick hatches", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The father leaves to find food", "value": "The father leaves to find food"}, {"text_en": "The mother returns to care for the chick", "value": "The mother returns to care for the chick"}, {"text_en": "The father does not eat or move too much", "value": "The father does not eat or move too much"}, {"text_en": "The penguins care for the chick together. ", "value": "The penguins care for the chick together. "}]}, {"type": "scq", "sentence": " which of these does not happen after the chick hatches", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The mother feeds the chick", "value": "The mother feeds the chick"}, {"text_en": "The mother returns with food", "value": "The mother returns with food"}, {"text_en": "The father leaves to find food", "value": "The father leaves to find food"}, {"text_en": "The father sits without eating or moving. ", "value": "The father sits without eating or moving. "}]}, {"type": "scq", "sentence": " whatisthe last thing that happens when emperor penguins mate", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The chick hatches from its egg", "value": "The chick hatches from its egg"}, {"text_en": "The parents take turns caring for the chick", "value": "The parents take turns caring for the chick"}, {"text_en": "The father leaves to eat", "value": "The father leaves to eat"}, {"text_en": "The mother lays a new egg.", "value": "The mother lays a new egg."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "A Patient Parent",
+        "sentence": "Adults may tell you that it\u2019s tough being a parent. Just tell them that they have it easy compared to the emperor penguin. This parent has one of the toughest jobs in the world. Emperor penguins mate in Antarctica in March or April. The female lays an egg in May or June. Then the mother penguin carefully passes the egg to the father, who balances it on top of his feet. The penguins must be very careful not to drop the egg, as it can crack or freeze if it touches the ground. The mother leaves to find food, and the father waits patiently for the egg to hatch. This usually takes at least 60 days. During that time, the father doesn\u2019t eat, and he must stay very still so he doesn\u2019t hurt the egg. By the time the chick hatches, the father is very weak. But he must feed the baby if the mother has not yet returned. He does this by making a special liquid in his throat. Luckily the mother penguin usually returns within a few days after the chick hatches. She feeds the chick and takes care of it so the father can go get food for himself. By this time, the male has gone 115 days without eating. Talk about a devoted dad!",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " what does the mother penguin do after she lays the egg",
+            "hint": "N/A",
+            "answer": [
+                "She gives the egg to the father"
+            ],
+            "card_data": [
+                {
+                    "text_en": "She finds food",
+                    "value": "She finds food"
+                },
+                {
+                    "text_en": "She gives the egg to the father",
+                    "value": "She gives the egg to the father"
+                },
+                {
+                    "text_en": "She takes care of the egg",
+                    "value": "She takes care of the egg"
+                },
+                {
+                    "text_en": "She lets the father eat",
+                    "value": "She lets the father eat"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " what happens before the chick hatches",
+            "hint": "N/A",
+            "answer": [
+                "The father does not eat or move too much"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The father leaves to find food",
+                    "value": "The father leaves to find food"
+                },
+                {
+                    "text_en": "The mother returns to care for the chick",
+                    "value": "The mother returns to care for the chick"
+                },
+                {
+                    "text_en": "The father does not eat or move too much",
+                    "value": "The father does not eat or move too much"
+                },
+                {
+                    "text_en": "The penguins care for the chick together",
+                    "value": "The penguins care for the chick together"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which of these does not happen after the chick hatches",
+            "hint": "N/A",
+            "answer": [
+                "The father sits without eating or moving"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The mother feeds the chick",
+                    "value": "The mother feeds the chick"
+                },
+                {
+                    "text_en": "The mother returns with food",
+                    "value": "The mother returns with food"
+                },
+                {
+                    "text_en": "The father leaves to find food",
+                    "value": "The father leaves to find food"
+                },
+                {
+                    "text_en": "The father sits without eating or moving",
+                    "value": "The father sits without eating or moving"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " whatisthe last thing that happens when emperor penguins mate",
+            "hint": "N/A",
+            "answer": [
+                "The father leaves to eat"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The chick hatches from its egg",
+                    "value": "The chick hatches from its egg"
+                },
+                {
+                    "text_en": "The parents take turns caring for the chick",
+                    "value": "The parents take turns caring for the chick"
+                },
+                {
+                    "text_en": "The father leaves to eat",
+                    "value": "The father leaves to eat"
+                },
+                {
+                    "text_en": "The mother lays a new egg",
+                    "value": "The mother lays a new egg"
+                }
+            ]
+        }
+    ]
+}

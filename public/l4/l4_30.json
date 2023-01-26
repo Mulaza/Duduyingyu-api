@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "The Lake On Top Of A Mountain", "sentence": "Imagine a lake as blue as the summer sky, surrounded by thousands of pine trees and towering mountains. It sounds like something from a storybook, but Lake Tahoe is a real place in the Sierra Nevada mountains, along the border of California and Nevada. Lake Tahoe is the best spot for camping, skiing, sailing, fishing, and hiking. In fact, people come during every season to enjoy the lake and mountains. However, Lake Tahoe is best known for its snow sports. Most of the small towns surrounding Lake Tahoe have lodges where families can go to ski or snowboard. These resorts are much more fun to stay at than the ones in other parts of the country. Thousands of people visit Lake Tahoe each year, but the area was popular long before California and Nevada were even states. Native Americans from the Washoe (WASH-oh) tribe traveled through the mountains and spent their summers at Lake Tahoe. In fact, the name Tahoe comes from a Washoe word meaning \u201cbig water.\u201d The Washoe were expert hunters who used the land and water for their food supply. They even created many legends about the lake. The best one is about a giant bird-like monster that lived in the middle of the lake and ate people! While people now use Lake Tahoe mostly for fun, it is still important to keep the water and land clean. California and Nevada work together to make sure these natural resources are used wisely. It would be terrible if the lake and mountains became too polluted for everyone to enjoy. There is no place as beautiful or fun for a vacation as Lake Tahoe.", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " whichisan opinion about the ski resorts inlaketahoe", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They are more fun than other ski resorts", "value": "They are more fun than other ski resorts"}, {"text_en": "Many towns around the lake have resorts", "value": "Many towns around the lake have resorts"}, {"text_en": "The resorts are popular during the winter", "value": "The resorts are popular during the winter"}, {"text_en": "Families can stay at the resort.", "value": "Families can stay at the resort."}]}, {"type": "scq", "sentence": " which of theseisan opinion", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The washoe spent summers at lake tahoe", "value": "The washoe spent summers at lake tahoe"}, {"text_en": "It would be terrible if lake tahoe became too dirty for people to enjoy", "value": "It would be terrible if lake tahoe became too dirty for people to enjoy"}, {"text_en": "People come to sail on lake tahoe", "value": "People come to sail on lake tahoe"}, {"text_en": "Lake tahoe is surrounded by pine trees. ", "value": "Lake tahoe is surrounded by pine trees. "}]}, {"type": "scq", "sentence": " which oneisafact about lake tahoe", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "It is a great place for camping", "value": "It is a great place for camping"}, {"text_en": "Its name means big water", "value": "Its name means big water"}, {"text_en": "It is better for snow sports than water sports", "value": "It is better for snow sports than water sports"}, {"text_en": "It borders california and nevada. ", "value": "It borders california and nevada. "}]}, {"type": "scq", "sentence": " whichisan opinion about the washoe", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "They created many legends", "value": "They created many legends"}, {"text_en": "They got food by hunting", "value": "They got food by hunting"}, {"text_en": "They traveled through the mountains", "value": "They traveled through the mountains"}, {"text_en": "Their best legend is about a bird-monster.", "value": "Their best legend is about a bird-monster."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "The Lake On Top Of A Mountain",
+        "sentence": "Imagine a lake as blue as the summer sky, surrounded by thousands of pine trees and towering mountains. It sounds like something from a storybook, but Lake Tahoe is a real place in the Sierra Nevada mountains, along the border of California and Nevada. Lake Tahoe is the best spot for camping, skiing, sailing, fishing, and hiking. In fact, people come during every season to enjoy the lake and mountains. However, Lake Tahoe is best known for its snow sports. Most of the small towns surrounding Lake Tahoe have lodges where families can go to ski or snowboard. These resorts are much more fun to stay at than the ones in other parts of the country. Thousands of people visit Lake Tahoe each year, but the area was popular long before California and Nevada were even states. Native Americans from the Washoe (WASH-oh) tribe traveled through the mountains and spent their summers at Lake Tahoe. In fact, the name Tahoe comes from a Washoe word meaning \u201cbig water.\u201d The Washoe were expert hunters who used the land and water for their food supply. They even created many legends about the lake. The best one is about a giant bird-like monster that lived in the middle of the lake and ate people! While people now use Lake Tahoe mostly for fun, it is still important to keep the water and land clean. California and Nevada work together to make sure these natural resources are used wisely. It would be terrible if the lake and mountains became too polluted for everyone to enjoy. There is no place as beautiful or fun for a vacation as Lake Tahoe.",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " which is an opinion about the ski resorts in lake Tahoe ?",
+            "hint": "N/A",
+            "answer": [
+                "They are more fun than other ski resorts"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They are more fun than other ski resorts",
+                    "value": "They are more fun than other ski resorts"
+                },
+                {
+                    "text_en": "Many towns around the lake have resorts",
+                    "value": "Many towns around the lake have resorts"
+                },
+                {
+                    "text_en": "The resorts are popular during the winter",
+                    "value": "The resorts are popular during the winter"
+                },
+                {
+                    "text_en": "Families can stay at the resort.",
+                    "value": "Families can stay at the resort."
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which of these is an opinion ?",
+            "hint": "N/A",
+            "answer": [
+                "It would be terrible if lake tahoe became too dirty for people to enjoy"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The washoe spent summers at lake Tahoe",
+                    "value": "The washoe spent summers at lake Tahoe"
+                },
+                {
+                    "text_en": "It would be terrible if lake tahoe became too dirty for people to enjoy",
+                    "value": "It would be terrible if lake tahoe became too dirty for people to enjoy"
+                },
+                {
+                    "text_en": "People come to sail on lake tahoe",
+                    "value": "People come to sail on lake tahoe"
+                },
+                {
+                    "text_en": "Lake tahoe is surrounded by pine trees. ",
+                    "value": "Lake tahoe is surrounded by pine trees. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which one is a fact about lake Tahoe ?",
+            "hint": "N/A",
+            "answer": [
+                "It borders california and nevada"
+            ],
+            "card_data": [
+                {
+                    "text_en": "It is a great place for camping",
+                    "value": "It is a great place for camping"
+                },
+                {
+                    "text_en": "Its name means big water",
+                    "value": "Its name means big water"
+                },
+                {
+                    "text_en": "It is better for snow sports than water sports",
+                    "value": "It is better for snow sports than water sports"
+                },
+                {
+                    "text_en": "It borders california and nevada",
+                    "value": "It borders california and nevada"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which is an opinion about the washoe",
+            "hint": "N/A",
+            "answer": [
+                "Their best legend is about a bird-monster"
+            ],
+            "card_data": [
+                {
+                    "text_en": "They created many legends",
+                    "value": "They created many legends"
+                },
+                {
+                    "text_en": "They got food by hunting",
+                    "value": "They got food by hunting"
+                },
+                {
+                    "text_en": "They traveled through the mountains",
+                    "value": "They traveled through the mountains"
+                },
+                {
+                    "text_en": "Their best legend is about a bird-monster",
+                    "value": "Their best legend is about a bird-monster"
+                }
+            ]
+        }
+    ]
+}

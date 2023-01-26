@@ -1,1 +1,127 @@
-{"lesson": {"type": "sentence", "title": "A Frog With . . . Claws?", "sentence": "Animals have many ways of defending themselves. Some use poison or bad smells. Others hide or use camouflage to keep from being seen. But one animal with a really weird defense is the hairy frog. This tiny frog lives in Central Africa and has hair-like strands on the lower part of its body. But the strangest part about this frog is its claws! When the hairy frog is threatened, it will break the biggest of the three toe bones in each of its feet. The broken bone then juts out of the skin as a type of \u201cclaw.\u201d It looks like a small thorn on the bottom of the frog\u2019s foot. But this claw isn\u2019t the same as the claw on a cat or dog. It is made of bone instead of keratin (KARE-uh-tin), the material that animal claws and your fingernails are made of. Also, the hairy frog can\u2019t pull its claws back into the skin like most animals can. Instead, the skin and bone slowly heal. The hairy frog isn\u2019t the only amphibian to use its bones as a weapon. The ribbed newt can cause its sharp ribs to poke out through its skin. To make things worse, the ribs are covered in poison! So, hungry fish or birds looking for a quick snack get a painful poke in the mouth instead. Who knew such tiny creatures could be so dangerous?", "key_words": [{"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}, {"word": "word", "translation": "--", "speech": "\u540d\u8bcd", "example": "N/A"}]}, "test": [{"type": "scq", "sentence": " whatisthe passage mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "The ribbed newt", "value": "The ribbed newt"}, {"text_en": "The hairy frog", "value": "The hairy frog"}, {"text_en": "Animals with claws", "value": "Animals with claws"}, {"text_en": "Animals with broken bones", "value": "Animals with broken bones"}]}, {"type": "scq", "sentence": " whatisthe last paragraph mostly about", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "An animal similar to the hairy frog", "value": "An animal similar to the hairy frog"}, {"text_en": "Natural enemies of the hairy frog", "value": "Natural enemies of the hairy frog"}, {"text_en": "How bones protect animals", "value": "How bones protect animals"}, {"text_en": "Why hairy frogs are better than ribbed newts ", "value": "Why hairy frogs are better than ribbed newts "}]}, {"type": "scq", "sentence": " how does the hairy frog produce its claws", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "It breaks its ribs through its skin", "value": "It breaks its ribs through its skin"}, {"text_en": "It grows claws like a cat or dog", "value": "It grows claws like a cat or dog"}, {"text_en": "It has camouflage that looks like claws", "value": "It has camouflage that looks like claws"}, {"text_en": "It breaks its toe bones through its skin. ", "value": "It breaks its toe bones through its skin. "}]}, {"type": "scq", "sentence": " which detail supports the main idea of the passage", "hint": "N/A", "answer": ["-----"], "card_data": [{"text_en": "Some animals use bad smells to protect themselves", "value": "Some animals use bad smells to protect themselves"}, {"text_en": "Some animals use poison to protect themselves", "value": "Some animals use poison to protect themselves"}, {"text_en": "Some animals use their bones to protect themselves", "value": "Some animals use their bones to protect themselves"}, {"text_en": "Some animals hide to protect themselves.", "value": "Some animals hide to protect themselves."}]}]}
+{
+    "lesson": {
+        "type": "sentence",
+        "title": "A Frog With . . . Claws?",
+        "sentence": "Animals have many ways of defending themselves. Some use poison or bad smells. Others hide or use camouflage to keep from being seen. But one animal with a really weird defense is the hairy frog. This tiny frog lives in Central Africa and has hair-like strands on the lower part of its body. But the strangest part about this frog is its claws! When the hairy frog is threatened, it will break the biggest of the three toe bones in each of its feet. The broken bone then juts out of the skin as a type of \u201cclaw.\u201d It looks like a small thorn on the bottom of the frog\u2019s foot. But this claw isn\u2019t the same as the claw on a cat or dog. It is made of bone instead of keratin (KARE-uh-tin), the material that animal claws and your fingernails are made of. Also, the hairy frog can\u2019t pull its claws back into the skin like most animals can. Instead, the skin and bone slowly heal. The hairy frog isn\u2019t the only amphibian to use its bones as a weapon. The ribbed newt can cause its sharp ribs to poke out through its skin. To make things worse, the ribs are covered in poison! So, hungry fish or birds looking for a quick snack get a painful poke in the mouth instead. Who knew such tiny creatures could be so dangerous?",
+        "key_words": [
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            },
+            {
+                "word": "word",
+                "translation": "--",
+                "speech": "\u540d\u8bcd",
+                "example": "N/A"
+            }
+        ]
+    },
+    "test": [
+        {
+            "type": "scq",
+            "sentence": " whatisthe passage mostly about",
+            "hint": "N/A",
+            "answer": [
+                "The hairy frog"
+            ],
+            "card_data": [
+                {
+                    "text_en": "The ribbed newt",
+                    "value": "The ribbed newt"
+                },
+                {
+                    "text_en": "The hairy frog",
+                    "value": "The hairy frog"
+                },
+                {
+                    "text_en": "Animals with claws",
+                    "value": "Animals with claws"
+                },
+                {
+                    "text_en": "Animals with broken bones",
+                    "value": "Animals with broken bones"
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " whatisthe last paragraph mostly about",
+            "hint": "N/A",
+            "answer": [
+                "An animal similar to the hairy frog"
+            ],
+            "card_data": [
+                {
+                    "text_en": "An animal similar to the hairy frog",
+                    "value": "An animal similar to the hairy frog"
+                },
+                {
+                    "text_en": "Natural enemies of the hairy frog",
+                    "value": "Natural enemies of the hairy frog"
+                },
+                {
+                    "text_en": "How bones protect animals",
+                    "value": "How bones protect animals"
+                },
+                {
+                    "text_en": "Why hairy frogs are better than ribbed newts ",
+                    "value": "Why hairy frogs are better than ribbed newts "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " how does the hairy frog produce its claws",
+            "hint": "N/A",
+            "answer": [
+                "It has camouflage that looks like claws"
+            ],
+            "card_data": [
+                {
+                    "text_en": "It breaks its ribs through its skin",
+                    "value": "It breaks its ribs through its skin"
+                },
+                {
+                    "text_en": "It grows claws like a cat or dog",
+                    "value": "It grows claws like a cat or dog"
+                },
+                {
+                    "text_en": "It has camouflage that looks like claws",
+                    "value": "It has camouflage that looks like claws"
+                },
+                {
+                    "text_en": "It breaks its toe bones through its skin. ",
+                    "value": "It breaks its toe bones through its skin. "
+                }
+            ]
+        },
+        {
+            "type": "scq",
+            "sentence": " which detail supports the main idea of the passage",
+            "hint": "N/A",
+            "answer": [
+                "Some animals use their bones to protect themselves"
+            ],
+            "card_data": [
+                {
+                    "text_en": "Some animals use bad smells to protect themselves",
+                    "value": "Some animals use bad smells to protect themselves"
+                },
+                {
+                    "text_en": "Some animals use poison to protect themselves",
+                    "value": "Some animals use poison to protect themselves"
+                },
+                {
+                    "text_en": "Some animals use their bones to protect themselves",
+                    "value": "Some animals use their bones to protect themselves"
+                },
+                {
+                    "text_en": "Some animals hide to protect themselves.",
+                    "value": "Some animals hide to protect themselves."
+                }
+            ]
+        }
+    ]
+}

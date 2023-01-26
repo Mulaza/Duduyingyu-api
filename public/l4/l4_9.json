@@ -21,7 +21,7 @@
     "test": [
         {
             "type": "scq",
-            "sentence": " what is the passage mostly about",
+            "sentence": " what is the passage mostly about ?",
             "hint": "N/A",
             "answer": [
                 "Plastic in the ocean"
@@ -47,7 +47,7 @@
         },
         {
             "type": "scq",
-            "sentence": " why do marine animals mistake plastic for food",
+            "sentence": " why do marine animals mistake plastic for food ?",
             "hint": "N/A",
             "answer": [
                 "Plastic breaks down into small pieces"
@@ -73,7 +73,7 @@
         },
         {
             "type": "scq",
-            "sentence": "recycling helps the ocean because ",
+            "sentence": "recycling helps the ocean because ?",
             "hint": "N/A",
             "answer": [
                 "It keeps trash out of the ocean"
@@ -99,7 +99,7 @@
         },
         {
             "type": "scq",
-            "sentence": " what are scientists worried about",
+            "sentence": " what are scientists worried about ?",
             "hint": "N/A",
             "answer": [
                 "The plastic could eventually hurt people"
